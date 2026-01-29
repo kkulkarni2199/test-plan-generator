@@ -1,0 +1,31 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::7.4",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "7.4",
+  "title": "According to Electrical Operation",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "\u2013 Not suitable for making and breaking an electrical  circuit under load for configurations type 2;"
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2014 Communication circuits according to this standard  are deemed not to make or break load as a result of this clause."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\7.4.json"
+}

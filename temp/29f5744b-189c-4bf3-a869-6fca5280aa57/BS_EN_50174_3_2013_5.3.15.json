@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.15",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.15",
+  "title": "Protection against lightning",
+  "parent_id": "5.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installer shall apply the solutions defined in the planning information."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The installer shall apply the solutions defined in the planning information."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.15.json"
+}

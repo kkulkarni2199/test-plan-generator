@@ -1,0 +1,23 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.11",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.11",
+  "title": "maintenance hole (for telecommunications)",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "vault/chamber located in the ground or earth as part of an underground conduit system and used to facilitate  placing, connectorisation, and maintenance of cables as well as the placing of associated equipment, in  which it is expected that a person will enter to perform work"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.11.json"
+}

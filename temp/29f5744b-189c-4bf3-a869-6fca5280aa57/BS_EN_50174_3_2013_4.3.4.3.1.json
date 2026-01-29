@@ -1,0 +1,117 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.4.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.4.3.1",
+  "title": "Requirements",
+  "parent_id": "4.3.4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conduit-based pathways take two forms:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) conduits, which may contain sub-conduits, into which cables are installed by either pulling or by blowing  by the use of compressed air or water in which case the combined performance of the conduit and the  cable construction shall provide the required environmental protection to the transmission media;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) conduits, which may contain sub-conduits, into which bundles of cable elements (typically optical fibre)  are installed by blowing by the use of compressed air; in which case the conduits shall provide the  required environmental protection to the cable elements."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The common term for such conduits and sub-conduits is ducts and sub-duct or microduct respectively. This does not match the definition of duct used by CLC/TC 213 who treat duct as non-circular conduit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless otherwise specified by national or local regulations the minimum planned depths of pathways shall be  in accordance with the requirements of Table 3, unless additional measures are to be applied to protect the  conduit(s). The depths indicated are additional to the diameters of the conduit(s) such that the top of the  installed conduit(s) shall meet the requirements of Table 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathways that do not meet the requirements of planned depths of Table 3 without effective mitigation are  considered to be sacrificial."
+    },
+    {
+      "type": "paragraph",
+      "text": "The width of the planned route shall allow adequate space for the installation process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conduit shall be selected to:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) withstand the predicted mechanical loading;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) avoid colours of cable management systems which are used exclusively by other services e.g. power,  gas, water;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) allow the installation and replacement of sub-conduits, cables or cable elements (as applicable)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where appropriate, the conduits, sub-conduits and accessories shall be able to support the air pressure  required to blow the cables or cable element."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements for marker tapes or equivalent products shall comply with national or local regulations."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "a) conduits, which may contain sub-conduits, into which cables are installed by either pulling or by blowing  by the use of compressed air or water in which case the combined performance of the conduit and the  cable construction shall provide the required environmental protection to the transmission media;"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "b) conduits, which may contain sub-conduits, into which bundles of cable elements (typically optical fibre)  are installed by blowing by the use of compressed air; in which case the conduits shall provide the  required environmental protection to the cable elements."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Unless otherwise specified by national or local regulations the minimum planned depths of pathways shall be  in accordance with the requirements of Table 3, unless additional measures are to be applied to protect the  conduit(s). The depths indicated are additional to the diameters of the conduit(s) such that the top of the  installed conduit(s) shall meet the requirements of Table 3."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The width of the planned route shall allow adequate space for the installation process."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Conduit shall be selected to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where appropriate, the conduits, sub-conduits and accessories shall be able to support the air pressure  required to blow the cables or cable element."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements for marker tapes or equivalent products shall comply with national or local regulations."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "213",
+      "3",
+      "Table 3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.4.3.1.json"
+}

@@ -1,0 +1,89 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.8.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.8.3.1",
+  "title": "Requirements",
+  "parent_id": "4.8.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Telecommunications cabinets shall be in accordance with the design guidelines of EN 61969-1 and  EN 61969-2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Telecommunications cabinets shall be located to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) minimise the impact on the surrounding environment;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) far as possible from any source of possible interference (e.g. electricity substation, aerial power supply  infrastructure, radio transmitters)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Furthermore,"
+    },
+    {
+      "type": "list_item",
+      "text": "1) accessible outside cabinets shall prevent vandalism;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) cabinets shall be labelled and identified according to the installation specification;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) any electrical or optical equipment in cabinets shall be installed in a way that avoids damage to it from  dust and water."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Telecommunications cabinets shall be in accordance with the design guidelines of EN 61969-1 and  EN 61969-2."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Telecommunications cabinets shall be located to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "1) accessible outside cabinets shall prevent vandalism;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "2) cabinets shall be labelled and identified according to the installation specification;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "3) any electrical or optical equipment in cabinets shall be installed in a way that avoids damage to it from  dust and water."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "61969"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": [
+      "EN 61969-1",
+      "EN 61969-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.8.3.1.json"
+}

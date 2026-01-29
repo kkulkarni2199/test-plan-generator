@@ -1,0 +1,39 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.2",
+  "title": "Documentation",
+  "parent_id": "4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "In addition to the documentation required by EN 50174-1, the information produced by observing the  requirements and recommendations of Clause 4 shall be provided to those installing the information  technology cabling."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "In addition to the documentation required by EN 50174-1, the information produced by observing the  requirements and recommendations of Clause 4 shall be provided to those installing the information  technology cabling."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4",
+      "50174",
+      "Clause 4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": [
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.2.json"
+}

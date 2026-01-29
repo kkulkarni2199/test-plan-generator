@@ -1,0 +1,59 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.10.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.10.1.1",
+  "title": "Requirements",
+  "parent_id": "5.3.10.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installer shall identify proposed locations, the accessibility and availability of maintenance holes  according to the installation schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cable entrance to maintenance hole shall:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) maintain the environmental and functional conditions of the maintenance hole;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) provide the necessary cable support and prevent kinking at the point of entry;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) provide strain relief for the cable if not already done by separate fixtures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Covers of maintenance holes shall be sized according to the maximum foreseeable load."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The installer shall identify proposed locations, the accessibility and availability of maintenance holes  according to the installation schedule."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The cable entrance to maintenance hole shall:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Covers of maintenance holes shall be sized according to the maximum foreseeable load."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.10.1.1.json"
+}

@@ -1,0 +1,87 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.7.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.7.1.1",
+  "title": "General",
+  "parent_id": "4.3.7.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Aerial pathways may comprise:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) poles, towers, catenary (or suspension) wires, anchor (or guy) wires, stays, struts and closures  see Table 4 for a non-exhaustive list of design and planning issues;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) self-supporting cables, which may include a catenary wire  see Table 4 for a non-exhaustive list of  design and planning issues."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aerial pathways may support:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) cable constructions which shall provide the required environmental protection to the transmission media;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) conduits, which may contain sub-conduits, into which bundles of cable elements (typically optical fibre)  are installed by blowing by the use of compressed air; in which case the conduits shall provide the  required environmental protection to the cable elements."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The common term for such conduits and sub-conduits is ducts and sub-duct or microduct respectively. This does not match the  definition of duct used by CLC/TC 213 who treat duct as non-circular conduit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dedicated aerial pathways \u2212 pole type \u2212 pole height \u2212 burial depth of pole \u2212 poles anchors \u2212 pole stays (struts) \u2212 pole spacing \u2212 slack span \u2212 pole to building span \u2212 earthing \u2212 clearance and separation \u2212 pole attachment \u2212 lashing \u2212 riser protection \u2212 catenary wire  \u2212 catenary wire tension \u2212 cable sag"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Aerial pathways may comprise:"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "b) self-supporting cables, which may include a catenary wire  see Table 4 for a non-exhaustive list of  design and planning issues."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Aerial pathways may support:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "1) cable constructions which shall provide the required environmental protection to the transmission media;"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "2) conduits, which may contain sub-conduits, into which bundles of cable elements (typically optical fibre)  are installed by blowing by the use of compressed air; in which case the conduits shall provide the  required environmental protection to the cable elements."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "213",
+      "4",
+      "Table 4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.7.1.1.json"
+}

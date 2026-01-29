@@ -1,0 +1,33 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.12",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.12",
+  "title": "Protection against very low frequency fields",
+  "parent_id": "5.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installer shall apply the solutions defined in the planning information. See A.3.1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The installer shall apply the solutions defined in the planning information. See A.3.1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "3.1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3.1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.12.json"
+}

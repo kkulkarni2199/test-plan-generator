@@ -1,0 +1,64 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.2.5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.2.5",
+  "title": "Contact resistance",
+  "parent_id": "6.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-2-1, Test 2a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: Initial: 1,5 m\u03a9 max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Final: 3 m\u03a9 max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-2-1, Essai 2a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: R\u00e9sistance initiale: 1,5 m\u03a9 max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Final: 3 m\u03a9 max."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "IEC 60512-2-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.2.5.json"
+}

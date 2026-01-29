@@ -1,0 +1,45 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.4.6.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.4.6.1",
+  "title": "Requirements",
+  "parent_id": "5.3.4.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Metallic elements of the pathway system shall be earthed in accordance with the planning information. The  connections shall be safeguarded against corrosion and a good electrical contact between all parts ensured  (maintenance periods may be dependent upon the environment, see EN 50174-1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ends of any conduits or sub-conduits that are not intended to be subjected to the imminent installation of  cables or cable elements shall be sealed to prevent ingress of water."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Metallic elements of the pathway system shall be earthed in accordance with the planning information. The  connections shall be safeguarded against corrosion and a good electrical contact between all parts ensured  (maintenance periods may be dependent upon the environment, see EN 50174-1)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The ends of any conduits or sub-conduits that are not intended to be subjected to the imminent installation of  cables or cable elements shall be sealed to prevent ingress of water."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.4.6.1.json"
+}

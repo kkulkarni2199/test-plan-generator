@@ -1,0 +1,74 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.2.6",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.2.6",
+  "title": "Insulation resistance",
+  "parent_id": "6.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-3-1, Test 3a, method A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Test voltage: 500 V DC \u00b1 50 V DC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: Initial: between contacts, contacts and metal housing: 5 000 M\u03a9 min."
+    },
+    {
+      "type": "paragraph",
+      "text": "Final: between contacts, contacts and metal housing: 100 M\u03a9 min."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-3-1, Essai 3a, m\u00e9thode A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tension d'essai: 500 V CC \u00b1 50 V CC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: Initiale: entre contacts, et entre contacts et bo\u00eetier m\u00e9tallique: 5 000 M\u03a9 min."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finale: entre contacts, et entre contacts et bo\u00eetier m\u00e9tallique: 100 M\u03a9 min."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "000",
+      "1",
+      "100",
+      "3",
+      "5",
+      "50",
+      "500",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "IEC 60512-3-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.2.6.json"
+}

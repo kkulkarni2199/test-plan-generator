@@ -1,0 +1,60 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.4.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.4.1.1",
+  "title": "Introduction",
+  "parent_id": "4.3.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Underground pathways may be:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) dedicated to the installation of information technology cables (e.g. direct buried cable, buried conduit)  see Table 2 for a non-exhaustive list of design and planning issues;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) shared with other services (e.g. a utility tunnel designed to deliver electricity, steam or water)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology cabling pathways within utility tunnels may consist of indoor pathway systems in  accordance with EN 50174-2."
+    }
+  ],
+  "tables": [
+    {
+      "number": "2",
+      "caption": "Table 2 Design and planning of underground pathways",
+      "html": "<table><tbody><tr><th></th><th></th></tr><tr><th></th><th>Dedicated underground pathways</th></tr><tr><th>\u2212</th><th>excavation;</th></tr><tr><th>\u2212</th><th>clearances and separations from other utilities;</th></tr><tr><th>\u2212</th><th>depth of burial;</th></tr><tr><th>\u2212</th><th>buried road and rail crossings;</th></tr><tr><th>\u2212</th><th>casing;</th></tr><tr><th>\u2212</th><th>trenching;</th></tr><tr><th>\u2212</th><th>boring (pipe pushing);</th></tr><tr><th>\u2212</th><th>ploughing;</th></tr><tr><th>\u2212</th><th>backfill;</th></tr><tr><th>\u2212</th><th>landscape restoration.</th></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Underground pathways may be:"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Information technology cabling pathways within utility tunnels may consist of indoor pathway systems in  accordance with EN 50174-2."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "2",
+      "50174",
+      "Table 2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 50174-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.4.1.1.json"
+}

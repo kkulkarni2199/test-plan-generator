@@ -1,0 +1,82 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.1",
+  "title": "General",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This test schedule shows the tests subdivided in test groups and within each group the order in  which they shall be carried out, as well as the requirements to be met."
+    },
+    {
+      "type": "paragraph",
+      "text": "The preliminary test group P applies to all specimens, whose number is the sum of the number  of specimens specified for each subsequent test group, which may then run independently from  each other."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the following, a mated set of connectors is called a specimen."
+    },
+    {
+      "type": "paragraph",
+      "text": "The necessary specimens are stated in Table 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le programme d'essais indique les essais subdivis\u00e9s en groupes d'essais et au sein de chaque  groupe l'ordre dans lequel ils doivent \u00eatre r\u00e9alis\u00e9s, ainsi que les exigences \u00e0 satisfaire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le groupe d'essais pr\u00e9liminaires P s'applique \u00e0 tous les sp\u00e9cimens, dont le nombre est \u00e9gal \u00e0  la somme du nombre de sp\u00e9cimens sp\u00e9cifi\u00e9s pour chaque groupe d'essais ult\u00e9rieurs, qui  peuvent alors fonctionner ind\u00e9pendamment les uns des autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Par la suite, une paire de connecteurs accoupl\u00e9s est appel\u00e9e \"sp\u00e9cimen\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre de sp\u00e9cimens n\u00e9cessaires est d\u00e9fini dans le Tableau 6."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 6 \u2013 Nombre de sp\u00e9cimens"
+    }
+  ],
+  "tables": [
+    {
+      "number": "6",
+      "caption": "Table 6 - Number of test specimens",
+      "html": "<table><tbody><tr><th>Test group</th><th>AP</th><th>\u0412\u0420</th><th>\u0421\u0420</th><th>DP</th><th>EP</th><th>FP</th><th>GP</th><th>HP</th></tr><tr><td>Test specimens</td><td>3</td><td>6</td><td>3</td><td>3</td><td>3</td><td>Not applicable</td><td>3</td><td>3</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Groupe d'essais</th><th>AP</th><th>BP</th><th>CP</th><th>DP</th><th>EP</th><th>FP</th><th>GP</th><th>HP</th></tr><tr><td>Sp\u00e9cimens d'essai</td><td>3</td><td>6</td><td>3</td><td>3</td><td>3</td><td>Non applicable</td><td>3</td><td>3</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "This test schedule shows the tests subdivided in test groups and within each group the order in  which they shall be carried out, as well as the requirements to be met."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The preliminary test group P applies to all specimens, whose number is the sum of the number  of specimens specified for each subsequent test group, which may then run independently from  each other."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "6",
+      "Table 6"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.1.json"
+}

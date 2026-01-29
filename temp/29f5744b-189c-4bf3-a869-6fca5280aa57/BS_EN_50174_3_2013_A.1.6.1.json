@@ -1,0 +1,23 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.6.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.6.1",
+  "title": "General",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Electricity supply installations such as high and medium voltage lines and transformers, high-voltage  distribution bus bar systems and electric traction installations create low frequency (electric and magnetic)  fields which can disturb information technology equipment and installations."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.6.1.json"
+}

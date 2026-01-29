@@ -1,0 +1,55 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.6.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.6.3",
+  "title": "Installation guidelines",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Some local codes impose other restrictions and requirements and will in most cases take precedence over  other guidelines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoid loops as explained in A.1 and shown in Figure A.4. Install instead as shown in Figure A.5."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.5  Earthing arrangement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Arrange the high-voltage distribution bus bar system in such a way as to minimise the emission of magnetic  fields."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avoid installing information technology equipment near to disturbing sources."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_1_6_3\\figure_1_page_82_picture_2.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 41445
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4",
+      "5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.6.3.json"
+}

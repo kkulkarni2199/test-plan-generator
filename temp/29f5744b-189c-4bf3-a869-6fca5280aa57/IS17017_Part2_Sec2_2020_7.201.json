@@ -1,0 +1,27 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::7.201",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "7.201",
+  "title": "According to the Standard Sheet used",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "\u2013 Configuration type 2."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\7.201.json"
+}

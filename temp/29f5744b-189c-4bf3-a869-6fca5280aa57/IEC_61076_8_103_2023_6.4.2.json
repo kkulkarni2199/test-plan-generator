@@ -1,0 +1,76 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.4.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.4.2",
+  "title": "Shock",
+  "parent_id": "6.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-6-3, Test 6c."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acceleration: 500 m/s2, duration: 11 ms, half-sine wave, 3 shocks in each axes and direction,  3 axes mutually perpendicular to each other."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: 1 \u03bcs max. of duration of disturbance during the test. The appearance, contact  resistance (6.2.5), engaging and separating forces (6.3.4) and IP degree of protection(6.4.4) shall meet the requirements of this specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-6-3, Essai 6c."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acc\u00e9l\u00e9ration: 500 m/s2, dur\u00e9e: 11 ms, onde semi-sinuso\u00efdale, 3 chocs selon chaque axe et  dans chaque direction, 3 axes perpendiculaires les uns aux autres."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: Dur\u00e9e de perturbation max. de 1 \u03bcs pendant l'essai. L'aspect, la r\u00e9sistance de  contact (6.2.5), les forces d'accouplement et de d\u00e9saccouplement (6.3.4) ainsi que le degr\u00e9 de  protection IP (6.4.4) doivent satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: 1 \u03bcs max. of duration of disturbance during the test. The appearance, contact  resistance (6.2.5), engaging and separating forces (6.3.4) and IP degree of protection(6.4.4) shall meet the requirements of this specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "11",
+      "3",
+      "500",
+      "6",
+      "6.2.5",
+      "6.3.4",
+      "6.4.4",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::6.2.5",
+      "IEC_61076_8_103_2023::6.3.4",
+      "IEC_61076_8_103_2023::6.4.4"
+    ],
+    "standards": [
+      "IEC 60512-6-3"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.4.2.json"
+}

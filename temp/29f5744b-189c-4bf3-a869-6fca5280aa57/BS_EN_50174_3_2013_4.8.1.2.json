@@ -1,0 +1,146 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.8.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.8.1.2",
+  "title": "Requirements",
+  "parent_id": "4.8.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Spaces shall not be located in emergency escape ways (where they obstruct)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The spaces and structures shall be located such that it is possible for subsequent measurements, repair,  expansion or extension of the installed cabling to be undertaken with minimal disruption and in safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spaces and structures shall be designed to survive the estimated risk and shall be constructed and installed  in accordance with the required design."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimensions of spaces shall take into account the initial volume and future expansion of information  technology cabling and associated equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "All openings to spaces and structures shall maintain the environmental performance of the space or  structure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cable entrances to spaces and structures shall:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) be provided with the necessary cable support to prevent kinking at the point of entry,"
+    },
+    {
+      "type": "list_item",
+      "text": "b) provide strain relief for the cable if not already done by separate fixtures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material used to construct spaces and structures shall resist deterioration when exposed to sunlight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the spaces and structures are intended to contain active equipment:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) the temperature and humidity shall be maintained to allow continuous operation of the active equipment;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) adequate power supply shall be provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "The location of the spaces and structures and any relevant mounting shall be capable of supporting the  loads applied during the construction of the structure and does not exceed the loading limit of the supporting  structure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Spaces shall be located to provide appropriate levels of security (restricted access) to the cabling and  equipment to be contained within them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Signage shall be in accordance with the security plan for the premises."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Spaces shall not be located in emergency escape ways (where they obstruct)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The spaces and structures shall be located such that it is possible for subsequent measurements, repair,  expansion or extension of the installed cabling to be undertaken with minimal disruption and in safety."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Spaces and structures shall be designed to survive the estimated risk and shall be constructed and installed  in accordance with the required design."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Dimensions of spaces shall take into account the initial volume and future expansion of information  technology cabling and associated equipment."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "All openings to spaces and structures shall maintain the environmental performance of the space or  structure."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cable entrances to spaces and structures shall:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Material used to construct spaces and structures shall resist deterioration when exposed to sunlight."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "1) the temperature and humidity shall be maintained to allow continuous operation of the active equipment;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "2) adequate power supply shall be provided."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The location of the spaces and structures and any relevant mounting shall be capable of supporting the  loads applied during the construction of the structure and does not exceed the loading limit of the supporting  structure."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Spaces shall be located to provide appropriate levels of security (restricted access) to the cabling and  equipment to be contained within them."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Signage shall be in accordance with the security plan for the premises."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.8.1.2.json"
+}

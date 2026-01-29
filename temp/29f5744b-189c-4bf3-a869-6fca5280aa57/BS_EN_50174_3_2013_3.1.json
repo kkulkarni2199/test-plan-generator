@@ -1,0 +1,55 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1",
+  "title": "Terms and definitions",
+  "parent_id": "3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this document, the terms and definitions given in EN 50174-1 and the following apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the cabling is designed in accordance with standards in EN 50173 series, the additional definitions of  those standards are applicable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "50173",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50173",
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [
+    "3.1.1",
+    "3.1.2",
+    "3.1.3",
+    "3.1.4",
+    "3.1.5",
+    "3.1.6",
+    "3.1.7",
+    "3.1.8",
+    "3.1.9",
+    "3.1.10",
+    "3.1.11",
+    "3.1.12",
+    "3.1.13",
+    "3.1.14",
+    "3.1.15",
+    "3.1.16",
+    "3.1.17",
+    "3.1.18"
+  ],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.json"
+}

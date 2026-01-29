@@ -1,0 +1,30 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::6.201",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "6.201",
+  "title": "Communication and Control Pilot Function",
+  "parent_id": "6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The control pilot and proximity detection or connection  contacts are intended to be used in accordance with IS  17017(Part 1)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1"
+    ],
+    "standards": [
+      "IS  17017"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\6.201.json"
+}

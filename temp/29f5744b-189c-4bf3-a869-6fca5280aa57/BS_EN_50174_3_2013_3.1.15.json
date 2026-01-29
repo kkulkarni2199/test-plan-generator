@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.15",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.15",
+  "title": "service provider",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "operator of any service that furnishes telecommunications content (transmissions) delivered over access  provider facilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1 to entry: The access provider and the service provider can be a single entity"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.15.json"
+}

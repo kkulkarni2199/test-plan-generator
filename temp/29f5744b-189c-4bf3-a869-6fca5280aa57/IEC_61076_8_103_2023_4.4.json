@@ -1,0 +1,33 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.4",
+  "title": "Classification into climatic categories",
+  "parent_id": "4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Classification into climatic category is specified in 6.1."
+    },
+    {
+      "type": "paragraph",
+      "text": "La classification en cat\u00e9gories climatiques est sp\u00e9cifi\u00e9e en 6.1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "6.1"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6.1"
+    ],
+    "standards": [
+      "en 6.1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.4.json"
+}

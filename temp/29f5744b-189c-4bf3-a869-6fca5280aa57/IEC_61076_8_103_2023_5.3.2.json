@@ -1,0 +1,54 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.3.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.3.2",
+  "title": "Dimensions",
+  "parent_id": "5.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dimensions in mm"
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 1 \u2013 Dimensions d'une fiche"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimensions exprim\u00e9es en mm"
+    }
+  ],
+  "tables": [
+    {
+      "number": "1",
+      "caption": "Table 1 \u2013 Free connector dimensions",
+      "html": "<content-ref src='/page/16/Reference/314'></content-ref><table><tbody><tr><th>Letter</th><th>Minimum</th><th>Nominal</th><th>Maximum</th></tr><tr><th>A</th><th>\u03a62,3</th><th>\u03a62,3</th><th>\u03a62,4</th></tr><tr><td>B</td><td>\u03a64,4</td><td>\u03a64,5</td><td>\u03a64,5</td></tr><tr><td>C</td><td>\u03a615,05</td><td>\u03a615,10</td><td>\u03a615,15</td></tr><tr><td>D</td><td>\u03a617,85</td><td>\u03a617,90</td><td>\u03a617,90</td></tr><tr><td>E</td><td>\u03a622,6</td><td>\u03a622,6</td><td>\u03a622,71</td></tr><tr><td>F</td><td>\u03a624,75</td><td>\u03a624,80</td><td>\u03a624,86</td></tr><tr><td>G</td><td>\u03a626,97</td><td>\u03a627,3</td><td>\u03a627,3</td></tr><tr><td>H</td><td>1,45</td><td>1,5</td><td>1,55</td></tr><tr><td>I</td><td>5,65</td><td>5,7</td><td>5,75</td></tr><tr><td>J</td><td>8,15</td><td>8,2</td><td>8,25</td></tr><tr><td>K</td><td>9,45</td><td>9,5</td><td>9,55</td></tr><tr><td>L</td><td>14,2</td><td>-</td><td>-</td></tr><tr><td>M</td><td>14,5</td><td>-</td><td>-</td></tr><tr><td>N</td><td>\u03a616,80</td><td>\u03a616,85</td><td>\u03a616,85</td></tr><tr><td>O</td><td>R0,75</td><td>R0,8</td><td>R0,85</td></tr><tr><td>P</td><td>2,1</td><td>2,1</td><td>2,2</td></tr><tr><td>Q</td><td>5,95</td><td>6</td><td>6,05</td></tr><tr><td>R</td><td>R2,4</td><td>R2,5</td><td>R2,5</td></tr><tr><td>S</td><td>2,4</td><td>2,5</td><td>2,5</td></tr><tr><td>T</td><td>3,95</td><td>4</td><td>4,05</td></tr><tr><td>U</td><td>6,85</td><td>6,90</td><td>6,95</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": "Figure 3 \u2013 Fiche",
+      "html": "<content-ref src='/page/48/Reference/299'></content-ref><table><tbody><tr><th>Cote</th><th>Valeur minimale</th><th>Nominale</th><th>Maximale</th></tr><tr><td>A</td><td>\u03a62,3</td><td>\u03a62,3</td><td>\u03a62,4</td></tr><tr><td>B</td><td>\u03a64,4</td><td>\u03a64,5</td><td>\u03a64,5</td></tr><tr><td>C</td><td>\u03a615,05</td><td>\u03a615,10</td><td>\u03a615,15</td></tr><tr><td>D</td><td>\u03a617,85</td><td>\u03a617,90</td><td>\u03a617,90</td></tr><tr><td>E</td><td>\u03a622,6</td><td>\u03a622,6</td><td>\u03a622,71</td></tr><tr><td>F</td><td>\u03a624,75</td><td>\u03a624,80</td><td>\u03a624,86</td></tr><tr><td>G</td><td>\u03a626,97</td><td>\u03a627,3</td><td>\u03a627,3</td></tr><tr><td>H</td><td>1,45</td><td>1,5</td><td>1,55</td></tr><tr><td>I</td><td>5,65</td><td>5,7</td><td>5,75</td></tr><tr><td>J</td><td>8,15</td><td>8,2</td><td>8,25</td></tr><tr><td>K</td><td>9,45</td><td>9,5</td><td>9,55</td></tr><tr><td>L</td><td>14,2</td><td>-</td><td>-</td></tr><tr><td>M</td><td>14,5</td><td>-</td><td>-</td></tr><tr><td>N</td><td>\u03a616,80</td><td>\u03a616,85</td><td>\u03a616,85</td></tr><tr><td>O</td><td>R0,75</td><td>R0,8</td><td>R0,85</td></tr><tr><td>P</td><td>2,1</td><td>2,1</td><td>2,2</td></tr><tr><td>Q</td><td>5,95</td><td>6</td><td>6,05</td></tr><tr><td>R</td><td>R2,4</td><td>R2,5</td><td>R2,5</td></tr><tr><td>S</td><td>2,4</td><td>2,5</td><td>2,5</td></tr><tr><td>T</td><td>3,95</td><td>4</td><td>4,05</td></tr><tr><td>U</td><td>6,85</td><td>6,90</td><td>6,95</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\IEC_61076_8_103_2023\\5_3_2\\figure_1_page_15_picture_6.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 95622
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.3.2.json"
+}

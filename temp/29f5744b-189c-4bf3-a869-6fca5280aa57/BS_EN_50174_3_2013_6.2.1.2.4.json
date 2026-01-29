@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.2.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.2.4",
+  "title": "Recommendations (EMI)",
+  "parent_id": "6.2.1.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "None."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE Further information with regard to the interference to information technology cabling from other services is given, for instance, in  HD 637 S1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "637"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "HD 637"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.2.4.json"
+}

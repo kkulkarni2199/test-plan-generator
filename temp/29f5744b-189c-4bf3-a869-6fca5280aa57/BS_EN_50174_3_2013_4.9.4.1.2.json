@@ -1,0 +1,88 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.4.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.4.1.2",
+  "title": "Recommendations",
+  "parent_id": "4.9.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "It is assumed that buildings are provided with BEFs in accordance with EN 50174-2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cables should enter buildings as close as possible to any conducting pipes (e.g. gas, water, heating) in order to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) minimise induction loops,"
+    },
+    {
+      "type": "list_item",
+      "text": "b) assist the earthing and bonding arrangements."
+    },
+    {
+      "type": "paragraph",
+      "text": "The entrance point inside the building should be located in the basement or at least at the ground floor. It is  recommended that the cable ducts are arranged as shown in Figure 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "Structual metallic elements of cables (e.g. armouring or strength members) and cable screens should be  directly connected to earth provided that:"
+    },
+    {
+      "type": "list_item",
+      "text": "\u2212 corrective actions have been implemented for hazards caused by earth potential rise (EPR) between  buildings;"
+    },
+    {
+      "type": "list_item",
+      "text": "\u2212 any circulating currents, due to potential differences between buildings, will not disturb or damage  services."
+    },
+    {
+      "type": "paragraph",
+      "text": "Surge protection devices should be installed at all building entrances if the information technology cable  contains metallic cable elements (see 4.9.8) and where inadequate protective measures have been provided  in the external information technology network. Surge protection devices should be fitted to all pairs and  located as close as possible to the main earth terminal of the building."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Cables should enter buildings as close as possible to any conducting pipes (e.g. gas, water, heating) in order to:"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The entrance point inside the building should be located in the basement or at least at the ground floor. It is  recommended that the cable ducts are arranged as shown in Figure 6."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Structual metallic elements of cables (e.g. armouring or strength members) and cable screens should be  directly connected to earth provided that:"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Surge protection devices should be installed at all building entrances if the information technology cable  contains metallic cable elements (see 4.9.8) and where inadequate protective measures have been provided  in the external information technology network. Surge protection devices should be fitted to all pairs and  located as close as possible to the main earth terminal of the building."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "2",
+      "4.9.8",
+      "50174",
+      "6",
+      "Figure 6"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4.9.8",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": [
+      "EN 50174-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.4.1.2.json"
+}

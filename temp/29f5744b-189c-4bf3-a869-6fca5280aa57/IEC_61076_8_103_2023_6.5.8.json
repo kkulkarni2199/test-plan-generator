@@ -1,0 +1,68 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.5.8",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.5.8",
+  "title": "Flowing mixed gas corrosion",
+  "parent_id": "6.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC60512-11-7, Test 11g;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 4 days, test method 4 according to IEC 60068-2-60."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the appearance, the contact resistance (6.2.6) and engaging and separating  force (6.3.4) shall meet the requirements of this specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-7, Essai 11g."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dur\u00e9e: 4 jours, m\u00e9thode d'essai 4 selon l'IEC 60068-2-60."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: l'aspect, la r\u00e9sistance de contact (6.2.6) et les forces d'accouplement et de  d\u00e9saccouplement (6.3.4) doivent satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s  essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the appearance, the contact resistance (6.2.6) and engaging and separating  force (6.3.4) shall meet the requirements of this specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "11",
+      "2",
+      "4",
+      "6.2.6",
+      "6.3.4",
+      "60",
+      "60068",
+      "60512",
+      "7"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::6.2.6",
+      "IEC_61076_8_103_2023::6.3.4",
+      "IEC_61076_8_103_2023::7"
+    ],
+    "standards": [
+      "IEC 60068-2-60",
+      "IEC 60512-11-7"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.5.8.json"
+}

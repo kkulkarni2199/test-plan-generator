@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.7.3.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.7.3.3",
+  "title": "Recommendations",
+  "parent_id": "4.3.7.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For distances above 50 m, additional connections of the parallel earthing conductor to earth should be  implemented at irregular intervals including points of deviations from a straight line (as per plan). These  connections provide an early return path for the disturbance current through the PEC."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "For distances above 50 m, additional connections of the parallel earthing conductor to earth should be  implemented at irregular intervals including points of deviations from a straight line (as per plan). These  connections provide an early return path for the disturbance current through the PEC."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "50"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.7.3.3.json"
+}

@@ -1,0 +1,72 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.3.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.3.4",
+  "title": "Engaging and separating forces",
+  "parent_id": "6.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Condition: IEC 60512-13-1, Test 13a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rate of engagement and separation: 10 mm/s max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: engaging force: 100 N max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Separating force: 3 N to 80 N."
+    },
+    {
+      "type": "paragraph",
+      "text": "Condition: IEC 60512-13-1, Essai 13a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Taux d'accouplement et de d\u00e9saccouplement: 10 mm/s max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: force d'accouplement: 100 N max."
+    },
+    {
+      "type": "paragraph",
+      "text": "Force de d\u00e9saccouplement: 3 N \u00e0 80 N."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "10",
+      "100",
+      "13",
+      "3",
+      "60512",
+      "80"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::3"
+    ],
+    "standards": [
+      "IEC 60512-13-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.3.4.json"
+}

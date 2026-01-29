@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.1.9",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.1.9",
+  "title": "Termination points",
+  "parent_id": "4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Termination points for both information technology cables and power supply cables shall be located and  oriented in such a way as to prevent ingress of moisture or other contaminants and to reduce the risk of  damage to the cables connected to them. Connecting hardware selected for information technology cabling  shall not be interchangeable with the sockets or plugs used for power supply distribution."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Termination points for both information technology cables and power supply cables shall be located and  oriented in such a way as to prevent ingress of moisture or other contaminants and to reduce the risk of  damage to the cables connected to them. Connecting hardware selected for information technology cabling  shall not be interchangeable with the sockets or plugs used for power supply distribution."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.1.9.json"
+}

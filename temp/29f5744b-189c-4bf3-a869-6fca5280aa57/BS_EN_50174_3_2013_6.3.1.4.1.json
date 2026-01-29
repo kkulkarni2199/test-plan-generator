@@ -1,0 +1,52 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.3.1.4.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.3.1.4.1",
+  "title": "Requirements (safety) of infrastructures carrying &lt; AC 25 kV",
+  "parent_id": "6.3.1.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The information technology cabling shall be supported such that the minimum vertical distance on the  supporting structures between power supply and information technology cabling and fittings, is at least  2,0 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum separation at any point, allowing for sag produced by operating and environmental conditions,  between information technology cables and insulated power supply cables shall be 2,0 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Earthing systems for information technology cabling shall not be installed on supporting structures  containing, or intended to contain, the earthing systems of the power supply cabling."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information technology cabling shall be supported such that the minimum vertical distance on the  supporting structures between power supply and information technology cabling and fittings, is at least  2,0 m."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The minimum separation at any point, allowing for sag produced by operating and environmental conditions,  between information technology cables and insulated power supply cables shall be 2,0 m."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Earthing systems for information technology cabling shall not be installed on supporting structures  containing, or intended to contain, the earthing systems of the power supply cabling."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.3.1.4.1.json"
+}

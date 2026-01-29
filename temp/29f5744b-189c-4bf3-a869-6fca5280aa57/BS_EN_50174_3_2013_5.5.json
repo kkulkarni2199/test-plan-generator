@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.5",
+  "title": "Testing",
+  "parent_id": "5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "If required by the quality plan, final cabling inspection and tests shall be undertaken as soon as practicable  following marking, labelling and fitting of all components associated with the telecommunications cabling into  their final locations."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "If required by the quality plan, final cabling inspection and tests shall be undertaken as soon as practicable  following marking, labelling and fitting of all components associated with the telecommunications cabling into  their final locations."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.5.json"
+}

@@ -1,0 +1,21 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.8.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.8.4",
+  "title": "Optical fibre cabling",
+  "parent_id": "5.3.8",
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "5.3.8.4.1",
+    "5.3.8.4.2"
+  ],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.8.4.json"
+}

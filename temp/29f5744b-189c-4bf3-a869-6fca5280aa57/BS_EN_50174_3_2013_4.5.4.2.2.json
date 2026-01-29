@@ -1,0 +1,60 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.4.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.4.2.2",
+  "title": "Requirements for metallic information technology cables",
+  "parent_id": "4.5.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The positioning of the fittings on the supporting structures shall be in accordance with the segregation  requirements of Clause 6 and shall be arranged to allow staff access to the circuits mounted above them  without risk of accident."
+    },
+    {
+      "type": "paragraph",
+      "text": "On conducting structures, all fittings and closures of the information technology system shall be either:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) insulated from the supporting structure or"
+    },
+    {
+      "type": "list_item",
+      "text": "b) connected to the earth of power supply system; this connection also includes that of accessible  conductive elements (other than signal conductors) of the cables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conductive elements of the catenary and IT cables (not signal conductors) and closures shall be earthed at  least at the ends of the shared routes."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The positioning of the fittings on the supporting structures shall be in accordance with the segregation  requirements of Clause 6 and shall be arranged to allow staff access to the circuits mounted above them  without risk of accident."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "On conducting structures, all fittings and closures of the information technology system shall be either:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Conductive elements of the catenary and IT cables (not signal conductors) and closures shall be earthed at  least at the ends of the shared routes."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "6",
+      "Clause 6"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.4.2.2.json"
+}

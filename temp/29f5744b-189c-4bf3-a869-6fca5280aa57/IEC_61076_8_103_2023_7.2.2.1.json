@@ -1,0 +1,96 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2.2.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2.2.1",
+  "title": "Test group P \u2013 Preliminary",
+  "parent_id": "7.2.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "All specimens shall be subject to the following tests. See Table 7."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tous les sp\u00e9cimens doivent \u00eatre soumis aux essais suivants. Voir le Tableau 7."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 7 - Groupe d'essais P"
+    },
+    {
+      "type": "footnote",
+      "text": "7.2.2.2 Groupe d'essais AP \u2013 Essais dynamiques/climatiques"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre de sp\u00e9cimens sp\u00e9cifi\u00e9s dans le Tableau 6 doit \u00eatre soumis aux essais suivants. Voir le Tableau 8."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 8 \u2013 Groupe d'essais AP"
+    },
+    {
+      "type": "footnote",
+      "text": "a L'essai AP25 peut \u00eatre r\u00e9alis\u00e9 avec un sp\u00e9cimen suppl\u00e9mentaire, ce qui augmente de 1 le nombre total de  sp\u00e9cimens."
+    }
+  ],
+  "tables": [
+    {
+      "number": "7",
+      "caption": "Table 7 - Test group P",
+      "html": "<content-ref src='/page/24/Reference/137'></content-ref><table><tbody><tr><th rowspan=2>Test<br>phase</th><th></th><th>Te</th><th>st</th><th>Measuremer<br>perform</th><th colspan=2>Requirements</th></tr><tr><th>Title</th><th>IEC 60512<br>Test NO.</th><th>Severity or condition of test</th><th>Title</th><th>IEC 60512<br>Test NO.</th><th></th></tr><tr><td rowspan=2>P1 General examination</td><td></td><td rowspan=2>1</td><td rowspan=2>Unmated connectors</td><td>Visual examination</td><td>1a</td><td>No defect that would impair normal operation</td></tr><tr><td>examination</td><td>Examination of dimensions <sup>a</sup></td><td>1b</td><td>The dimensions shall comply with those specified in 5.3 and 5.4</td></tr><tr><td></td><td>Polarizing</td><td></td><td></td><td></td><td></td><td>Shall be as per 6.3.6</td></tr><tr><td></td><td>and keying<br>method</td><td>keying 13e</td><td>150 N</td><td></td><td></td><td>No defect that would impair normal operation.</td></tr><tr><td>\u04203</td><td></td><td></td><td></td><td>Contact<br>resistance\u2013<br>Millivolt level<br>method</td><td>2a</td><td>Shall be as per 6.2.5</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Shall be as per 6.2.6</td></tr><tr><td>P4</td><td></td><td></td><td>Method A, test voltage:<br>500 V DC \u00b1 50 V DC</td><td>Insulation resistance</td><td>3a</td><td>Between contacts, contacts and metal housing: 5000 M\u03a9 min.</td></tr><tr><td>P5</td><td></td><td></td><td>Method A, duration: 1 min\n\nBetween contacts,</td><td>Voltage proof</td><td>4a</td><td>Shall be as per 6.2.2</td></tr><tr><td></td><td colspan=2></td><td>contacts and metal<br>housing: 4 000 V AC<br>min.</td><td></td><td></td><td>No breakdown or flashover.</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/57/Reference/88'></content-ref><table><tbody><tr><th></th><th></th><th>Ess</th><th>ai</th><th>Mesure \u00e0 eff</th><th>Exigences</th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC 60512</th><th>S\u00e9v\u00e9rit\u00e9 ou<br>condition de l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC 60512</th><th></th></tr><tr><td>P1</td><td rowspan=2>Examen<br>g\u00e9n\u00e9ral</td><td rowspan=2>1</td><td rowspan=2>Connecteurs<br>d\u00e9saccoupl\u00e9s</td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de<br>nuire au<br>fonctionnement<br>normal</td></tr><tr><td></td><td>Examen des dimensions <sup>a</sup></td><td>1b</td><td>Les dimensions<br>doivent satisfaire \u00e0<br>celles sp\u00e9cifi\u00e9es<br>en 5.3 et 5.4</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Doit \u00eatre comme indiqu\u00e9 en 6.3.6</td></tr><tr><td>P2</td><td>M\u00e9thode de<br>polarisation<br>et de<br>codage</td><td>13e</td><td>150 N</td><td></td><td></td><td>Aucun d\u00e9faut<br>susceptible de<br>nuire au<br>fonctionnement<br>normal</td></tr><tr><td>\u04203</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013<br>M\u00e9thode du<br>niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>1,5 m\u03a9 max.</td></tr><tr><td></td><td></td><td></td><td>M\u00e1thada A tanaian</td><td></td><td></td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.6</td></tr><tr><td>P4</td><td></td><td></td><td>M\u00e9thode A, tension<br>d'essai: 500 V CC<br>\u00b1 50 V CC</td><td>R\u00e9sistance<br>d'isolement</td><td>3\u0430</td><td>Entre contacts, et entre contacts et bo\u00eetier m\u00e9tallique: 5 000 M\u03a9 min.</td></tr><tr><td>P5</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e:\n1 min\nEntre contacts, et\nentre contacts et\nbo\u00eetier m\u00e9tallique:\n4 000 V en courant\nalternatif min.</td><td>Tension de<br>tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/58/Reference/551'></content-ref><table><tbody><tr><th></th><th></th><th></th><th>Essai</th><th>Mesure \u00e0 effectuer</th><th colspan=2></th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>Exigences</th></tr><tr><td></td><td>Force de<br>r\u00e9tention du<br>calibre</td><td></td><td></td><td></td><td></td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.3</td></tr><tr><td>AP1</td><td>(contacts<br>\u00e9lastiques)</td><td>16e</td><td></td><td></td><td></td><td>Les calibres doivent<br>\u00eatre retenus.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4</td></tr><tr><td>AP2</td><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td>Forces<br>d'accouplement et<br>de<br>d\u00e9saccouplement</td><td>13a</td><td>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr><tr><td></td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e: 1 min</td><td></td><td></td><td>Doit \u00eatre comme</td></tr><tr><td>AP3</td><td></td><td></td><td>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.5</td></tr><tr><td>AP4</td><td>R\u00e9tention<br>des contacts<br>dans l'isolant</td><td>15a</td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal; le<br>d\u00e9placement du<br>contact sous l'effet<br>des forces axiales<br>doit \u00eatre inf\u00e9rieur \u00e0<br>0,5 mm et inf\u00e9rieur \u00e0<br>0,3 mm apr\u00e8s la<br>suppression de ces<br>forces.</td></tr><tr><td>AP5</td><td>Chocs</td><td>6c</td><td>Acc\u00e9l\u00e9ration: 500 m/s2,<br>dur\u00e9e: 11 ms, onde semi<br>sinuso\u00efdale, 3 chocs<br>selon chaque axe et dans<br>chaque direction, 3 axes<br>perpendiculaires les uns<br>aux autres.</td><td>Perturbation de<br>contact</td><td>2e</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.4.1<br>Dur\u00e9e de perturbation<br>max. de 1 \u03bcs pendant<br>l'essai.</td></tr><tr><td></td><td></td><td></td><td></td><td rowspan=3>R\u00e9sistance de<br>contact \u2013 M\u00e9thode<br>du niveau des<br>millivolts</td><td rowspan=3>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5</td></tr><tr><td>AP6</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact</td></tr><tr><td></td><td></td><td></td><td></td><td>3 m\u03a9 max.</td></tr><tr><td rowspan=2>AP7</td><td></td><td></td><td></td><td rowspan=2>Forces<br>d'accouplement et<br>de<br>d\u00e9saccouplement</td><td rowspan=2>13a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4</td></tr><tr><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr><tr><td>AP8</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th></th><th></th><th>Essai</th><th>Mesure \u00e0 effectuer</th><th></th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>Exigences</th></tr><tr><td>AP9</td><td>Vibrations</td><td>6d</td><td>10 Hz \u00e0 500 Hz, double<br>amplitude: 0,75 mm ou<br>acc\u00e9l\u00e9ration: 10 g</td><td>Perturbation de<br>contact</td><td>2e</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.4.1<br>Dur\u00e9e de perturbation<br>max. de 1 \u03bcs pendant<br>l'essai.</td></tr><tr><td>AP10</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013 M\u00e9thode<br>du niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>3 m\u03a9 max.</td></tr><tr><td>AP11</td><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td>Forces<br>d'accouplement et<br>de<br>d\u00e9saccouplement</td><td>13a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4<br>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr><tr><td>AP12</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>AP13</td><td>Variations<br>rapides de<br>temp\u00e9rature</td><td>11d</td><td>-55 \u00b0C \u00e0 125 \u00b0C<br>Dur\u00e9e: 3 h<br>5 cycles</td><td></td><td></td><td></td></tr><tr><td>AP14</td><td></td><td></td><td>Tension d'essai: 500 V<br>CC \u00b1 50 V CC<br>M\u00e9thode A</td><td>R\u00e9sistance<br>d'isolement</td><td>3a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.6<br>Entre contacts, et<br>entre contacts et<br>bo\u00eetier m\u00e9tallique:<br>100 M\u03a9 min.</td></tr><tr><td>AP15</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e: 1 min<br>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr><tr><td>AP16</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>AP17</td><td>S\u00e9quence<br>climatique</td><td>11a</td><td></td><td></td><td></td><td></td></tr><tr><td>AP17.1</td><td>Chaleur<br>s\u00e8che</td><td>11i</td><td>Temp.: 125 \u00b0C<br>Dur\u00e9e: 96 h</td><td>R\u00e9sistance<br>d'isolement \u00e0<br>haute temp\u00e9rature</td><td>3a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.6<br>Entre contacts, et<br>entre contacts et<br>bo\u00eetier m\u00e9tallique:<br>100 M\u03a9 min.</td></tr><tr><td></td><td>Basse<br>pression<br>atmosph\u00e9ri<br>que</td><td>11k</td><td>Basse pression<br>atmosph\u00e9rique: 54 kPa<br>Dur\u00e9e:2 h</td><td></td><td></td><td></td></tr><tr><td>AP17.2</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e: 1 min<br>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th></th><th></th><th>Essai</th><th colspan=2>Mesure \u00e0 effectuer</th><th></th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>Exigences</th></tr><tr><td>AP17.3</td><td>Essai<br>cyclique de<br>chaleur<br>humide,<br>premier cycle</td><td>11 m</td><td>M\u00e9thode Db<br>Temps de r\u00e9tablissement:<br>2 h</td><td></td><td></td><td></td></tr><tr><td>AP17.4</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>AP17.5</td><td>Froid</td><td>11j</td><td>Temp.: -55 \u00b0C<br>Dur\u00e9e: 96 h<br>Temps de r\u00e9tablissement:<br>2 h</td><td></td><td></td><td></td></tr><tr><td>AP17.6</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td></td><td>Basse<br>pression<br>atmosph\u00e9ri<br>que</td><td>11k</td><td>Basse pression<br>atmosph\u00e9rique: 54 kPa<br>Dur\u00e9e:2 h</td><td></td><td></td><td></td></tr><tr><td>AP17.7</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e: 1 min<br>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr><tr><td>AP17.8</td><td>Essai<br>cyclique de<br>chaleur<br>humide,<br>cycles<br>restants</td><td>11 m</td><td>M\u00e9thode Db<br>5 cycles<br>Temps de r\u00e9tablissement:<br>2 h</td><td></td><td></td><td></td></tr><tr><td>AP18</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013 M\u00e9thode<br>du niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>3 m\u03a9 max.</td></tr><tr><td>AP19</td><td></td><td></td><td>Tension d'essai:<br>500 V CC \u00b1 50 V CC<br>M\u00e9thode A</td><td>R\u00e9sistance<br>d'isolement</td><td>3a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.6<br>Entre contacts, et<br>entre contacts et<br>bo\u00eetier m\u00e9tallique:<br>100 M\u03a9 min.</td></tr><tr><td>AP20</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e: 1 min<br>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr><tr><td>AP21</td><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td>Forces<br>d'accouplement et<br>de<br>d\u00e9saccouplement</td><td>13a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4<br>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th></th><th></th><th>Essai</th><th colspan=2>Mesure \u00e0 effectuer</th><th></th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>Exigences</th></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.5</td></tr><tr><td>AP22</td><td></td><td></td><td>Force axiale: 100 N</td><td>R\u00e9tention des<br>contacts dans<br>l'isolant</td><td>15a</td><td>Le d\u00e9placement du<br>contact sous l'effet<br>des forces axiales<br>doit \u00eatre inf\u00e9rieur \u00e0<br>0,5 mm et inf\u00e9rieur \u00e0<br>0,3 mm apr\u00e8s la<br>suppression de ces<br>forces.</td></tr><tr><td>AP23</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>AP24</td><td>Code IP<br>Second<br>chiffre<br>caract\u00e9risti<br>que</td><td></td><td>Pour les connecteurs<br>accoupl\u00e9s, r\u00e9f\u00e9rence \u00e0<br>6.4.4 pour les essais IP<br>en AP24.1,<br>DP 24.2 au cours<br>desquels les sp\u00e9cimens<br>doivent \u00eatre soumis \u00e0<br>essai</td><td></td><td></td><td></td></tr><tr><td>AP24.1</td><td></td><td></td><td>IPX5: sp\u00e9cimens<br>accoupl\u00e9s, c\u00e2bl\u00e9s et<br>verrouill\u00e9s</td><td>Voir en 14.2.5 de<br>l'IEC 60529:1989</td><td></td><td>Voir en 14.3 de<br>l'IEC 60529:1989</td></tr><tr><td>AP24.2</td><td></td><td></td><td>IPX7: sp\u00e9cimens<br>accoupl\u00e9s, c\u00e2bl\u00e9s et<br>verrouill\u00e9s</td><td>Voir en 14.2.7 de<br>l'IEC 60529:1989</td><td></td><td>Voir en 14.3 de<br>l'IEC 60529:1989</td></tr><tr><td>AP25 a</td><td>Code IP<br>Premier<br>chiffre<br>caract\u00e9risti<br>que</td><td></td><td>IP6X: pour les sp\u00e9cimens<br>accoupl\u00e9s, c\u00e2bl\u00e9s et<br>verrouill\u00e9s, r\u00e9f\u00e9rence \u00e0<br>6.4.4 pour les essais IP<br>en AP25 au cours<br>desquels les sp\u00e9cimens<br>doivent \u00eatre soumis \u00e0<br>essai</td><td>Voir le Tableau 7<br>de<br>l'IEC 60529:1989</td><td></td><td>Voir en 13.6.2 de<br>l'IEC 60529:1989</td></tr><tr><td></td><td></td><td></td><td>IPXXB:</td><td></td><td></td><td></td></tr><tr><td>AP26</td><td>Code IP<br>Lettre<br>compl\u00e9men<br>taire</td><td></td><td>pour les sp\u00e9cimens<br>d\u00e9saccoupl\u00e9s, r\u00e9f\u00e9rence<br>\u00e0 6.4.4 pour les essais IP<br>en AP26 au cours<br>desquels les sp\u00e9cimens<br>doivent \u00eatre soumis \u00e0<br>essai</td><td>Voir en 15.2 de<br>l'IEC 60529:1989</td><td></td><td>Voir en 15.3 de<br>l'IEC 60529:1989</td></tr><tr><td>AP27</td><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td>Forces<br>d'accouplement et<br>de<br>d\u00e9saccouplement</td><td>13a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4<br>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:</td></tr><tr><td>AP28</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>3 N \u00e0 80 N<br>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "All specimens shall be subject to the following tests. See Table 7."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "6",
+      "7",
+      "7.2.2.2",
+      "8",
+      "Table 7"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::7",
+      "IEC_61076_8_103_2023::7.2.2.2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.2.1.json"
+}

@@ -1,0 +1,100 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.2",
+  "title": "Abbreviations",
+  "parent_id": "3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this document, the abbreviations given in EN 50174-1 and the following apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the cabling is designed in accordance with standards in EN 50173 series, the additional abbreviations  of those standards are applicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "AC Alternating Current"
+    },
+    {
+      "type": "paragraph",
+      "text": "ADSS All Dielectric Self Supporting"
+    },
+    {
+      "type": "paragraph",
+      "text": "BEF Building Entrance Facility"
+    },
+    {
+      "type": "paragraph",
+      "text": "CMS Cable Management System"
+    },
+    {
+      "type": "paragraph",
+      "text": "CSA Cross-Sectional Area"
+    },
+    {
+      "type": "paragraph",
+      "text": "DC Direct Current"
+    },
+    {
+      "type": "paragraph",
+      "text": "EMC Electromagnetic Compatibility"
+    },
+    {
+      "type": "paragraph",
+      "text": "EMI Electromagnetic Interference"
+    },
+    {
+      "type": "paragraph",
+      "text": "EPR Earth Potential Rise"
+    },
+    {
+      "type": "paragraph",
+      "text": "ESD Electrostatic Discharge"
+    },
+    {
+      "type": "paragraph",
+      "text": "ffs for further study"
+    },
+    {
+      "type": "paragraph",
+      "text": "GPS Global Positioning System"
+    },
+    {
+      "type": "paragraph",
+      "text": "HV high-voltage"
+    },
+    {
+      "type": "paragraph",
+      "text": "LV low-voltage"
+    },
+    {
+      "type": "paragraph",
+      "text": "PEC Parallel Earthing Conductor"
+    },
+    {
+      "type": "paragraph",
+      "text": "SPD Surge Protective Device"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "50173",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50173",
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.2.json"
+}

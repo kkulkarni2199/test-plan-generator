@@ -1,0 +1,50 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::B.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "B.2.1",
+  "title": "General",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The worst case limit of the hot zone, d(m), measured from the centre of the equipotential zone of the HV  installation, can be evaluated with the Formula (B.2):"
+    },
+    {
+      "type": "paragraph",
+      "text": "Where"
+    },
+    {
+      "type": "list_item",
+      "text": "\u03c1 soil resistivity (\u03a9m);"
+    },
+    {
+      "type": "list_item",
+      "text": "If fault current (A) flowing to the earthing system;"
+    },
+    {
+      "type": "paragraph",
+      "text": "VITU voltage limit (V) given in ITU-T K.68 for a typical situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the EPR around a hot site is not known or cannot be calculated because of lack of data,  recommended minimum distances for the limit of the hot zone are given in B.2.2 and B.2.3."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2",
+      "2.2",
+      "2.3",
+      "68"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\B.2.1.json"
+}

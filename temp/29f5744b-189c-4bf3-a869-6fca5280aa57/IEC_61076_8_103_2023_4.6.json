@@ -1,0 +1,33 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.6",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.6",
+  "title": "Current-carrying capacity",
+  "parent_id": "4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Current carrying capacity as specified in 6.2.3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courant admissible sp\u00e9cifi\u00e9 en 6.2.3."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "6.2.3"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6.2.3"
+    ],
+    "standards": [
+      "en 6.2.3"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.6.json"
+}

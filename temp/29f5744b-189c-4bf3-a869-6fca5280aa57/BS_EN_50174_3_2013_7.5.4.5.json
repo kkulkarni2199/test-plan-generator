@@ -1,0 +1,47 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.4.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.4.5",
+  "title": "Additional requirements for electrified railways with HV contact wires",
+  "parent_id": "7.5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The vertical clearance between the lower surface of any structure supporting the information technology  cables crossing a railway and the uppermost live conductor shall be 2,0 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a means of preventing danger resulting from a falling contact wire a triangular space shall be kept free  from conductive components of the information technology cabling. This space starts at a point 0,2 m above  the uppermost live conductor and extends horizontally by 4,0 m to either side of the centre line of the track  (see Figure 15)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The vertical clearance between the lower surface of any structure supporting the information technology  cables crossing a railway and the uppermost live conductor shall be 2,0 m."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "As a means of preventing danger resulting from a falling contact wire a triangular space shall be kept free  from conductive components of the information technology cabling. This space starts at a point 0,2 m above  the uppermost live conductor and extends horizontally by 4,0 m to either side of the centre line of the track  (see Figure 15)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "15",
+      "2",
+      "4",
+      "Figure 15"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.4.5.json"
+}

@@ -1,0 +1,38 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2.2.6",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2.2.6",
+  "title": "Groupe d'essais EP \u2013 Feu",
+  "parent_id": "7.2.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Le nombre de sp\u00e9cimens sp\u00e9cifi\u00e9s dans le Tableau 6 doit \u00eatre soumis aux essais suivants. Voir  le Tableau 12."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 12 \u2013 Groupe d'essais EP"
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/68/Reference/319'></content-ref><table><tbody><tr><th rowspan=2>Phase<br>d'essai</th><th colspan=3>Essai</th><th colspan=2>Mesure \u00e0 effectuer</th><th>Exigences</th></tr><tr><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th></th></tr><tr><td>EP1</td><td>Essai<br>d'inflammabi<br>lit\u00e9 au fil<br>incandescent</td><td>20c</td><td>Temp.: 850 \u00b0C \u00b1 15 \u00b0C</td><td></td><td></td><td></td></tr><tr><td>EP2</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "12",
+      "6"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.2.6.json"
+}

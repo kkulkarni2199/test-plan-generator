@@ -1,0 +1,58 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::202",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "202",
+  "title": "RESISTOR CODING",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The vehicle connector and plug of configurations type  2 shall be provided with coding resistors (Rc) to define  the maximum current capability of the cable assembly  and vehicle connector and plug."
+    },
+    {
+      "type": "paragraph",
+      "text": "The resistor values and tolerances shall be as specified  in B-2 of IS 17017 (Part 1):2018 - \"Circuit for  simultaneous proximity detection and current coding\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The vehicle connector and plug of configurations type  2 shall be provided with coding resistors (Rc) to define  the maximum current capability of the cable assembly  and vehicle connector and plug."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The resistor values and tolerances shall be as specified  in B-2 of IS 17017 (Part 1):2018 - \"Circuit for  simultaneous proximity detection and current coding\"."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017",
+      "2",
+      "2018",
+      "9.1",
+      "Clause 9.1"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2"
+    ],
+    "standards": [
+      "IS 17017 (Part 1):2018"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\202.json"
+}

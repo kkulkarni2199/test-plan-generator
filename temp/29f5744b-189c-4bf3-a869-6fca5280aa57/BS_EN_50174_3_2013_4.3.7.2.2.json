@@ -1,0 +1,252 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.7.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.7.2.2",
+  "title": "Requirements",
+  "parent_id": "4.3.7.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "An agreement shall be reached with the owner of the overhead power supply infrastructure (and where  relevant, also the owner of the supporting structures) for joint use giving special consideration to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the voltage in the power supply system;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the mechanical capacities of supporting structures (e.g. poles or towers);"
+    },
+    {
+      "type": "list_item",
+      "text": "c) the requirements described in this European Standard for earthing systems, aerial to underground  junctions and aerial connections."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before undertaking mechanical calculations, it is necessary to determine the following:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) the technical characteristics of the power supply system;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) future possible modifications, such as the transformation of LV into HV;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) the reservation of zones of the overhead power supply infrastructure to allow subsequent installation of  light fittings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Overhead power supply infrastructures may be shared by more than one information technology system  provided that agreement has been reached with the owners of the overhead power supply infrastructure and  the information technology systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "The planning of installations requires detailed information regarding:"
+    },
+    {
+      "type": "list_item",
+      "text": "the type and location of supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "the available moment of inertia capacity of supporting structures to be used ( i.e. the difference between  the initial moment of inertia capacity of the most stressed tower or pole and the moment of inertia  capacity used by the installation of the overhead power supply cabling and related equipment, including  any reserve maintained to allow the installation of additional power supply cabling on the same  structures);"
+    },
+    {
+      "type": "list_item",
+      "text": "the voltages carried by the overhead power supply cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "layout of power conductors on the supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "the local variation of temperature;"
+    },
+    {
+      "type": "list_item",
+      "text": "local wind and ice loads."
+    },
+    {
+      "type": "paragraph",
+      "text": "A survey shall be undertaken of all supporting structures that are to be used to support the information  technology cabling which shall document the following:"
+    },
+    {
+      "type": "list_item",
+      "text": "i) the type (e.g. line, angle-turn, terminating, special purpose) and height of supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "ii) the distances between supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "iii) physical/mechanical condition of supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "iv) anti-corrosion protection (metallic structures);"
+    },
+    {
+      "type": "list_item",
+      "text": "v) the height above the ground of the planned suspension points of the information technology cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "vi) restrictions of installation access below or between supporting structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information obtained during the survey shall be used to determine the following:"
+    },
+    {
+      "type": "list_item",
+      "text": "I) requirements for refurbishment or replacement of supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "II) clearances and separations on supporting structures available to be used by the information technology  cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "III) storage locations for installation equipment, cable drums (or reels);"
+    },
+    {
+      "type": "list_item",
+      "text": "IV) installation methods and special tools;"
+    },
+    {
+      "type": "list_item",
+      "text": "V) fittings required to attach information technology cabling to supporting structures (including special fitting  to implement changes in direction or gradient at towers or poles);"
+    },
+    {
+      "type": "list_item",
+      "text": "VI) location of joint closures and service loops on supporting structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the physical characteristics of the information technology cable in combination with its proposed  location of the cable on the supporting structure uses more than the available moment of inertia capacity,  consideration shall be given to either replacing the relevant supporting structures or by strengthening them  e.g. by installing stays or struts."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information technology cable route shall be installed to respect the minimum clearances above ground  given in Table 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sag during operation (including any maintenance activities) of the information technology cable between  supporting structures shall be determined based upon the information provided by the supplier of the  information technology cable (or suspension wire, if present) that is relevant to the following conditions:"
+    },
+    {
+      "type": "list_item",
+      "text": "the distance between supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "the predicted supplementary loadings of wind, ice and maintenance activity;"
+    },
+    {
+      "type": "list_item",
+      "text": "the predicted temperature range."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum height of cables shall comply with national or local regulations during installation, maintenance  and operation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sag of the information technology and power supply cables shall be calculated and measures taken to  ensure that the segregation requirements of Clause 6 are maintained."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where an earthing system exists on a supporting structure then it shall be dedicated to only one of the  following applications:"
+    },
+    {
+      "type": "list_item",
+      "text": "\u03b1) power supply cabling,"
+    },
+    {
+      "type": "list_item",
+      "text": "\u03b2) lighting,"
+    },
+    {
+      "type": "list_item",
+      "text": "\u03c7) information technology cabling."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "An agreement shall be reached with the owner of the overhead power supply infrastructure (and where  relevant, also the owner of the supporting structures) for joint use giving special consideration to:"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Overhead power supply infrastructures may be shared by more than one information technology system  provided that agreement has been reached with the owners of the overhead power supply infrastructure and  the information technology systems."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "A survey shall be undertaken of all supporting structures that are to be used to support the information  technology cabling which shall document the following:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information obtained during the survey shall be used to determine the following:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where the physical characteristics of the information technology cable in combination with its proposed  location of the cable on the supporting structure uses more than the available moment of inertia capacity,  consideration shall be given to either replacing the relevant supporting structures or by strengthening them  e.g. by installing stays or struts."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information technology cable route shall be installed to respect the minimum clearances above ground  given in Table 5."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The sag during operation (including any maintenance activities) of the information technology cable between  supporting structures shall be determined based upon the information provided by the supplier of the  information technology cable (or suspension wire, if present) that is relevant to the following conditions:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The minimum height of cables shall comply with national or local regulations during installation, maintenance  and operation."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The sag of the information technology and power supply cables shall be calculated and measures taken to  ensure that the segregation requirements of Clause 6 are maintained."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where an earthing system exists on a supporting structure then it shall be dedicated to only one of the  following applications:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "6",
+      "Clause 6",
+      "Table 5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.7.2.2.json"
+}

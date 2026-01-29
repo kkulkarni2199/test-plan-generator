@@ -1,0 +1,51 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.2",
+  "title": "The EMC concept",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "In view of the practical realisation of EMC concepts the questions listed in Table A.1 should be answered for  the underground or overhead installation of the following:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) Conductive cable management systems;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) Metallic cables;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) Cables containing metallic structural elements."
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>No</th><th>Project information</th></tr><tr><td>1</td><td>Lightning hazard</td></tr><tr><td>1.1</td><td>Interconnection of buildings/structures, one or more of which has a height above ground of \u2265 30 m</td></tr><tr><td>1.2</td><td>Proximity (< 15 m) to buildings/structures, one or more of which has a height above ground of \u2265 30 m</td></tr><tr><td>1.3</td><td>Proximity (< 15 m) to isolated trees or to the edge of a forested area</td></tr><tr><td>1.4</td><td>Proximity to mountains/hills</td></tr><tr><td>1.5</td><td>Installation in an area with a record of frequent lightning strikes</td></tr><tr><td>1.6</td><td>Overhead lines</td></tr><tr><td>1.7</td><td>Connection to antenna-systems on tops of buildings/structures</td></tr><tr><td>1.8</td><td>Metallic cables or cables containing metallic structural elements, especially in areas with high soil resistance</td></tr><tr><td>2</td><td>Interference from power systems supply infrastructures</td></tr><tr><td>2.1</td><td>Proximity (crossing, parallel) to power supply systems > 1 kV up to < 110 kV (overhead lines/ high-power-cables)</td></tr><tr><td>2.2</td><td>Proximity (crossing, parallel) to power supply systems \u2265 110 kV (overhead lines/ high-power-cables) - considering the entire<br>pathway</td></tr><tr><td>2.3</td><td>Sharing of supporting structures of a power supply infrastructure pylons of a power-line < 1 kV</td></tr><tr><td>2.4</td><td>Proximity to power supply systems and their earthing system (transformers, overhead supporting structures)</td></tr><tr><td>2.5</td><td>Entering/ connecting to power plants, power stations, transformers</td></tr><tr><td>3</td><td>Interference from electrified railways</td></tr><tr><td>3.1</td><td>Proximity to electrified railways \u2013 considering the entire pathway</td></tr><tr><td>3.2</td><td>Crossing of an electrified railway</td></tr><tr><td>3.3</td><td>Entering/connecting of electric power transformation substation for railways / railway-buildings</td></tr><tr><td>4</td><td>Interference from radio transmission equipment having considered any impact of their operating frequencies on<br>the telecommunications applications carried by the cabling and/or equipment connected to it</td></tr><tr><td>4.1</td><td>Proximity to and power from the transmission equipment</td></tr><tr><td>4.2</td><td>Connections to transmission equipment</td></tr><tr><td>5</td><td>Corrosion hazard</td></tr><tr><td>5.1</td><td>Proximity of metal coated cables, conductive cable management systems or earthing systems of providers to DC railways<br>and its earthing system < 20 m</td></tr><tr><td>5.2</td><td>Proximity of metal coated cables, conductive cable management systems or earthing systems of providers to corrosion<br>protection system (field of anodes) < 100 m</td></tr><tr><td>5.3</td><td>Proximity of metal coated cables, conductive cable management systems or earthing systems of providers to cathodic<br>protected lines (e.g. pipeline) < 20 m</td></tr><tr><td>6</td><td>Other possible sources of interference</td></tr><tr><td>6.1</td><td>Shared use of cable management systems for 3rd party cabling (other than power supply cabling)</td></tr><tr><td>6.2</td><td>Galvanic connections with third party networks.</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "In view of the practical realisation of EMC concepts the questions listed in Table A.1 should be answered for  the underground or overhead installation of the following:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.2.json"
+}

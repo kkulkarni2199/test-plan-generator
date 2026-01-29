@@ -1,0 +1,59 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.5.7",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.5.7",
+  "title": "Corrosion, salt mist",
+  "parent_id": "6.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-6, Test 11f."
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 7 days, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the appearance of the connectors shall meet the requirements of test phase P1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-6, Essai 11f."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dur\u00e9e: 7 jours, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigence: l'aspect des connecteurs doit satisfaire aux exigences de la phase d'essai P1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the appearance of the connectors shall meet the requirements of test phase P1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "11",
+      "6",
+      "60512",
+      "7"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::7"
+    ],
+    "standards": [
+      "IEC 60512-11-6"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.5.7.json"
+}

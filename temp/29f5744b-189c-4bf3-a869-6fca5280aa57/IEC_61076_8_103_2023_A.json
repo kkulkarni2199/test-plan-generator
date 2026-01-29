@@ -1,0 +1,251 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::A",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "A",
+  "title": "propos de l'IEC",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "La Commission Electrotechnique Internationale (IEC) est la premi\u00e8re organisation mondiale qui \u00e9labore et publie des  Normes internationales pour tout ce qui a trait \u00e0 l'\u00e9lectricit\u00e9, \u00e0 l'\u00e9lectronique et aux technologies apparent\u00e9es."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le contenu technique des publications IEC est constamment revu. Veuillez vous assurer que vous poss\u00e9dez l'\u00e9dition la  plus r\u00e9cente, un corrigendum ou amendement peut avoir \u00e9t\u00e9 publi\u00e9."
+    },
+    {
+      "type": "paragraph",
+      "text": "La recherche avanc\u00e9e permet de trouver des publications IEC  en utilisant diff\u00e9rents crit\u00e8res (num\u00e9ro de r\u00e9f\u00e9rence, texte,  comit\u00e9 d'\u00e9tudes, \u2026). Elle donne aussi des informations sur les  projets et les publications remplac\u00e9es ou retir\u00e9es."
+    },
+    {
+      "type": "paragraph",
+      "text": "Restez inform\u00e9 sur les nouvelles publications IEC. Just  Published d\u00e9taille les nouvelles publications parues.  Disponible en ligne et une fois par mois par email."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si vous d\u00e9sirez nous donner des commentaires sur cette  publication ou si vous avez des questions contactez-nous:  sales@iec.ch."
+    },
+    {
+      "type": "paragraph",
+      "text": "IEC Products &amp; Services Portal - products.iec.ch"
+    },
+    {
+      "type": "paragraph",
+      "text": "D\u00e9couvrez notre puissant moteur de recherche et consultez gratuitement tous les aper\u00e7us des publications. Avec un  abonnement, vous aurez toujours acc\u00e8s \u00e0 un contenu \u00e0 jour  adapt\u00e9 \u00e0 vos besoins."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le premier dictionnaire d'\u00e9lectrotechnologie en ligne au monde,  avec plus de 22 300 articles terminologiques en anglais et en  fran\u00e7ais, ainsi que les termes \u00e9quivalents dans 19 langues  additionnelles. Egalement appel\u00e9 Vocabulaire  Electrotechnique International (IEV) en ligne."
+    },
+    {
+      "type": "paragraph",
+      "text": "Edition 1.0 2023-05"
+    },
+    {
+      "type": "paragraph",
+      "text": "Connectors for electrical and electronic equipment \u2013 Product requirements \u2013 Part 8-103: Power connectors \u2013 Detail specification for 2P+PE circular  connectors with 20 A rated current and push-pull locking IP65/IP67 with metal  housing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Connecteurs pour \u00e9quipements \u00e9lectriques et \u00e9lectroniques \u2013 Exigences de  produit \u2013"
+    },
+    {
+      "type": "paragraph",
+      "text": "Partie 8-103: Connecteurs d'alimentation \u2013 Sp\u00e9cification particuli\u00e8re relative aux  connecteurs circulaires 2P+PE avec un courant assign\u00e9 de 20 A et  un m\u00e9canisme de verrouillage de type pousser-tirer IP65/IP67, log\u00e9s dans  un bo\u00eetier m\u00e9tallique"
+    },
+    {
+      "type": "paragraph",
+      "text": "INTERNATIONAL ELECTROTECHNICAL COMMISSION"
+    },
+    {
+      "type": "paragraph",
+      "text": "COMMISSION ELECTROTECHNIQUE INTERNATIONALE"
+    },
+    {
+      "type": "paragraph",
+      "text": "ICS 31.220.10 ISBN 978-2-8322-6843-8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Warning! Make sure that you obtained this publication from an authorized distributor. Attention! Veuillez vous assurer que vous avez obtenu cette publication via un distributeur agr\u00e9\u00e9."
+    },
+    {
+      "type": "paragraph",
+      "text": "____________"
+    },
+    {
+      "type": "list_item",
+      "text": "1) The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising  all national electrotechnical committees (IEC National Committees). The object of IEC is to promote international  co-operation on all questions concerning standardization in the electrical and electronic fields. To this end and  in addition to other activities, IEC publishes International Standards, Technical Specifications, Technical Reports,  Publicly Available Specifications (PAS) and Guides (hereafter referred to as \"IEC Publication(s)\"). Their  preparation is entrusted to technical committees; any IEC National Committee interested in the subject dealt with  may participate in this preparatory work. International, governmental and non-governmental organizations liaising  with the IEC also participate in this preparation. IEC collaborates closely with the International Organization for  Standardization (ISO) in accordance with conditions determined by agreement between the two organizations."
+    },
+    {
+      "type": "list_item",
+      "text": "2) The formal decisions or agreements of IEC on technical matters express, as nearly as possible, an international  consensus of opinion on the relevant subjects since each technical committee has representation from all  interested IEC National Committees."
+    },
+    {
+      "type": "list_item",
+      "text": "3) IEC Publications have the form of recommendations for international use and are accepted by IEC National  Committees in that sense. While all reasonable efforts are made to ensure that the technical content of IEC  Publications is accurate, IEC cannot be held responsible for the way in which they are used or for any  misinterpretation by any end user."
+    },
+    {
+      "type": "list_item",
+      "text": "4) In order to promote international uniformity, IEC National Committees undertake to apply IEC Publications  transparently to the maximum extent possible in their national and regional publications. Any divergence between  any IEC Publication and the corresponding national or regional publication shall be clearly indicated in the latter."
+    },
+    {
+      "type": "list_item",
+      "text": "5) IEC itself does not provide any attestation of conformity. Independent certification bodies provide conformity  assessment services and, in some areas, access to IEC marks of conformity. IEC is not responsible for any  services carried out by independent certification bodies."
+    },
+    {
+      "type": "list_item",
+      "text": "6) All users should ensure that they have the latest edition of this publication."
+    },
+    {
+      "type": "list_item",
+      "text": "7) No liability shall attach to IEC or its directors, employees, servants or agents including individual experts and  members of its technical committees and IEC National Committees for any personal injury, property damage or  other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and  expenses arising out of the publication, use of, or reliance upon, this IEC Publication or any other IEC  Publications."
+    },
+    {
+      "type": "list_item",
+      "text": "8) Attention is drawn to the Normative references cited in this publication. Use of the referenced publications is  indispensable for the correct application of this publication."
+    },
+    {
+      "type": "list_item",
+      "text": "9) Attention is drawn to the possibility that some of the elements of this IEC Publication may be the subject of patent rights. IEC shall not be held responsible for identifying any or all such patent rights."
+    },
+    {
+      "type": "paragraph",
+      "text": "IEC 61076-8-103 has been prepared by subcommittee 48B: Electrical connectors, of IEC  technical committee 48: Electrical connectors and mechanical structures for electrical and  electronic equipment. It is an International Standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "The text of this International Standard is based on the following documents:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Full information on the voting for its approval can be found in the report on voting indicated in  the above table."
+    },
+    {
+      "type": "paragraph",
+      "text": "The language used for the development of this International Standard is English."
+    },
+    {
+      "type": "paragraph",
+      "text": "This document was drafted in accordance with ISO/IEC Directives, Part 2, and developed in  accordance with ISO/IEC Directives, Part 1 and ISO/IEC Directives, IEC Supplement, available  at www.iec.ch/members_experts/refdocs. The main document types developed by IEC are  described in greater detail at www.iec.ch/publications."
+    },
+    {
+      "type": "paragraph",
+      "text": "A list of all parts of IEC 61076 series, under the general title Connectors for electrical and electronic equipment \u2013 Product requirements, can be found on the IEC website."
+    },
+    {
+      "type": "paragraph",
+      "text": "Future standards in this series will carry the new general title as cited above. Titles of existing standards in this series will be updated at the time of the next edition."
+    },
+    {
+      "type": "paragraph",
+      "text": "The committee has decided that the contents of this document will remain unchanged until the  stability date indicated on the IEC website under webstore.iec.ch in the data related to the  specific document. At this date, the document will be"
+    },
+    {
+      "type": "list_item",
+      "text": "reconfirmed,"
+    },
+    {
+      "type": "list_item",
+      "text": "withdrawn,"
+    },
+    {
+      "type": "list_item",
+      "text": "replaced by a revised edition, or"
+    },
+    {
+      "type": "list_item",
+      "text": "amended."
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Draft</th><th>Report on voting</th></tr><tr><th>48B/2952/CDV</th><th>48B/2990/RVC</th></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th>The International Electrotechnical Commission</th><th>IEC 61076-8-103</th></tr><tr><th></th><th>IEC SC 48B\u2014Electrical connectors<br>Detail specification in accordance with IEC 61076-8</th><th></th></tr><tr><th>Free<br>connector</th><th></th><th>For rated current of 20 A;<br>2P+PE;<br>Female contacts;<br>Push-pull locking;<br>360\u00b0 shielding.</th></tr><tr><td>Fixed<br>connector</td><td></td><td>For rated current of 20 A;<br>2P+PE;<br>Male contacts;<br>Push-pull locking;<br>360\u00b0 shielding.</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\IEC_61076_8_103_2023\\A\\figure_1_page_2_picture_1.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 5080
+    }
+  ],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "1) The International Electrotechnical Commission (IEC) is a worldwide organization for standardization comprising  all national electrotechnical committees (IEC National Committees). The object of IEC is to promote international  co-operation on all questions concerning standardization in the electrical and electronic fields. To this end and  in addition to other activities, IEC publishes International Standards, Technical Specifications, Technical Reports,  Publicly Available Specifications (PAS) and Guides (hereafter referred to as \"IEC Publication(s)\"). Their  preparation is entrusted to technical committees; any IEC National Committee interested in the subject dealt with  may participate in this preparatory work. International, governmental and non-governmental organizations liaising  with the IEC also participate in this preparation. IEC collaborates closely with the International Organization for  Standardization (ISO) in accordance with conditions determined by agreement between the two organizations."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "4) In order to promote international uniformity, IEC National Committees undertake to apply IEC Publications  transparently to the maximum extent possible in their national and regional publications. Any divergence between  any IEC Publication and the corresponding national or regional publication shall be clearly indicated in the latter."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "6) All users should ensure that they have the latest edition of this publication."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "7) No liability shall attach to IEC or its directors, employees, servants or agents including individual experts and  members of its technical committees and IEC National Committees for any personal injury, property damage or  other damage of any nature whatsoever, whether direct or indirect, or for costs (including legal fees) and  expenses arising out of the publication, use of, or reliance upon, this IEC Publication or any other IEC  Publications."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "9) Attention is drawn to the possibility that some of the elements of this IEC Publication may be the subject of patent rights. IEC shall not be held responsible for identifying any or all such patent rights."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "05",
+      "1",
+      "1.0",
+      "103",
+      "19",
+      "2",
+      "20",
+      "2023",
+      "22",
+      "3",
+      "300",
+      "31.220.10",
+      "4",
+      "48",
+      "5",
+      "6",
+      "61076",
+      "6843",
+      "7",
+      "8",
+      "8322",
+      "9",
+      "978"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::5",
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::7"
+    ],
+    "standards": [
+      "IEC 61076",
+      "IEC 61076-8-103"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\A.json"
+}

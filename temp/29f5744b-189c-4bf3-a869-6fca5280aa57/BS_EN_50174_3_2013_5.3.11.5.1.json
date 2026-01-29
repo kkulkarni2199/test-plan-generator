@@ -1,0 +1,66 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.11.5.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.11.5.1",
+  "title": "Requirements",
+  "parent_id": "5.3.11.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The screen of the information technology cables between the connection enclosure (see Figure 7) and the  galvanic isolation device, if any, shall be insulated at both ends. The following applies:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) high dielectric strength sheath cabling entering the hot zone shall be run in separate ducts or a dedicated  cabling management system;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) spare (unused) pairs shall be safely terminated or their free ends enclosed in a high dielectric strength  cap;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) where additional protection against lightning is necessary, surge protective devices shall be installed and  earthed in the connection enclosure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Annex B gives examples of installation practices."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The screen of the information technology cables between the connection enclosure (see Figure 7) and the  galvanic isolation device, if any, shall be insulated at both ends. The following applies:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) high dielectric strength sheath cabling entering the hot zone shall be run in separate ducts or a dedicated  cabling management system;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) spare (unused) pairs shall be safely terminated or their free ends enclosed in a high dielectric strength  cap;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) where additional protection against lightning is necessary, surge protective devices shall be installed and  earthed in the connection enclosure."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "7",
+      "Annex B",
+      "Figure 7"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.11.5.1.json"
+}

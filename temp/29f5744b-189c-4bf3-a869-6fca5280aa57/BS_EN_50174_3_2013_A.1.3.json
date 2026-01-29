@@ -1,0 +1,75 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.3",
+  "title": "Countermeasures against capacitive coupling",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The main countermeasures to minimise the effects of capacitive couplings are:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) symmetrical transmission on balanced cabling:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conductors are identically exposed to the same electric field. Induced interfering voltages in both  conductors have the same polarity and amplitude; the wanted differential mode signal remains  unaffected up to certain frequencies. The interference appears as an unwanted common mode signal.  Depending on its common mode rejection ratio, the correct operation of connected equipment is  influenced by the presence of common mode voltages;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) screened cabling and/or metallic or composite cable management systems specially designed for EMC  purposes diminish the influence of electric fields if the cable screen is 1) of low impedance;2) of large surface area;"
+    },
+    {
+      "type": "paragraph",
+      "text": "and if the cable screen or cable management system (see Figure A.1) is"
+    },
+    {
+      "type": "list_item",
+      "text": "3) continuous along the cabling channel;"
+    },
+    {
+      "type": "list_item",
+      "text": "4) earthed and bonded as detailed in this European Standard."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the cable management system is fixed at earth potential via the bonding network, unwanted electric  charges cannot cause voltage rises. At high frequencies the method of grounding of the screen at the cable  ends is very important. Even a few centimetres of unscreened lead (pigtail) can compromise the screen  effectiveness."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.1  Screened cables reduce capacitive coupling"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_1_3\\figure_1_page_79_picture_2.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 24671
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": [
+      "is 1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.3.json"
+}

@@ -1,0 +1,37 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::201",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "201",
+  "title": "COMPONENTS",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "NOTE This clause will be transferred to Section 1, Clause 4 in  its next revision."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4",
+      "Clause 4",
+      "Section 1",
+      "clause w"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [
+    "201.1",
+    "201.2",
+    "201.3",
+    "201.4"
+  ],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\201.json"
+}

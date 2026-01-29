@@ -1,0 +1,33 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.1.2",
+  "title": "Design",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Filters should be located as near as possible to the apparatus which is the disturbing or disturbed apparatus,  to minimise the impedance of the connection. Filters should be enclosed in the apparatus enclosure or  mounted in a dedicated unit installed in its proximity (e.g. use of a transient suppression plate)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When surge protective devices are used, they often need to be located before filters."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Filters should be located as near as possible to the apparatus which is the disturbing or disturbed apparatus,  to minimise the impedance of the connection. Filters should be enclosed in the apparatus enclosure or  mounted in a dedicated unit installed in its proximity (e.g. use of a transient suppression plate)."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.1.2.json"
+}

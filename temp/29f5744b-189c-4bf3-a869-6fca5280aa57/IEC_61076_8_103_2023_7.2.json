@@ -1,0 +1,21 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2",
+  "title": "Test schedules",
+  "parent_id": "7",
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "7.2.1",
+    "7.2.2"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.json"
+}

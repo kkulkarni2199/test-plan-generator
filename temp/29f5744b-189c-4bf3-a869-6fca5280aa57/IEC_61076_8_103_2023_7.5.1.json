@@ -1,0 +1,35 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.5.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.5.1",
+  "title": "Wiring",
+  "parent_id": "7.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The specimens are to be wired according to 6.6 of IEC 61984:2008."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les sp\u00e9cimens sont \u00e0 c\u00e2bler conform\u00e9ment \u00e0 6.6 de l'IEC 61984:2008."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2008",
+      "6.6",
+      "61984"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6.6"
+    ],
+    "standards": [
+      "IEC 61984:2008"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.5.1.json"
+}

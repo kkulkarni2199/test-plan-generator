@@ -1,0 +1,69 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "1.2",
+  "title": "Conformance",
+  "parent_id": "1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For a cabling installation to conform to this European Standard:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the planning of the installation shall meet the requirements of Clause 4;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the installation practices shall meet the requirements of Clause 5;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) local regulations, including safety, shall be met."
+    },
+    {
+      "type": "paragraph",
+      "text": "The responsibilities for specific elements of conformance may be made by national-specific amendment of  Annex C."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) the planning of the installation shall meet the requirements of Clause 4;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) the installation practices shall meet the requirements of Clause 5;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) local regulations, including safety, shall be met."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The responsibilities for specific elements of conformance may be made by national-specific amendment of  Annex C."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "4",
+      "5",
+      "Annex C",
+      "Clause 4",
+      "Clause 5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\1.2.json"
+}

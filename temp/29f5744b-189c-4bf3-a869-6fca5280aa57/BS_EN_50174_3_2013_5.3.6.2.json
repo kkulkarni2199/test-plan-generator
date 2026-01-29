@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.6.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.6.2",
+  "title": "Recommendations",
+  "parent_id": "5.3.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Closures should only be used where the design can accommodate correct use of cables and connecting  hardware i.e. minimum bend radii of cables and cable elements and environmental protection."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Closures should only be used where the design can accommodate correct use of cables and connecting  hardware i.e. minimum bend radii of cables and cable elements and environmental protection."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.6.2.json"
+}

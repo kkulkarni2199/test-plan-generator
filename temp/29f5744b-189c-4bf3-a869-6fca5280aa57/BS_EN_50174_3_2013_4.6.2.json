@@ -1,0 +1,72 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.6.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.6.2",
+  "title": "Requirements",
+  "parent_id": "4.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Closures (other than direct burial types) shall be located such that:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) it is possible to undertake subsequent measurements, repair, expansion or extension of the installed  cabling with minimal disruption and in safety;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) unauthorised access is limited in accordance with the appropriate risk level."
+    },
+    {
+      "type": "paragraph",
+      "text": "The cable entrance to closures shall:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) maintain the environmental performance of the closure;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) provide the necessary cable support and prevent kinking at the point of entry into the closure;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) provide strain relief for the cable if not already done by separate fixtures within the closure;"
+    },
+    {
+      "type": "list_item",
+      "text": "4) be capable of accepting suitable glands."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Closures (other than direct burial types) shall be located such that:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The cable entrance to closures shall:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.6.2.json"
+}

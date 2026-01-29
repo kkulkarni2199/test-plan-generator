@@ -1,0 +1,62 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.8.2.1.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.8.2.1.4",
+  "title": "Hand holes",
+  "parent_id": "4.8.2.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The selection of the type of hand hole shall consider:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) access volume required;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) location: armoured cover plates with security locks shall be considered where it is desirable to prevent  unauthorised access."
+    },
+    {
+      "type": "list_item",
+      "text": "c) loading: covers for hand holes are specified in EN 124;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) available space;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) local regulations;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) risk of damage: direct burial could provide a solution but would present access difficulties."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The selection of the type of hand hole shall consider:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) location: armoured cover plates with security locks shall be considered where it is desirable to prevent  unauthorised access."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "124"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "EN 124"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.8.2.1.4.json"
+}

@@ -1,0 +1,217 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.7.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.7.1.2",
+  "title": "Requirements",
+  "parent_id": "4.3.7.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Supporting structures, e.g. poles, shall be selected to be of dimensions and strength suitable for their length  and the load they are intended to carry, taking into account influences due to climatic and soil conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Supporting structures shall be suitably treated to prevent decay and any such treatment shall be suitable for  the environment in which the structures are to be erected, taking account of the risk of contamination of the  water table (see ITU-T L.88 for additional information)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The planning of installation requires detailed information regarding:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the type and location of supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the local variation of temperature;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) local wind and ice loads."
+    },
+    {
+      "type": "paragraph",
+      "text": "A survey shall be undertaken of all supporting structures that are to be used and shall document the  following:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) the distances between supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) physical/mechanical condition of supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) restrictions of installation access below or between towers or poles;"
+    },
+    {
+      "type": "paragraph",
+      "text": "The survey shall identify:"
+    },
+    {
+      "type": "list_item",
+      "text": "the nature and extent of work required at each point of support;"
+    },
+    {
+      "type": "list_item",
+      "text": "requirements for replacement, refurbishment or strengthening (such as anchor wires or stays) of any  supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "storage locations for installation equipment, cable drums (or reels);"
+    },
+    {
+      "type": "list_item",
+      "text": "installation methods and special tools;"
+    },
+    {
+      "type": "list_item",
+      "text": "fittings required to attach information technology cabling to the supporting structures (including special  fitting to implement changes in direction or gradient at towers or poles);"
+    },
+    {
+      "type": "list_item",
+      "text": "location of joint closures and service loops on supporting structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The position and selection of supporting structures and associated strengthening components (anchor wires,  stays, struts) shall be designed to allow repair, development or removal of information technology cables  without affecting the mechanical strength of supporting structures. Any anchor points installed on building  structures or supplementary poles shall be at least 2,5 m above the ground."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information technology cable route shall be installed to respect the minimum clearances above ground  given in Table 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sag during operation (including any maintenance activities) of the information technology cable between  supporting structures shall be determined based upon the information provided by the supplier of the  information technology cable (or catenary wire, if present) that is relevant to the following conditions:"
+    },
+    {
+      "type": "list_item",
+      "text": "the distance between supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "the predicted supplementary loadings of wind, ice and maintenance activity;"
+    },
+    {
+      "type": "list_item",
+      "text": "the predicted temperature range."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum height of cables shall comply with national or local regulations during installation, maintenance  and operation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where multiple cables are to be installed on a common aerial pathway, the sag of the different cables shall  be calculated and measures taken to prevent risk of damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 7 provides additional requirements for overhead routes in close proximity to, or crossing, railways."
+    },
+    {
+      "type": "paragraph",
+      "text": "Special consideration shall be given to overhead routes in close proximity to, or crossing, tramways, trolley  bus cables, cable railways, cable ways, ski and chair lifts."
+    },
+    {
+      "type": "paragraph",
+      "text": "For aerial crossings of waterways (navigable rivers, canals and other stretches of water), details shall be  obtained in respect of the stipulated minimum clearance between the cables at maximum sag and the  surface of the water at the highest navigable water level. Any measures, required for the protection of  shipping, shall be ascertained from the authorities responsible for waterways and shipping."
+    },
+    {
+      "type": "paragraph",
+      "text": "For crossings of high water protection installations (dikes), the presence of above ground information  technology cables shall not interfere with the maintenance of such installations; the responsible authorities  shall be involved at the planning stage of the information technology cabling."
+    }
+  ],
+  "tables": [
+    {
+      "number": "5",
+      "caption": "Table 5 Minimum installed clearances above ground for aerial cables",
+      "html": "<table><tbody><tr><th>Location</th><th>Clearance<br>m</th></tr><tr><td>Motorway, main roads</td><td>6</td></tr><tr><td>Non electric railway</td><td>6</td></tr><tr><td>Minor road crossings, areas accessible to vehicular<br>traffic, field path, campus entrance</td><td>5,5</td></tr><tr><td>Minimum clearance no traffic crossing</td><td>4</td></tr><tr><td>Non-navigable waterways</td><td>5</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Supporting structures, e.g. poles, shall be selected to be of dimensions and strength suitable for their length  and the load they are intended to carry, taking into account influences due to climatic and soil conditions."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Supporting structures shall be suitably treated to prevent decay and any such treatment shall be suitable for  the environment in which the structures are to be erected, taking account of the risk of contamination of the  water table (see ITU-T L.88 for additional information)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "A survey shall be undertaken of all supporting structures that are to be used and shall document the  following:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The survey shall identify:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The position and selection of supporting structures and associated strengthening components (anchor wires,  stays, struts) shall be designed to allow repair, development or removal of information technology cables  without affecting the mechanical strength of supporting structures. Any anchor points installed on building  structures or supplementary poles shall be at least 2,5 m above the ground."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information technology cable route shall be installed to respect the minimum clearances above ground  given in Table 5."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The sag during operation (including any maintenance activities) of the information technology cable between  supporting structures shall be determined based upon the information provided by the supplier of the  information technology cable (or catenary wire, if present) that is relevant to the following conditions:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The minimum height of cables shall comply with national or local regulations during installation, maintenance  and operation."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where multiple cables are to be installed on a common aerial pathway, the sag of the different cables shall  be calculated and measures taken to prevent risk of damage."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Special consideration shall be given to overhead routes in close proximity to, or crossing, tramways, trolley  bus cables, cable railways, cable ways, ski and chair lifts."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For aerial crossings of waterways (navigable rivers, canals and other stretches of water), details shall be  obtained in respect of the stipulated minimum clearance between the cables at maximum sag and the  surface of the water at the highest navigable water level. Any measures, required for the protection of  shipping, shall be ascertained from the authorities responsible for waterways and shipping."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "For crossings of high water protection installations (dikes), the presence of above ground information  technology cables shall not interfere with the maintenance of such installations; the responsible authorities  shall be involved at the planning stage of the information technology cabling."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "7",
+      "88",
+      "Clause 7",
+      "Table 5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.7.1.2.json"
+}

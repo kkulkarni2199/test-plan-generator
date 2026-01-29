@@ -1,0 +1,91 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::201.4",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "201.4",
+  "title": "Electrical Connections",
+  "parent_id": "201",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "201.4.1 The requirements described in 201.4.2 to  201.4.4 apply to connections of internal wiring that are  factory installed in the accessory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "201.4.2 A splice or connection shall be mechanically  secure and shall make electrical contact."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "201.4.3 A soldered connection is determined to be  mechanically secure when the lead is:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) wrapped one full turn around a terminal;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) bent at a right angle after being passed through an  eyelet or opening, except on printed wiring boards  where components are inserted or secured (as in a  surface-mounted component) and wave-soldered  or lap-soldered;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) twisted with other conductors; or"
+    },
+    {
+      "type": "list_item",
+      "text": "d) an equivalent means."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "201.4.4 A splice shall be provided with insulation  equivalent to that of the wires involved unless  permanent clearance and creepage distances are  maintained between the splice and other metal parts.  Insulation over the splice is not prohibited from having:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) a splicing device such as a pressure wire connector,  having suitable voltage and temperature ratings,"
+    },
+    {
+      "type": "list_item",
+      "text": "b) insulating tubing or sleeving used to cover a  splice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "201.4.2 A splice or connection shall be mechanically  secure and shall make electrical contact."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "201.4.4 A splice shall be provided with insulation  equivalent to that of the wires involved unless  permanent clearance and creepage distances are  maintained between the splice and other metal parts.  Insulation over the splice is not prohibited from having:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "201.4.1",
+      "201.4.2",
+      "201.4.3",
+      "201.4.4"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\201.4.json"
+}

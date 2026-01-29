@@ -1,0 +1,97 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::1",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "1",
+  "title": "SCOPE",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This section of IS 17017(Part 2) covers requirements  of plugs, socket-outlets, vehicle connectors and vehicle  inlets with pins and contact-tubes of standardized  configurations, herein referred to as accessories, with  nominal rated operating voltage not exceeding 415  V a.c., 50 Hz and a rated current not exceeding 63 A  three-phase or 70 A single phase, for use in conductive  charging of electric vehicles."
+    },
+    {
+      "type": "paragraph",
+      "text": "This section of IS 17017 (Part 2) covers the basic  interface accessories for vehicle supply as specified  in IS 17017 (Part 2/Sec 1), and intended for use in  conductive charging systems for circuits specified in IS  17017(Part 1):2018."
+    },
+    {
+      "type": "list_item",
+      "text": "1 Electric road vehicles (EV) implies all road vehicles,  including plug-in hybrid road vehicles (PHEV), that derive all  or part of their energy from RESS."
+    },
+    {
+      "type": "list_item",
+      "text": "2 These accessories are intended to be used for circuits  specified in IS 17017 (Part 1) : 2018 which operate at different  voltages and frequencies and which may include extra-low  voltage (ELV) and communication signals."
+    },
+    {
+      "type": "list_item",
+      "text": "3 These accessories may be used for bidirectional power  transfer (under consideration)."
+    },
+    {
+      "type": "list_item",
+      "text": "4 This standard applies to accessories to be used in an ambient  temperature between -25\u00b0C outdoor to +55\u00b0C."
+    },
+    {
+      "type": "list_item",
+      "text": "5 These accessories are intended to be connected only to cables  with copper or copper-alloy conductors."
+    },
+    {
+      "type": "list_item",
+      "text": "6 Vehicle inlet and vehicle connector to this standard are  intended to be used for charging in modes 1, 2 and 3, cases B  and C. The socket-outlets and plugs covered by this standard  are intended to be used for charging mode 3 only, case A and B."
+    },
+    {
+      "type": "list_item",
+      "text": "7 The modes and permissible connections are specified in  IS 17017 (Part 2/Sec 1)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "2 These accessories are intended to be used for circuits  specified in IS 17017 (Part 1) : 2018 which operate at different  voltages and frequencies and which may include extra-low  voltage (ELV) and communication signals."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "3 These accessories may be used for bidirectional power  transfer (under consideration)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017",
+      "2",
+      "2018",
+      "25",
+      "3",
+      "4",
+      "415",
+      "5",
+      "50",
+      "55",
+      "6",
+      "63",
+      "7",
+      "70",
+      "section o"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::25",
+      "IS17017_Part2_Sec2_2020::3",
+      "IS17017_Part2_Sec2_2020::4",
+      "IS17017_Part2_Sec2_2020::5",
+      "IS17017_Part2_Sec2_2020::6",
+      "IS17017_Part2_Sec2_2020::63",
+      "IS17017_Part2_Sec2_2020::7"
+    ],
+    "standards": [
+      "IS  17017(Part 1):2018",
+      "IS 17017",
+      "IS 17017 (Part 1) : 2018"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\1.json"
+}

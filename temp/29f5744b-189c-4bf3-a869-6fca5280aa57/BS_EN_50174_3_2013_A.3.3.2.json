@@ -1,0 +1,66 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.3.2",
+  "title": "Design",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The choice of the surge protective devices depends on the following considerations:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the lightning protection zones  if any  of the site;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the amount of energy (voltage, current, duration) to be diverted;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) the location of surge protective devices (primary or secondary protection);"
+    },
+    {
+      "type": "list_item",
+      "text": "d) the allowable amount of disturbance (voltage, current, duration) at the interface (port) of the device;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) protection against surge overvoltages in common and/or differential modes;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) the type of the transmitted signal or cabling service, e.g. EN 50173-1;"
+    },
+    {
+      "type": "list_item",
+      "text": "g) the leakage current or stray capacitance values;"
+    },
+    {
+      "type": "list_item",
+      "text": "h) operational parameters e.g. response time, latching voltage;"
+    },
+    {
+      "type": "list_item",
+      "text": "i) the compliance to product, EMI and safety standards where applicable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "50173"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50173-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.3.2.json"
+}

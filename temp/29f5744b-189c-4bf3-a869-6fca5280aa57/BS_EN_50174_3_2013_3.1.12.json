@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.12",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.12",
+  "title": "rural area",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "area which has a low density of local metallic structures in direct electrical contact with soil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1 to entry: In a rural environment the earthing systems of the substations have their own earth electrodes which are not normally  connected together."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.12.json"
+}

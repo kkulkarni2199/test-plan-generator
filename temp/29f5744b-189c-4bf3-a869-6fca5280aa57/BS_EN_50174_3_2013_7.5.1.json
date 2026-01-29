@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.1",
+  "title": "General",
+  "parent_id": "7.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The requirements and recommendations of this sub-clause:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) apply in the absence of national or local regulations established for railway infrastructures;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) are not applicable to information technology cables which lead to signalling and points  installations which are used for the operation of the railway."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.1.json"
+}

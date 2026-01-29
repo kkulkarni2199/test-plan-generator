@@ -1,0 +1,37 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.14",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.14",
+  "title": "segregation",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "use of earthed electrically conductive barriers or physical separation to prevent electromagnetic interference  between external noise sources, including power supply cabling, and information technology cabling"
+    },
+    {
+      "type": "paragraph",
+      "text": "[SOURCE: EN 50174-2:2009/A1:2011, 3.1.27]"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2",
+      "2009",
+      "2011",
+      "3.1.27",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 50174-2:2009"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.14.json"
+}

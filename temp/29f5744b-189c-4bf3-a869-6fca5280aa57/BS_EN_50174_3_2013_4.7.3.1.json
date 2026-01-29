@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.7.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.7.3.1",
+  "title": "Requirements",
+  "parent_id": "4.7.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Mixing of unscreened and screened components within a channel may cause transmission performance to  be adversely affected and shall only be implemented in accordance with manufacturers or suppliers  instructions."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Mixing of unscreened and screened components within a channel may cause transmission performance to  be adversely affected and shall only be implemented in accordance with manufacturers or suppliers  instructions."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.7.3.1.json"
+}

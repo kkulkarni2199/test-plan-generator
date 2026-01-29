@@ -1,0 +1,25 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5",
+  "title": "Dimensional information",
+  "parent_id": null,
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.json"
+}

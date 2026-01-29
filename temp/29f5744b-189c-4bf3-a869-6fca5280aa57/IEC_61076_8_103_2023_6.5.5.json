@@ -1,0 +1,66 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.5.5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.5.5",
+  "title": "Damp heat, cyclic",
+  "parent_id": "6.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-12, test 11m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Duration: 6 cycles, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the appearance, insulation resistance (6.2.6), voltage proof (6.2.2), contact  resistance (6.2.5), engaging and separating forces (6.3.4) shall meet the requirements of this  specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-12, Essai 11m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dur\u00e9e: 6 h, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: l'aspect, la r\u00e9sistance d'isolement (6.2.6), la tension de tenue (6.2.2), la r\u00e9sistance  de contact (6.2.5) ainsi que les forces d'accouplement et de d\u00e9saccouplement (6.3.4) doivent  satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the appearance, insulation resistance (6.2.6), voltage proof (6.2.2), contact  resistance (6.2.5), engaging and separating forces (6.3.4) shall meet the requirements of this  specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "11",
+      "12",
+      "6",
+      "6.2.2",
+      "6.2.5",
+      "6.2.6",
+      "6.3.4",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::6.2.2",
+      "IEC_61076_8_103_2023::6.2.5",
+      "IEC_61076_8_103_2023::6.2.6",
+      "IEC_61076_8_103_2023::6.3.4"
+    ],
+    "standards": [
+      "IEC 60512-11-12"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.5.5.json"
+}

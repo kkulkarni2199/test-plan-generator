@@ -1,0 +1,101 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.3",
+  "title": "Nuclear areas",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "High levels of electromagnetic noise are produced in the vicinity of nuclear power plant installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The three main electromagnetic couplings are:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) galvanic coupling due to return current by the soil (stray current) and particular attention should be given  to corrosion effects, and EPR areas;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) inductive coupling due to alternating currents;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) radiated coupling due to high-voltage sources (electrostatic influence) and due to antennas for  communication and surveillance services."
+    },
+    {
+      "type": "paragraph",
+      "text": "They produce:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) low frequency electric and magnetic fields in a wide zone;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) low frequency harmonics (up to 9 kHz);"
+    },
+    {
+      "type": "list_item",
+      "text": "3) transients, flashover discharges (e.g. heavy current faults, switching voltage surges);"
+    },
+    {
+      "type": "list_item",
+      "text": "4) high frequency electric fields in a wide zone;"
+    },
+    {
+      "type": "list_item",
+      "text": "5) arcing phenomena (due to very high-voltage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For mitigation techniques see Annex A."
+    },
+    {
+      "type": "paragraph",
+      "text": "This area is subject to EPR due to the presence of very high-voltage and infrastructure protections against  lightning (lightning rods). See Annex B."
+    },
+    {
+      "type": "paragraph",
+      "text": "Relevant national regulation for safe working practices in nuclear and EPR areas shall be complied with."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "a) galvanic coupling due to return current by the soil (stray current) and particular attention should be given  to corrosion effects, and EPR areas;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Relevant national regulation for safe working practices in nuclear and EPR areas shall be complied with."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "9",
+      "Annex A",
+      "Annex B"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.3.json"
+}

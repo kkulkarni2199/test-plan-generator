@@ -1,0 +1,91 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::6.5",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "6.5",
+  "title": "Basic Interface",
+  "parent_id": "6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The basic interface may contain up to 7 power or signal  contacts, with unique physical configurations of contact  positions for single or three phases. The electrical  ratings and their function are described in Table 201.  The electrical ratings and their function are described  in the Standard Sheets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each vehicle inlet shall only mate with the corresponding  type of vehicle connector. Each plug shall only mate  with the corresponding type of socket-outlet."
+    },
+    {
+      "type": "paragraph",
+      "text": "The accessories, configuration types 2 vehicle coupler,  socket-outlet and plug are rated:"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 6.5 )"
+    },
+    {
+      "type": "footnote",
+      "text": "1) For single phase charging, contacts 1 and 4 shall be used."
+    },
+    {
+      "type": "list_item",
+      "text": "a) 240 V, 13 A or 20 A or 32 A or 63 A or 70 A single  phase; and"
+    },
+    {
+      "type": "list_item",
+      "text": "b) 415 V, 13 A or 20 A or 32 A or 63 A, three-phase."
+    }
+  ],
+  "tables": [
+    {
+      "number": "201",
+      "caption": "Table 201 Overview of the Basic Vehicle Interface,  Configuration Types 2, Three-Phase  or Single Phase",
+      "html": "<table><tbody><tr><th></th><th></th><th></th><th></th><th></th></tr><tr><th>Position<br>Number3)</th><th>Umax</th><th colspan=2>Three<br>Single<br>Phase<br>Phase</th><th>Functions</th></tr><tr><td></td><td></td><td>Imax</td><td>Imax</td><td></td></tr><tr><td></td><td>V ac</td><td>A</td><td>A</td><td></td></tr><tr><td></td><td></td><td>Type 2</td><td>Type 21)</td><td></td></tr><tr><td>1</td><td>440</td><td>63</td><td>70</td><td>L1 (mains 1)1)</td></tr><tr><td>2</td><td>440</td><td>63</td><td>-</td><td>L2 (mains 2)</td></tr><tr><td>3</td><td>440</td><td>63</td><td>-</td><td>L3 (mains 3)</td></tr><tr><td>4</td><td>440</td><td>63</td><td>70</td><td>N (neutral)1),2)</td></tr><tr><td>5</td><td>\u2015</td><td colspan=2>Rated for fault</td><td>PE (ground/earth)</td></tr><tr><td>6</td><td>30</td><td colspan=2>2</td><td>CP (Control pilot)</td></tr><tr><td>7</td><td>30</td><td colspan=2>2</td><td>PP (Proximity) or</td></tr><tr><td></td><td></td><td></td><td></td><td>CS<br>(Connection<br>switch)</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The basic interface may contain up to 7 power or signal  contacts, with unique physical configurations of contact  positions for single or three phases. The electrical  ratings and their function are described in Table 201.  The electrical ratings and their function are described  in the Standard Sheets."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Each vehicle inlet shall only mate with the corresponding  type of vehicle connector. Each plug shall only mate  with the corresponding type of socket-outlet."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "13",
+      "2",
+      "20",
+      "201",
+      "240",
+      "32",
+      "4",
+      "415",
+      "6.5",
+      "63",
+      "7",
+      "70",
+      "Clause 6.5",
+      "Table 201"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::13",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::20",
+      "IS17017_Part2_Sec2_2020::201",
+      "IS17017_Part2_Sec2_2020::32",
+      "IS17017_Part2_Sec2_2020::4",
+      "IS17017_Part2_Sec2_2020::6.5",
+      "IS17017_Part2_Sec2_2020::63",
+      "IS17017_Part2_Sec2_2020::7"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\6.5.json"
+}

@@ -1,0 +1,64 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.6.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.6.1",
+  "title": "Requirements",
+  "parent_id": "5.3.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The accessibility and availability of proposed locations of closures in accordance with the installation  schedule shall be confirmed. The client shall be advised of all necessary deviations or actions required."
+    },
+    {
+      "type": "paragraph",
+      "text": "Closures shall be:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) fixed or mounted in position using the recommended fittings;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) labelled and identified according to the installation specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Optical fibre adaptors within closures shall be fixed or fitted with suitable protective caps to prevent the  ingress of foreign material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Documentation shall be provided to enable subsequent installation of the cabling into the closures."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The accessibility and availability of proposed locations of closures in accordance with the installation  schedule shall be confirmed. The client shall be advised of all necessary deviations or actions required."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Closures shall be:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Optical fibre adaptors within closures shall be fixed or fitted with suitable protective caps to prevent the  ingress of foreign material."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Documentation shall be provided to enable subsequent installation of the cabling into the closures."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.6.1.json"
+}

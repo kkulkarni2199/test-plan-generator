@@ -1,0 +1,33 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.4.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.4.1.3",
+  "title": "Recommendations",
+  "parent_id": "4.3.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "When cables with metallic components are buried in rural areas with high risk of lightning strikes, extra  protection should be considered (see 4.9.8)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "When cables with metallic components are buried in rural areas with high risk of lightning strikes, extra  protection should be considered (see 4.9.8)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "4.9.8"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4.9.8"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.4.1.3.json"
+}

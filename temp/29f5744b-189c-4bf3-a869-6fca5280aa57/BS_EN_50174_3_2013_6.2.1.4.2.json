@@ -1,0 +1,38 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.4.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.4.2",
+  "title": "Recommendations",
+  "parent_id": "6.2.1.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Unless national or local regulations specify other requirements, the segregation and protective measures of  Table 10 should be observed."
+    }
+  ],
+  "tables": [
+    {
+      "number": "10",
+      "caption": "Table 10 Minimum clearances and protective measures at crossings between information  technology cables and various underground services",
+      "html": "<table><tbody><tr><th>Other services</th><th>Clearances at<br>crossing</th><th>Protection measures to be applied to the<br>information technology cabling</th></tr><tr><td>Inflammable gas or liquid ducts (operating<br>pressure \u2264 500 kPa)</td><td>0,5 m</td><td>Conduit or duct extending for at least 1,0 m<br>each side of the crossing.</td></tr><tr><td>Inflammable gas or liquid ducts (operating<br>pressure > 500 kPa)</td><td>1,5 m</td><td>Conduit or duct extending for at least 1,0 m<br>each side of the crossing.</td></tr><tr><td>Water pipes sewers and ducts</td><td>0,3 m</td><td>Conduit or duct extending for at least 0,5 m<br>each side of the crossing.</td></tr><tr><td>District heating pipes</td><td>1,0 m</td><td>Conduit or duct extending for at least 0,5 m<br>each side of the crossing.</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Unless national or local regulations specify other requirements, the segregation and protective measures of  Table 10 should be observed."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "10",
+      "Table 10"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.4.2.json"
+}

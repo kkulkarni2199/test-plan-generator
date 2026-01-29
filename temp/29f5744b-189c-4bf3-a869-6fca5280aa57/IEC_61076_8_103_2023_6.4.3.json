@@ -1,0 +1,59 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.4.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.4.3",
+  "title": "Free fall (repeated)",
+  "parent_id": "6.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-7-1, Test 7a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Total number of revolutions: 25."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirement: the appearance of the connectors shall meet the requirements of test phase P1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-7-1, Essai 7a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nombre total de tours: 25."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigence: l'aspect des connecteurs doit satisfaire aux exigences de la phase d'essai P1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirement: the appearance of the connectors shall meet the requirements of test phase P1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "25",
+      "60512",
+      "7"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::7"
+    ],
+    "standards": [
+      "IEC 60512-7-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.4.3.json"
+}

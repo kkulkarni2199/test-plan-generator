@@ -1,0 +1,63 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.1.3",
+  "title": "Closures",
+  "parent_id": "5.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Before installing information technology cabling within closures containing power supply cabling the following  shall be ensured:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the compartment shall prevent inadvertent contact with the power supply cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) where a barrier is used between the mains power cabling and the information technology cabling (either  conducting or non-conducting) it shall meet a minimum of IP20 as specified in EN 60529;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) metallic closures and conductive compartment barriers shall be earthed in accordance with 5.1.1.1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Before installing information technology cabling within closures containing power supply cabling the following  shall be ensured:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) the compartment shall prevent inadvertent contact with the power supply cabling;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) where a barrier is used between the mains power cabling and the information technology cabling (either  conducting or non-conducting) it shall meet a minimum of IP20 as specified in EN 60529;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) metallic closures and conductive compartment barriers shall be earthed in accordance with 5.1.1.1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "5.1.1.1",
+      "60529"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5.1.1.1"
+    ],
+    "standards": [
+      "EN 60529"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.1.3.json"
+}

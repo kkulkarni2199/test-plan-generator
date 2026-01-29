@@ -1,0 +1,35 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.4.2.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.4.2.3",
+  "title": "Recommendations for metallic information technology cables",
+  "parent_id": "4.5.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Metallic information technology cables should not be installed on overhead high-voltage (&gt; AC 1 000 V,  DC 1 500 V) power supply infrastructures."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Metallic information technology cables should not be installed on overhead high-voltage (&gt; AC 1 000 V,  DC 1 500 V) power supply infrastructures."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "000",
+      "1",
+      "500"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.4.2.3.json"
+}

@@ -1,0 +1,21 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.5",
+  "title": "Wiring and mounting of test specimens",
+  "parent_id": "7",
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "7.5.1",
+    "7.5.2"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.5.json"
+}

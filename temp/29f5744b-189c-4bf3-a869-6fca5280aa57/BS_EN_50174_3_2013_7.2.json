@@ -1,0 +1,43 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.2",
+  "title": "Airports",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Different sources of electromagnetic noise exist in the vicinity of airports."
+    },
+    {
+      "type": "paragraph",
+      "text": "Navigation emitters (e.g. Instrument Landing System) and radar (e.g. air traffic control, air and surface  search, airborne systems) produce high frequency electric fields and large peak pulse powers in a wide  zone."
+    },
+    {
+      "type": "paragraph",
+      "text": "For mitigation techniques see Annex A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Care shall be taken to minimise any emissions which could affect navigation systems (e.g. landing systems)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Care shall be taken to minimise any emissions which could affect navigation systems (e.g. landing systems)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "Annex A"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.2.json"
+}

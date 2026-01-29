@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.4.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.4.4",
+  "title": "Recommendations for electrified railways",
+  "parent_id": "7.5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where information technology cables cross beneath electrified railways, the crossing angle should be near to  90\u00b0 in order to minimise the interference zone."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where information technology cables cross beneath electrified railways, the crossing angle should be near to  90\u00b0 in order to minimise the interference zone."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "90"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.4.4.json"
+}

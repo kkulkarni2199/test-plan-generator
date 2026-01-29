@@ -1,0 +1,27 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.3.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.3.1",
+  "title": "Performance levels",
+  "parent_id": "4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "None specified."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non sp\u00e9cifi\u00e9s."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.3.1.json"
+}

@@ -1,0 +1,113 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.8.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.8.3",
+  "title": "Screened cabling",
+  "parent_id": "5.3.8",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The cable screen shall totally surround the cable along its entire length (a screening contact applied only  through the drain wire has little effect at high frequencies)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cable screens shall be terminated at each termination point to maintain the intended performance of the  cable screen termination of connecting hardware. Where instructions for termination of a specific cable are  not available from the manufacturer/supplier of the connecting hardware:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) special attention shall be paid to the assembly of connection elements. The screen contact shall be  applied over 360 degrees according to the Faraday cage principle. The screening connection shall be of  a low impedance design;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the screening shall continue through an appropriate screen connection; normal pin contacts alone shall  not be used;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) discontinuities in the screening shall be avoided: e.g. even small holes in the screen, pigtails or loops; NOTE Discontinuity dimensions of the order of 1 % to 5 % of the wavelength can reduce the overall screening effectiveness"
+    },
+    {
+      "type": "list_item",
+      "text": "d) screen connections shall be firmly fixed, for instance by strapping or clamping;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) screens shall not be used as a strain relief;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) screens shall be bonded in accordance with the installation specification and additional planning  information (see 4.7.3);"
+    },
+    {
+      "type": "list_item",
+      "text": "g) screen connections shall be safeguarded against corrosion and a good electrical contact between all  parts is ensured (maintenance periods may be dependent upon the environment, see EN 50174-1)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The cable screen shall totally surround the cable along its entire length (a screening contact applied only  through the drain wire has little effect at high frequencies)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cable screens shall be terminated at each termination point to maintain the intended performance of the  cable screen termination of connecting hardware. Where instructions for termination of a specific cable are  not available from the manufacturer/supplier of the connecting hardware:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) special attention shall be paid to the assembly of connection elements. The screen contact shall be  applied over 360 degrees according to the Faraday cage principle. The screening connection shall be of  a low impedance design;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) the screening shall continue through an appropriate screen connection; normal pin contacts alone shall  not be used;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) discontinuities in the screening shall be avoided: e.g. even small holes in the screen, pigtails or loops; NOTE Discontinuity dimensions of the order of 1 % to 5 % of the wavelength can reduce the overall screening effectiveness"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "d) screen connections shall be firmly fixed, for instance by strapping or clamping;"
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "e) screens shall not be used as a strain relief;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "f) screens shall be bonded in accordance with the installation specification and additional planning  information (see 4.7.3);"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "g) screen connections shall be safeguarded against corrosion and a good electrical contact between all  parts is ensured (maintenance periods may be dependent upon the environment, see EN 50174-1)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "360",
+      "4.7.3",
+      "5",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::4.7.3",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": [
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.8.3.json"
+}

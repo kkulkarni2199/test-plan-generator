@@ -1,0 +1,48 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.1.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.1.4",
+  "title": "Cables",
+  "parent_id": "5.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Measures shall be taken to prevent any liquids and/or gels present within the information technology cable  from leaking in pathways, closures or at any point of termination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology cables that enter buildings and that do not comply with the minimum recommended  performance requirements of EN 60332-1-2 shall be installed according to the instructions of the planner  (see 4.9.5.1)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Measures shall be taken to prevent any liquids and/or gels present within the information technology cable  from leaking in pathways, closures or at any point of termination."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Information technology cables that enter buildings and that do not comply with the minimum recommended  performance requirements of EN 60332-1-2 shall be installed according to the instructions of the planner  (see 4.9.5.1)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "4.9.5.1",
+      "60332"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 60332-1-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.1.4.json"
+}

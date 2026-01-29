@@ -1,0 +1,27 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.5",
+  "title": "Protection against very low frequency fields",
+  "parent_id": "4.9",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "See A.3.1 for detailed information."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "3.1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3.1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.5.json"
+}

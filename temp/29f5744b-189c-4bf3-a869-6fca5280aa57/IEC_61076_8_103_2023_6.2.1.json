@@ -1,0 +1,47 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.2.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.2.1",
+  "title": "Creepage and clearance distances",
+  "parent_id": "6.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For the connector creepage and clearance distances shall be measured only in mated condition ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Creepage distance 4,5 mm min. Clearance 4,5 mm min."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour ce connecteur, les distances d'isolement et les lignes de fuite doivent \u00eatre uniquement  mesur\u00e9es en \u00e9tat accoupl\u00e9."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ligne de fuite de 4,5 mm au minimum. Distance d'isolement de 4,5 mm au minimum."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For the connector creepage and clearance distances shall be measured only in mated condition ."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "4",
+      "5"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.2.1.json"
+}

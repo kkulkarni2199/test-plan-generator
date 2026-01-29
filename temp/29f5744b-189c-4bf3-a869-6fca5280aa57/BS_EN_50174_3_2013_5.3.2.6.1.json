@@ -1,0 +1,38 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.2.6.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.2.6.1",
+  "title": "Requirements",
+  "parent_id": "5.3.2.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installation process shall not cause damage to, or overload, the supporting infrastructures or create  unsafe situations for the surrounding environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "At the crossing of two or more information technology cables, the installation process shall ensure that the  cables do not touch."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "The installation process shall not cause damage to, or overload, the supporting infrastructures or create  unsafe situations for the surrounding environment."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "At the crossing of two or more information technology cables, the installation process shall ensure that the  cables do not touch."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.2.6.1.json"
+}

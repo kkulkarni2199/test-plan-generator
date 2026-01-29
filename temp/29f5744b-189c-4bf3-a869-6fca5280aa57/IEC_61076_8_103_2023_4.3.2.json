@@ -1,0 +1,44 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.3.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.3.2",
+  "title": "Compatibility levels",
+  "parent_id": "4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The compatibility levels of the products specified by this document shall comply with 2.2.3.3 of  IEC 61076-1:2006 (level 2 \u2013 intermateable)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les niveaux de compatibilit\u00e9 des produits sp\u00e9cifi\u00e9s par le pr\u00e9sent document doivent \u00eatre  conformes \u00e0 2.2.3.3 de l'IEC 61076-1:2006 (niveau 2 \u2013 accouplable)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The compatibility levels of the products specified by this document shall comply with 2.2.3.3 of  IEC 61076-1:2006 (level 2 \u2013 intermateable)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "2.2.3.3",
+      "2006",
+      "61076"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2"
+    ],
+    "standards": [
+      "IEC 61076-1:2006"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.3.2.json"
+}

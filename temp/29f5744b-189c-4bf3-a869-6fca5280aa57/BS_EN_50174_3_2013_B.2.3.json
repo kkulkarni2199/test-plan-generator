@@ -1,0 +1,640 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::B.2.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "B.2.3",
+  "title": "Example of a hot zone around HV installations exceeding 25 kV",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where the EPR is not known, the limit of the hot zone can be taken from Table B.2 (\u03c1 in \u03a9m gives the  distances d in m)."
+    },
+    {
+      "type": "caption",
+      "text": "Table B.2 Minimum distance (HV installations exceeding 25 kV)"
+    },
+    {
+      "type": "paragraph",
+      "text": "(informative)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In order to minimise any ambiguity resulting from the use of a standard, it is preferable that a standard both  specifies requirements and defines who is responsible for meeting those requirements. For a complex  operation such as the planning and installation of information technology cabling it is difficult to specify  responsibilities that are applicable in all circumstances particularly where local regulations apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "This European Standard has been structured to ensure that the requirements and responsibilities of the  installer (defined in EN 50174-1) of the information technology cabling are specified in Clause 5. However,  not all requirements and responsibilities may be applicable to a specific installation e.g. cable management  systems may be installed by others. Nevertheless, the installer would be expected to assess, and advise  appropriately, the compliance of installation outside their control against the requirements of Clause 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "The responsibilities for planning are more complex. It is recommended that the responsibilities of the  planning and installation of each installation are clearly defined using a template of the form shown in  Table C.1."
+    },
+    {
+      "type": "caption",
+      "text": "Table C.1  Responsibilities template"
+    },
+    {
+      "type": "paragraph",
+      "text": "An example of the completion of such a table is shown in Table C.2."
+    },
+    {
+      "type": "caption",
+      "text": "Table C.2  Example of completed responsibilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "A-deviation: National deviation due to regulations, the alteration of which is for the time being outside the  competence of the CENELEC national member."
+    },
+    {
+      "type": "paragraph",
+      "text": "This European Standard does not fall under any Directive of the EU."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the relevant CENELEC countries these A-deviations are valid instead of the provisions of the European  Standard until they have been removed."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per Ordinance on Electricity Supply Lines SR 734.31 from 1st of July  2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The regulation can be found at the following URL: http://www.admin.ch/ch/d/sr/7/734.31.de.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Article 100 forbids the aerial crossings of electrified railways."
+    },
+    {
+      "type": "paragraph",
+      "text": "Article 119 forbids the aerial crossings of motorways."
+    },
+    {
+      "type": "paragraph",
+      "text": "Per Article 14, the minimal clearance distance for walkable or drivable areas is 5 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Per Article 14, the minimal clearance distance for not walkable or not drivable areas is 4 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Per Article 14, the minimal clearance distance for non-navigable waterways is 4 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2.1.1.1 In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per Ordinance on Electricity Supply Lines SR 734.31 from 1st of July  2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The regulation can be found at the following URL: http://www.admin.ch/ch/d/sr/7/734.31.de.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "paragraph",
+      "text": "As per Article 94, paragraph 2, no minimal separation distance is required if the insulation is  sufficient."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2.1.2.1 In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per Ordinance on Electricity Supply Lines SR 734.31 from 1st of July  2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The regulation can be found at the following URL: http://www.admin.ch/ch/d/sr/7/734.31.de.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "paragraph",
+      "text": "As per Article 96, a minimal separation distance of 0,3 m has to be maintained. If either the  information technology cables or the power supply cables (or both) are installed in nonconducting conduit or duct or separated by a non-conducting barrier, no minimum separation  between information technology cables and power supply cables are required."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.2.1.3.2,  Table 8 and Table 9 In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per Ordinance on Electrical Weak Current Installations SR 734.1  from 1st of July 2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The regulation can be found at the following URL:http://www.admin.ch/ch/f/rs/7/734.1.fr.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "This ordinance applies to the erection, operating and maintenance of weak current electrical  installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "As per Article 8a, if no protective measures are taken, the following separation distances shall  be maintained:"
+    },
+    {
+      "type": "list_item",
+      "text": "For low voltage installation, a minimum separation distance of 30 cm shall be  maintained"
+    },
+    {
+      "type": "list_item",
+      "text": "For high voltage installations with isolated neutral, a minimum separation distance of  30 cm shall be maintained."
+    },
+    {
+      "type": "list_item",
+      "text": "For high voltage installations with arc suppression coil, a minimum separation  distance of 10 m shall be maintained."
+    },
+    {
+      "type": "list_item",
+      "text": "For high voltage installations with directly earthed neutral, a minimum separation  distance of 20 m shall be maintained."
+    },
+    {
+      "type": "paragraph",
+      "text": "The separation distance is independent from soil resistivity."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.3.1.2.1,  Table 11 In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per Ordinance on Electricity Supply Lines SR 734.31 from 1st of July  2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The regulation can be found at the following URL: http://www.admin.ch/ch/d/sr/7/734.31.de.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Articles 81 and 89 as well as Appendix 17 mention that the following minimum separation  distances between parallel lines shall be maintained:"
+    },
+    {
+      "type": "list_item",
+      "text": "Between Information technology overhead wires and Overhead power supply &lt; AC  1 000 V r.m.s. or DC 1 500 V, the minimum distance is 2 m"
+    },
+    {
+      "type": "list_item",
+      "text": "Between Information technology cables and Overhead power supply &lt; AC 1 000 V  r.m.s. or DC 1 500 V (Power supply cables (insulated) or Power supply cables  (uninsulated)), the minimum distance is 1,5 m"
+    },
+    {
+      "type": "list_item",
+      "text": "Between Information technology cables and Overhead power supply &gt; AC 1 000 V  r.m.s. or DC 1 500 V (Power supply poles), the minimum distance is 2 m"
+    },
+    {
+      "type": "list_item",
+      "text": "Between Information technology poles and Overhead power supply &gt; AC 1 000 V r.m.s. or"
+    },
+    {
+      "type": "paragraph",
+      "text": "DC 1 500 V (Power supply poles), the minimum distance is 10m if the parallel length is  smaller than 300 m and 20 m otherwise."
+    },
+    {
+      "type": "paragraph",
+      "text": "6.3.1.4.1 In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per Ordinance on Electricity Supply Lines SR 734.31 from 1st of July  2012."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The regulation can be found at the following URL: http://www.admin.ch/ch/d/sr/7/734.31.de.pdf"
+    },
+    {
+      "type": "paragraph",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Articles 81 and 89 as well as Appendix 17 mention that the minimum separation distance is  1,5 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "7.5.4.2 In Switzerland, the following requirements are applicable, instead of the requirements of the  clauses of this EN as per SN EN 50122-1:2011, Railway applications - Fixed installations - Electrical safety, earthing and the return circuit - Part 1: Protective provisions against  electric shock."
+    },
+    {
+      "type": "paragraph",
+      "text": "The national defined values are 3 m for high voltage and 2 m for low voltage."
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50098 (all parts), Customer premises cabling for Information Technology"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50121 (all parts), Railway applications Electromagnetic compatibility"
+    },
+    {
+      "type": "paragraph",
+      "text": "CLC/TR 50173-99-2:2012, Information technology Implementation of BCT applications using cabling in  accordance with EN 50173-4"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50174-2:2009 + A1:2011+AC:2011, Information technology  Cabling installation  Part 2: Installation  planning and practices inside buildings"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50288 (all parts), Multi-element metallic cables used in analogue and digital communication and control"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50341-1, Overhead electrical lines exceeding AC 45 kV Part 1: General requirements \u2013 Common  specifications"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50406 (all parts), End user multi-pair cables used in high bit rate telecommunication networks"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50407 (all parts), Multi-pair cables used in high bit rate digital access telecommunication networks"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 50700, Information technology  Premises distribution access network (PDAN) cabling to support  deployment of optical broadband networks"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 61140, Protection against electric shock  Common aspects for installation and equipment (IEC 61140)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 61663-1 3), Lightning protection  Telecommunication lines  Part 1: Fibre optic installations (IEC 61663-1)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 61663-2 3), Lightning protection Telecommunication lines  Part 2: Lines using metallic conductors (IEC 61663-2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EN 62305 (all parts), Protection against lightning (IEC 62305 series)"
+    },
+    {
+      "type": "paragraph",
+      "text": "HD 637 S1, Power installations exceeding 1 kV a.c."
+    },
+    {
+      "type": "paragraph",
+      "text": "IEC/TR 61000-5-3, Electromagnetic compatibility (EMC)  Part 5-3: Installation and mitigation guidelines  HEMP protection concepts"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.8, Separation in the soil between telecommunication cables and earthing system of power facilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.12, Characteristics of gas discharge tubes for the protection of telecommunications installations"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.20, Resistibility of telecommunication equipment installed in a telecommunications centre to  overvoltages and overcurrents"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.21, Resistibility of telecommunication equipment installed in customer premises to overvoltages and  overcurrents"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.28, Characteristics of semi-conductor arrester assemblies for the protection of telecommunications  installations"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.44, Resistibility tests for telecommunication equipment exposed to overvoltages and overcurrents Basic Recommendation"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+    },
+    {
+      "type": "footnote",
+      "text": "3) Standard withdrawn without replacement in IEC and CENELEC."
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T K.45, Resistibility of telecommunication equipment installed in the access and trunk networks to  overvoltages and overcurrents"
+    },
+    {
+      "type": "paragraph",
+      "text": "ITU-T L.88, Management of poles carrying overhead telecommunication lines"
+    },
+    {
+      "type": "paragraph",
+      "text": "BSI is the national body responsible for preparing British Standards and other  standards-related publications, information and services."
+    },
+    {
+      "type": "paragraph",
+      "text": "BSI is incorporated by Royal Charter. British Standards and other standardization  products are published by BSI Standards Limited."
+    },
+    {
+      "type": "paragraph",
+      "text": "We bring together business, industry, government, consumers, innovators and others to shape their combined experience and expertise into standards -based solutions."
+    },
+    {
+      "type": "paragraph",
+      "text": "The knowledge embodied in our standards has been carefully assembled in  a dependable format and refined through our open consultation process.  Organizations of all sizes and across all sectors choose standards to help them achieve their goals."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can provide you with the knowledge that your organization needs to succeed. Find out more about British Standards by visiting our website at  bsigroup.com/standards or contacting our Customer Services team or Knowledge Centre."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can buy and download PDF versions of BSI publications, including British and adopted European and international standards, through our website at  bsigroup.com/shop, where hard copies can also be purchased."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need international and foreign standards from other Standards Development  Organizations, hard copies can be ordered from our Customer Services team."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our range of subscription services are designed to make using standards easier for you. For further information on our subscription products go to bsigroup.com/subscriptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "With British Standards Online (BSOL) you'll have instant access to over 55,000  British and adopted European and international standards from your desktop. It's available 24/7 and is refreshed daily so you'll always be up to date."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can keep in touch with standards developments and receive substantial  discounts on the purchase price of standards, both in single copy and subscription  format, by becoming a BSI Subscribing Member."
+    },
+    {
+      "type": "paragraph",
+      "text": "PLUS is an updating service exclusive to BSI Subscribing Members. You will  automatically receive the latest hard copy of your standards when they're revised or replaced."
+    },
+    {
+      "type": "paragraph",
+      "text": "To find out more about becoming a BSI Subscribing Member and the benefits of membership, please visit bsigroup.com/shop."
+    },
+    {
+      "type": "paragraph",
+      "text": "With a Multi-User Network Licence (MUNL) you are able to host standards  publications on your intranet. Licences can cover as few or as many users as you  wish. With updates supplied as soon as they're available, you can be sure your  documentation is current. For further information, email bsmusales@bsigroup.com."
+    },
+    {
+      "type": "paragraph",
+      "text": "389 Chiswick High Road London W4 4AL UK"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our British Standards and other publications are updated by amendment or revision."
+    },
+    {
+      "type": "paragraph",
+      "text": "We continually improve the quality of our products and services to benefit your  business. If you find an inaccuracy or ambiguity within a British Standard or other  BSI publication please inform the Knowledge Centre."
+    },
+    {
+      "type": "paragraph",
+      "text": "All the data, software and documentation set out in all British Standards and  other BSI publications are the property of and copyrighted by BSI, or some person  or entity that owns copyright in the information used (such as the international  standardization bodies) and has formally licensed such information to BSI for  commercial publication and use. Except as permitted under the Copyright, Designs  and Patents Act 1988 no extract may be reproduced, stored in a retrieval system  or transmitted in any form or by any means \u2013 electronic, photocopying, recording  or otherwise \u2013 without prior written permission from BSI. Details and advice can  be obtained from the Copyright &amp; Licensing Department."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel: +44 845 086 9001"
+    },
+    {
+      "type": "paragraph",
+      "text": "Email (orders): orders@bsigroup.com Email (enquiries): cservices@bsigroup.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel: +44 845 086 9001"
+    },
+    {
+      "type": "paragraph",
+      "text": "Email: subscriptions@bsigroup.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel: +44 20 8996 7004"
+    },
+    {
+      "type": "paragraph",
+      "text": "Email: knowledgecentre@bsigroup.com"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel: +44 20 8996 7070 Email: copyright@bsigroup.com"
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th rowspan=2>Time to clear the<br>power fault<br>s</th><th colspan=7>Fault current flowing to earth</th></tr><tr><th>4 kA</th><th>8 kA</th><th>12 kA</th></tr><tr><td>t \u2264 0,2</td><td>\u03c1/2</td><td>\u03c1</td><td>1,5\u03c1</td></tr><tr><td>0,2 < t \u2264 0,35</td><td>2\u03c1/3</td><td>4\u03c1/3</td><td>2\u03c1</td></tr><tr><td>0,35 < t \u2264 0,5</td><td>5\u03c1/6</td><td>5\u03c1/3</td><td>2,5\u03c1</td></tr><tr><td>0,5 < t \u2264 1</td><td>5\u03c1/4</td><td>2,5\u03c1</td><td>4\u03c1</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th colspan=8>Responsibility</th><th></th></tr><tr><th>Clause</th><th></th><th>IIT</th><th>O</th><th>P</th><th>IMP</th><th>M</th><th>N</th><th>U</th><th>Other</th></tr><tr><td>4</td><td>Requirements for planning installations of information technology cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.1<br>4.1.2</td><td>Personnel<br>Power supply cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.3</td><td>Optical fibre cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.4</td><td>Transmission and terminal equipment</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.5</td><td>Cells and batteries</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.6</td><td>Cable management systems</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.7</td><td>Closures</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.8</td><td>Cables</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.9</td><td>Termination points</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.2</td><td>Documentation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.3</td><td>Pathways</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.4<br>4.5</td><td>Pathway systems<br>Pathway systems other than for core and access</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.6</td><td>Closures</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.7</td><td>Cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.8</td><td>Spaces and structures</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.9</td><td>Spaces and structures other than for core and</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>access networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.10</td><td>Administration</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>Requirements for the installation of information technology cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.1</td><td>General</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.2</td><td>Pathways</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.3</td><td>Closures</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.4</td><td>Cables</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.2</td><td>Documentation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3</td><td>Installation practice</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.1</td><td>Storage of cabling components and equipment</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.2</td><td>Pathways</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.3</td><td>Pathways other than for core and access networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.4</td><td>Pathway systems</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.5</td><td>Pathways systems other than for core and access<br>networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.6</td><td>Closures</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.7</td><td>Cable installation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.8</td><td>Jointing and termination of cables</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.9</td><td>Cords and jumpers</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.10</td><td>Spaces and structures</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.11</td><td>Spaces and structures other than for core and<br>access networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.12</td><td>Protection against very low frequency fields</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.13</td><td>Electrical isolation components</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.14</td><td>Surge protective devices</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.15</td><td>Protection against lightning</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.16</td><td>Protection against electrostatic discharge (ESD)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.4</td><td>Labelling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.5</td><td>Testing</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.6</td><td>Contractual acceptance</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Key</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IIT</td><td>Installer of information technology cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMP</td><td>Installer of mains power cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M</td><td>Manufacturer</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td>Network provider</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>O</td><td>Premises owner</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Designated planner</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th colspan=9>Responsibility</th></tr><tr><th>Clause</th><th></th><th>IIT</th><th>O</th><th>P</th><th>IMP</th><th>M</th><th>N</th><th>U</th><th>Other</th></tr><tr><th>4</th><th>Requirements for planning installations of information technology cabling</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr><tr><td>4.1.1</td><td>Personnel</td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.2</td><td>Power supply cabling</td><td></td><td></td><td>\uf06e</td><td></td><td>\uf06e</td><td>\uf06e</td><td>\uf06e</td><td></td></tr><tr><td>4.1.3</td><td>Optical fibre cabling</td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.4</td><td>Transmission and terminal equipment</td><td></td><td></td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td></tr><tr><td>4.1.5</td><td>Cells and batteries</td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.6</td><td>Cable management systems</td><td></td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.7</td><td>Closures</td><td></td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.8</td><td>Cables</td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.1.9</td><td>Termination points</td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.2</td><td>Documentation</td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td><td>\uf06e</td><td></td></tr><tr><td>4.3</td><td>Pathways</td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.4</td><td>Pathway systems</td><td></td><td>\uf06e<br>\uf06e</td><td>\uf06e<br>\uf06e</td><td>\uf06e<br>\uf06e</td><td></td><td></td><td></td><td></td></tr><tr><td>4.5</td><td>Pathway systems other than for core and access<br>networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.6</td><td>Closures</td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.7</td><td>Cabling</td><td></td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td></tr><tr><td>4.8</td><td>Spaces and structures</td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.9</td><td>Spaces and structures other than for core and</td><td></td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>access networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>4.10</td><td>Administration</td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5</td><td>Requirements for installers of information technology cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.1</td><td>General</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.2</td><td>Pathways</td><td>\uf06e</td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.3</td><td>Closures</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.1.4</td><td>Cables</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.2</td><td>Documentation</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.1</td><td>Storage of cabling components and equipment</td><td>\uf06e</td><td></td><td></td><td>\uf06e</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.2</td><td>Pathways</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.3</td><td>Pathways other than for core and access networks</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.4</td><td>Pathway systems</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.5</td><td>Pathways systems other than for core and access</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.6</td><td>networks<br>Closures</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.7</td><td>Cable installation</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.8</td><td>Jointing and termination of cables</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.9</td><td>Cords and jumpers</td><td></td><td></td><td></td><td></td><td></td><td></td><td>\uf06c</td><td></td></tr><tr><td>5.3.10</td><td>Spaces and structures</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.11</td><td>Spaces and structures other than for core and</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>access networks</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.12</td><td>Protection against very low frequency fields</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.13</td><td>Electrical isolation components</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.14</td><td>Surge protective devices</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.15</td><td>Protection against lightning</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.3.16</td><td>Protection against electrostatic discharge (ESD)</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.4</td><td>Labelling</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.5</td><td>Testing</td><td>\uf06c</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.6</td><td>Contractual acceptance</td><td>\uf06e</td><td>\uf06e</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>5.7</td><td>Operation</td><td></td><td></td><td></td><td></td><td></td><td></td><td>\uf06c</td><td></td></tr><tr><td>Key</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IIT</td><td>Installer of information technology cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>IMP</td><td>Installer of mains power cabling</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>M</td><td>Manufacturer</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>N</td><td>Network provider</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>O</td><td>Premises owner</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P</td><td>Designated planner</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>U</td><td>End-user</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\uf06c</td><td>Sole responsibility</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>\uf06e</td><td>responsible together with others (shall)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>"
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\B_2_3\\figure_1_page_99_picture_0.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 60288
+    },
+    {
+      "number": 2,
+      "path": "output_images\\BS_EN_50174_3_2013\\B_2_3\\figure_2_page_100_picture_0.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 60288
+    },
+    {
+      "number": 3,
+      "path": "output_images\\BS_EN_50174_3_2013\\B_2_3\\figure_3_page_101_picture_38.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 4554
+    }
+  ],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "This European Standard has been structured to ensure that the requirements and responsibilities of the  installer (defined in EN 50174-1) of the information technology cabling are specified in Clause 5. However,  not all requirements and responsibilities may be applicable to a specific installation e.g. cable management  systems may be installed by others. Nevertheless, the installer would be expected to assess, and advise  appropriately, the compliance of installation outside their control against the requirements of Clause 5."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "As per Article 8a, if no protective measures are taken, the following separation distances shall  be maintained:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For low voltage installation, a minimum separation distance of 30 cm shall be  maintained"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For high voltage installations with isolated neutral, a minimum separation distance of  30 cm shall be maintained."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For high voltage installations with arc suppression coil, a minimum separation  distance of 10 m shall be maintained."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For high voltage installations with directly earthed neutral, a minimum separation  distance of 20 m shall be maintained."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Articles 81 and 89 as well as Appendix 17 mention that the following minimum separation  distances between parallel lines shall be maintained:"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The purpose of this Ordinance is to avoid hazards that may arise from electricity supply lines,  as well as from close proximity, parallel routing and intersection of electricity supply lines with  one another, with other installations and with buildings."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "All the data, software and documentation set out in all British Standards and  other BSI publications are the property of and copyrighted by BSI, or some person  or entity that owns copyright in the information used (such as the international  standardization bodies) and has formally licensed such information to BSI for  commercial publication and use. Except as permitted under the Copyright, Designs  and Patents Act 1988 no extract may be reproduced, stored in a retrieval system  or transmitted in any form or by any means \u2013 electronic, photocopying, recording  or otherwise \u2013 without prior written permission from BSI. Details and advice can  be obtained from the Copyright &amp; Licensing Department."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "000",
+      "086",
+      "1",
+      "10",
+      "100",
+      "11",
+      "119",
+      "12",
+      "14",
+      "17",
+      "1988",
+      "2",
+      "20",
+      "2009",
+      "2011",
+      "2012",
+      "21",
+      "24",
+      "25",
+      "28",
+      "3",
+      "30",
+      "300",
+      "389",
+      "4",
+      "44",
+      "45",
+      "5",
+      "500",
+      "50098",
+      "50121",
+      "50122",
+      "50173",
+      "50174",
+      "50288",
+      "50341",
+      "50406",
+      "50407",
+      "50700",
+      "55",
+      "6.2.1.1.1",
+      "6.2.1.2.1",
+      "6.2.1.3.2",
+      "6.3.1.2.1",
+      "6.3.1.4.1",
+      "61000",
+      "61140",
+      "61663",
+      "62305",
+      "637",
+      "7",
+      "7.5.4.2",
+      "7004",
+      "7070",
+      "734.1",
+      "734.31",
+      "8",
+      "81",
+      "845",
+      "88",
+      "89",
+      "8996",
+      "9",
+      "9001",
+      "94",
+      "96",
+      "99",
+      "Clause 5",
+      "Table 11",
+      "Table 8",
+      "Table 9"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::6.2.1.1.1",
+      "BS_EN_50174_3_2013::6.2.1.2.1",
+      "BS_EN_50174_3_2013::6.2.1.3.2",
+      "BS_EN_50174_3_2013::6.3.1.2.1",
+      "BS_EN_50174_3_2013::6.3.1.4.1",
+      "BS_EN_50174_3_2013::7",
+      "BS_EN_50174_3_2013::7.5.4.2"
+    ],
+    "standards": [
+      "EN 50098",
+      "EN 50121",
+      "EN 50122-1:2011",
+      "EN 50173-4",
+      "EN 50174-1",
+      "EN 50174-2:2009",
+      "EN 50288",
+      "EN 50341-1",
+      "EN 50406",
+      "EN 50407",
+      "EN 50700",
+      "EN 61140",
+      "EN 61663-1",
+      "EN 61663-2",
+      "EN 62305",
+      "HD 637",
+      "IEC 61140",
+      "IEC 61663-1",
+      "IEC 61663-2",
+      "IEC 62305",
+      "is  1",
+      "is 1",
+      "is 10m",
+      "is 2",
+      "is 4",
+      "is 5"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\B.2.3.json"
+}

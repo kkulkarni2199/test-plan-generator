@@ -1,0 +1,101 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.4.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.4.1",
+  "title": "Vibration (sine)",
+  "parent_id": "6.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-6-4, Test 6d."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "The fixed and free connectors shall be rigidly installed in a suitable fixture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vibration severity: 10 Hz to 500 Hz and 0,75 mm or 10 g."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sweep cycle: 10 cycles on each of the 3 axes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: 1 \u03bcs max. of duration of disturbance during the test. The appearance, contact  resistance (6.2.5), engaging and separating forces (6.3.4) and IP degree of protection (6.4.4) shall meet the requirements of this specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-6-4, Essai 6d."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "L'embase et la fiche doivent \u00eatre fix\u00e9es de mani\u00e8re rigide dans un syst\u00e8me de fixation  appropri\u00e9."
+    },
+    {
+      "type": "paragraph",
+      "text": "S\u00e9v\u00e9rit\u00e9 des vibrations: 10 Hz \u00e0 500 Hz et 0,75 mm ou 10 g."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cycle de balayage: 10 cycles selon chacun des 3 axes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: Dur\u00e9e de perturbation max. de 1 \u03bcs pendant l'essai. L'aspect, la r\u00e9sistance de  contact (6.2.5), les forces d'accouplement et de d\u00e9saccouplement (6.3.4) ainsi que le degr\u00e9 de  protection IP (6.4.4) doivent satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The fixed and free connectors shall be rigidly installed in a suitable fixture."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: 1 \u03bcs max. of duration of disturbance during the test. The appearance, contact  resistance (6.2.5), engaging and separating forces (6.3.4) and IP degree of protection (6.4.4) shall meet the requirements of this specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "10",
+      "3",
+      "4",
+      "500",
+      "6",
+      "6.2.5",
+      "6.3.4",
+      "6.4.4",
+      "60512",
+      "75"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::6.2.5",
+      "IEC_61076_8_103_2023::6.3.4",
+      "IEC_61076_8_103_2023::6.4.4"
+    ],
+    "standards": [
+      "IEC 60512-6-4"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.4.1.json"
+}

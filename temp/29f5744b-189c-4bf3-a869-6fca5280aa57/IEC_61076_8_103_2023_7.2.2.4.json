@@ -1,0 +1,55 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2.2.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2.2.4",
+  "title": "Test group CP - Moisture",
+  "parent_id": "7.2.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The number of specimens specified in Table 6 shall be subject to the following tests. See  Table 10."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre de sp\u00e9cimens sp\u00e9cifi\u00e9s dans le Tableau 6 doit \u00eatre soumis aux essais suivants. Voir  le Tableau 10."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 10 \u2013 Groupe d'essais CP"
+    }
+  ],
+  "tables": [
+    {
+      "number": "10",
+      "caption": "Table 10 - Test group CP",
+      "html": "<content-ref src='/page/30/Reference/112'></content-ref><table><tbody><tr><th></th><th colspan=3>Test</th><th colspan=2>Measurement to be performed</th><th>Requirements</th></tr><tr><th>Test<br>phase</th><th>Title</th><th>IEC 60<br>512<br>Test<br>NO.</th><th>Severity or condition of test</th><th>Title</th><th>IEC 60<br>512<br>Test<br>NO.</th><th></th></tr><tr><td>CP1</td><td>Damp heat,<br>steady state</td><td>11c</td><td>Duration: 10 days\n\nMated connectors</td><td></td><td></td><td></td></tr><tr><td>CP2</td><td></td><td></td><td></td><td>Contact<br>resistance\u2013<br>Millivolt level<br>method</td><td>2a</td><td>Shall be as per 6.2.5 3 m<math>\\Omega</math> max.</td></tr><tr><td>CP3</td><td></td><td></td><td>Test voltage:<br>500 V DC \u00b1 50 V DC<br>Method A</td><td>Insulation resistance</td><td>3a</td><td>Shall be as per 6.2.6\nBetween contacts, contacts and metal housing: 100 M\u03a9 min.</td></tr><tr><td>CP4</td><td></td><td></td><td>Method A, duration: 1 min<br>Between contacts,<br>contacts and metal<br>housing: 4 000 V AC min.</td><td>Voltage proof</td><td>4a</td><td>Shall be as per 6.2.2<br>No breakdown or<br>flashover.</td></tr><tr><td>CP5</td><td></td><td></td><td>Rate of insertion and withdrawal operation: 10 mm/s max.</td><td>Engaging and separating forces</td><td>13a</td><td>Shall be as per 6.3.4\nEngaging force:\n100 N max.;\nseparating force: 3 N\nto 80 N</td></tr><tr><td>CP6</td><td></td><td></td><td></td><td>Visual<br>examination</td><td>1a</td><td>No defect that would impair normal operation.</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/64/Reference/382'></content-ref><table><tbody><tr><th></th><th colspan=3>Essai</th><th>Mesure \u00e0 effectuer</th><th>Exigences</th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0 d'essai<br>dans la<br>s\u00e9rie<br>IEC 60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition<br>de l'essai</th><th>Titre</th><th>N\u00b0 d'essai<br>dans la<br>s\u00e9rie<br>IEC 60512</th><th></th></tr><tr><td>CP1</td><td>Chaleur<br>humide,<br>essai<br>continu</td><td>11c</td><td>Dur\u00e9e: 10 jours<br>Connecteurs accoupl\u00e9s</td><td></td><td></td><td></td></tr><tr><td>CP2</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013<br>M\u00e9thode du<br>niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>3 m\u03a9 max.</td></tr><tr><td>CP3</td><td></td><td></td><td>Tension d'essai: 500 V<br>CC \u00b1 50 V CC<br>M\u00e9thode A</td><td>R\u00e9sistance<br>d'isolement</td><td>3a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.6<br>Entre contacts, et<br>entre contacts et<br>bo\u00eetier m\u00e9tallique:<br>100 M\u03a9 min.</td></tr><tr><td>CP4</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e:<br>1 min<br>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr><tr><td>CP5</td><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et<br>d'extraction:<br>10 mm/s max.</td><td>Forces<br>d'accouplement<br>et de<br>d\u00e9saccouplement</td><td>13a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4<br>Force<br>d'accouplement:<br>100 N max.; force<br>de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr><tr><td>CP6</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de<br>nuire au<br>fonctionnement<br>normal</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The number of specimens specified in Table 6 shall be subject to the following tests. See  Table 10."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "10",
+      "6",
+      "Table 10",
+      "Table 6"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.2.4.json"
+}

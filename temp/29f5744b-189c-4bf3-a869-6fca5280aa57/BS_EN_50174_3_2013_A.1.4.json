@@ -1,0 +1,76 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.4",
+  "title": "Countermeasures against inductive coupling",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The main countermeasures to minimise the effects of inductive couplings are:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) symmetrical transmission on balanced cabling:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Single conductors are twisted together; the surfaces of possible induction loops are very small. Only few  magnetic field lines penetrate these loops. Adjacent twists create induced voltages in phase opposition  which as a consequence cancel each other. The induced difference between the two conductors  approaches close to zero. On the other hand a common mode disturbance is induced in the loop formed  with the (twisted) conductors and the earth. The influence on the equipment is reduced by the common  mode rejection of the connected port."
+    },
+    {
+      "type": "paragraph",
+      "text": "Screened cabling provides \u2013 depending on the frequency and the materials used \u2013 protection against  magnetic fields if the screen is earthed and/or connected to the equipment bonding system at both cable  ends. In general, no adequate protection against magnetic fields is given, if the screen of the cable is not  connected to ground. Exceptions to this rule exist e.g. when the unconnected cable screen is placed on  the surface of or near to an equipotential bonding system."
+    },
+    {
+      "type": "paragraph",
+      "text": "c) metallic or composite cable management systems specially designed for EMC purposes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Metallic or composite cable management systems specially designed for EMC purposes can diminish  the influence of magnetic fields if:"
+    },
+    {
+      "type": "list_item",
+      "text": "elements are properly bonded;"
+    },
+    {
+      "type": "list_item",
+      "text": "the cable management system has a low impedance connection to the equipotential bonding system  at both ends;"
+    },
+    {
+      "type": "list_item",
+      "text": "the frequency is above a minimum value (depending on material and thickness)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The disturbing magnetic field also induces a current in the loop built up with the cable management  system and the earth. This current creates an opposite magnetic field which compensates the initial one.  At minimum the effect can be improved with a Parallel Earth Conductor to cable. The PEC principle is  explained in IEC/TR 61000-5-3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since both capacitive and inductive coupling exist simultaneously, the composite takes into account the  effect of each contributor, unless one of the two may be neglected."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Since both capacitive and inductive coupling exist simultaneously, the composite takes into account the  effect of each contributor, unless one of the two may be neglected."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "3",
+      "5",
+      "61000"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.4.json"
+}

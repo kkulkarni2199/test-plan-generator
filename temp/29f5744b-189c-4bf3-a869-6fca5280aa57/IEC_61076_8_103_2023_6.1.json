@@ -1,0 +1,52 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.1",
+  "title": "Classification into climatic categories",
+  "parent_id": "6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: according to IEC 60068-1 and Table 4."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: conform\u00e9ment \u00e0 l'IEC 60068-1 et au Tableau 4."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 4 \u2013 Cat\u00e9gorie climatique"
+    }
+  ],
+  "tables": [
+    {
+      "number": "4",
+      "caption": "Table 4 \u2013 Climatic category",
+      "html": "<table><tbody><tr><th>Climatic<br>category</th><th>Lower<br>temperature</th><th>Upper<br>temperature</th><th>Temperature</th><th>Relative<br>humidity</th><th colspan=2>Steady state<br>damp-heat</th></tr><tr><td></td><td>\u00b0C</td><td>\u00b0C</td><td>\u00b0C</td><td>%</td><td>days</td></tr><tr><td>55/125/10</td><td>-55</td><td>+125</td><td>40</td><td>93</td><td>10</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Cat\u00e9gorie<br>climatique</th><th>Temp\u00e9rature<br>inf\u00e9rieure</th><th>Temp\u00e9rature<br>sup\u00e9rieure</th><th>Temp\u00e9rature</th><th>Humidit\u00e9<br>relative</th><th>Chaleur<br>humide, essai<br>continu</th></tr><tr><td></td><td>\u00b0C</td><td>\u00b0C</td><td>\u00b0C</td><td>%</td><td>Jours</td></tr><tr><td>55/125/10</td><td>-55</td><td>+125</td><td>40</td><td>93</td><td>10</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4",
+      "60068",
+      "Table 4"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::4"
+    ],
+    "standards": [
+      "IEC 60068-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.1.json"
+}

@@ -1,0 +1,35 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.4.2.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.4.2.5",
+  "title": "Recommendations for all-dielectric cables",
+  "parent_id": "4.5.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where the voltage carried by the overhead power supply is \u2265 20 kV, insulator fittings of at least 0,3 m length  should be used to isolate the fittings used to attach both cables and joint closures from the structure of the  tower or pole."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where the voltage carried by the overhead power supply is \u2265 20 kV, insulator fittings of at least 0,3 m length  should be used to isolate the fittings used to attach both cables and joint closures from the structure of the  tower or pole."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "20",
+      "3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.4.2.5.json"
+}

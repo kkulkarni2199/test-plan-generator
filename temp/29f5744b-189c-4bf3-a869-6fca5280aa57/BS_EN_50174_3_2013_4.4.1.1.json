@@ -1,0 +1,35 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.4.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.4.1.1",
+  "title": "Introduction",
+  "parent_id": "4.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The requirements and recommendations of this sub-clause are applicable to all pathway systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a pathway system is selected to support a specific cable technology, it may not be suitable for installations  of other cabling technologies in the future."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "If a pathway system is selected to support a specific cable technology, it may not be suitable for installations  of other cabling technologies in the future."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "clause a"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.4.1.1.json"
+}

@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4",
+  "title": "Requirements for planning installations of information technology cabling",
+  "parent_id": null,
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "4.10"
+  ],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.json"
+}

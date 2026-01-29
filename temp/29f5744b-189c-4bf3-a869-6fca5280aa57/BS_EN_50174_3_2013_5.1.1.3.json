@@ -1,0 +1,84 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.1.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.1.1.3",
+  "title": "Optical fibre cabling",
+  "parent_id": "5.1.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The following practices shall be adopted:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) exposed optical fibre ends shall be kept away from the skin and eyes;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the quantity of optical fibre waste shall be minimised;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) waste fragments shall be treated with care and collected (not by hand) and disposed of in suitable  containers via an approved agency or according to local regulations;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) connector end faces, prepared optical fibres or fractured optical fibres shall not be viewed directly unless  the power emitted from the optical fibre is known to be safe (as defined within the EN 60825 series) and  under local control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Installation practice shall be in accordance with the requirements and recommendations of EN 60825-2 for  the relevant hazard classification (see 4.1.3)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The following practices shall be adopted:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) exposed optical fibre ends shall be kept away from the skin and eyes;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) the quantity of optical fibre waste shall be minimised;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) waste fragments shall be treated with care and collected (not by hand) and disposed of in suitable  containers via an approved agency or according to local regulations;"
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "d) connector end faces, prepared optical fibres or fractured optical fibres shall not be viewed directly unless  the power emitted from the optical fibre is known to be safe (as defined within the EN 60825 series) and  under local control."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Installation practice shall be in accordance with the requirements and recommendations of EN 60825-2 for  the relevant hazard classification (see 4.1.3)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "2",
+      "4.1.3",
+      "60825"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4.1.3"
+    ],
+    "standards": [
+      "EN 60825",
+      "EN 60825-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.1.1.3.json"
+}

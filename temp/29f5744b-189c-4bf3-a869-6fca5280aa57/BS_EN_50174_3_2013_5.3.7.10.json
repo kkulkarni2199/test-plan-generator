@@ -1,0 +1,132 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.7.10",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.7.10",
+  "title": "Installation into closures",
+  "parent_id": "5.3.7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cables entering closures shall use appropriate glands and fittings or similar to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) maintain the environmental performance of the closure;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) provide the necessary cable support and prevent cable kinking;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) provide strain relief for the cable if not already provided by separate fixtures within the closure."
+    },
+    {
+      "type": "paragraph",
+      "text": "An excess length of cable shall be provided at each closure to enable subsequent access to the closure for  termination, jointing and repair of the cable. Where the quality plan requires installed cable tests to be  undertaken, prior to the termination or jointing of the cable, the excess length shall take this into account."
+    },
+    {
+      "type": "paragraph",
+      "text": "The bend radii of telecommunications cables and telecommunications cable elements within closures shall  be in accordance with the instructions provided by the telecommunications cable manufacturer and/or  supplier."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any cabling not contained within a cable management system shall be protected from physical damage by  use of appropriate measures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Within closures, each cable element shall be uniquely identifiable using one or more of the following  methods:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) colour coding;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) labelling;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) physical position routing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Closures containing optical fibre terminations or joints shall be labelled in accordance with EN 60825-2 for  the relevant hazard classification (see 4.1.3)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If required by the quality plan, installed cable tests shall be undertaken as soon as practicable following  cable installation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following installation of cables and if required by the installation specification, pressurisation tests shall be  carried out. See EN 60794-1-2:2003, method F8, for information."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cables entering closures shall use appropriate glands and fittings or similar to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "An excess length of cable shall be provided at each closure to enable subsequent access to the closure for  termination, jointing and repair of the cable. Where the quality plan requires installed cable tests to be  undertaken, prior to the termination or jointing of the cable, the excess length shall take this into account."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The bend radii of telecommunications cables and telecommunications cable elements within closures shall  be in accordance with the instructions provided by the telecommunications cable manufacturer and/or  supplier."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Any cabling not contained within a cable management system shall be protected from physical damage by  use of appropriate measures."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Within closures, each cable element shall be uniquely identifiable using one or more of the following  methods:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Closures containing optical fibre terminations or joints shall be labelled in accordance with EN 60825-2 for  the relevant hazard classification (see 4.1.3)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "If required by the quality plan, installed cable tests shall be undertaken as soon as practicable following  cable installation."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Following installation of cables and if required by the installation specification, pressurisation tests shall be  carried out. See EN 60794-1-2:2003, method F8, for information."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "2003",
+      "3",
+      "4.1.3",
+      "60794",
+      "60825"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4.1.3"
+    ],
+    "standards": [
+      "EN 60794-1-2:2003",
+      "EN 60825-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.7.10.json"
+}

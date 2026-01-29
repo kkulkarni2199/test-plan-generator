@@ -1,0 +1,38 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.2.2",
+  "title": "Recommendations",
+  "parent_id": "5.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The location of point deviations from a straight line within underground (or underwater) pathways that are not  otherwise identifiable should be documented e.g. by their global positioning system (GPS) co-ordinates."
+    },
+    {
+      "type": "paragraph",
+      "text": "The location of curves within underground (or underwater) pathways should be documented on as-built  drawings."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The location of point deviations from a straight line within underground (or underwater) pathways that are not  otherwise identifiable should be documented e.g. by their global positioning system (GPS) co-ordinates."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The location of curves within underground (or underwater) pathways should be documented on as-built  drawings."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.2.2.json"
+}

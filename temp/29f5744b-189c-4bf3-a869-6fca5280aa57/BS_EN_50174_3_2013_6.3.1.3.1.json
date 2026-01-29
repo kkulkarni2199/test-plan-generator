@@ -1,0 +1,136 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.3.1.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.3.1.3.1",
+  "title": "Requirements (safety)",
+  "parent_id": "6.3.1.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Special care shall be taken where there are antennas on poles."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sharing of supporting structures with power supply cabling for information technology cabling implies the  installation of:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) information technology cables;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) fittings used to attach the information technology cabling to the poles;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) stays or struts;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) closures and accessories (connection, protection, amplification, radio, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fittings used to attach the information technology cabling to the supporting structures shall be specified to  have a voltage insulation of 4 kV at 50 Hz for one minute (minimum)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology cables shall always be fixed below power supply cabling and associated equipment  (including lighting device and feeder cables)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Closures and accessories shall be installed below the information technology cables. The dimensions and  locations of such closures and accessories shall be agreed between the owner of the supporting structure  and the installer of the information technology cabling."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information technology cabling shall be supported such that the minimum vertical distance on the  supporting structure between power supply and information technology cabling and fittings, is at least:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) 1 m in cases where power supply conductors have no insulation (see Figure 12);"
+    },
+    {
+      "type": "list_item",
+      "text": "2) 0,50 m in cases of power supply cables (insulated) (see Figure 12)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The minimum separation at any point, allowing for sag produced by operating and environmental conditions,  between information technology cables and insulated power supply cables shall be 0,3 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the supporting structures has, or may in the future have, a lighting device fitted, the information technology  cabling and fittings shall be installed at least 0,2 m below the lowest point of the location of the device and its  feeder cable (see Figure 13)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Earthing systems for information technology cabling shall not be installed on poles containing, or intended to  contain, the earthing systems of the power supply cabling."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Special care shall be taken where there are antennas on poles."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Fittings used to attach the information technology cabling to the supporting structures shall be specified to  have a voltage insulation of 4 kV at 50 Hz for one minute (minimum)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Information technology cables shall always be fixed below power supply cabling and associated equipment  (including lighting device and feeder cables)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Closures and accessories shall be installed below the information technology cables. The dimensions and  locations of such closures and accessories shall be agreed between the owner of the supporting structure  and the installer of the information technology cabling."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information technology cabling shall be supported such that the minimum vertical distance on the  supporting structure between power supply and information technology cabling and fittings, is at least:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The minimum separation at any point, allowing for sag produced by operating and environmental conditions,  between information technology cables and insulated power supply cables shall be 0,3 m."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "If the supporting structures has, or may in the future have, a lighting device fitted, the information technology  cabling and fittings shall be installed at least 0,2 m below the lowest point of the location of the device and its  feeder cable (see Figure 13)."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Earthing systems for information technology cabling shall not be installed on poles containing, or intended to  contain, the earthing systems of the power supply cabling."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "12",
+      "13",
+      "2",
+      "3",
+      "4",
+      "50",
+      "Figure 12",
+      "Figure 13"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.3.1.3.1.json"
+}

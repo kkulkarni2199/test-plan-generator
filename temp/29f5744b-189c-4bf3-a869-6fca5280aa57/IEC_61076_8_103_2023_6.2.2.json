@@ -1,0 +1,76 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.2.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.2.2",
+  "title": "Voltage proof",
+  "parent_id": "6.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-4-1, Test 4a, method A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: Test voltage according to Table 5. There shall be no breakdown or flashover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-4-1, Essai 4a, m\u00e9thode A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: tension d'essai conform\u00e9ment au Tableau 5. il ne doit y avoir aucun claquage ni  contournement."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 5 \u2013 Tension de tenue"
+    }
+  ],
+  "tables": [
+    {
+      "number": "5",
+      "caption": "Table 5 \u2013 Voltage proof",
+      "html": "<table><tbody><tr><th>NO.</th><th>Measuring points</th><th>Test voltage</th><th colspan=2>Test time</th></tr><tr><td></td><td></td><td>V AC RMS</td><td>min</td></tr><tr><td>1</td><td>Between contacts, between contacts and metal housing</td><td>4 000</td><td>1</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/51/Reference/174'></content-ref><table><tbody><tr><th>N\u00b0</th><th>Points de mesure</th><th>Tension d'essai</th><th colspan=2>Dur\u00e9e<br>d'essai</th></tr><tr><td></td><td></td><td>V CA eff.</td><td>min</td></tr><tr><td>1</td><td>Entre contacts, et entre contacts et bo\u00eetier m\u00e9tallique</td><td>4 000</td><td>1</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: Test voltage according to Table 5. There shall be no breakdown or flashover."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4",
+      "5",
+      "60512",
+      "Table 5"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "IEC 60512-4-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.2.2.json"
+}

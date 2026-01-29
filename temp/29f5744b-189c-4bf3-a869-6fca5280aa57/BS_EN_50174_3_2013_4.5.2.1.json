@@ -1,0 +1,127 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.2.1",
+  "title": "Requirements",
+  "parent_id": "4.5.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "In view of the cost and disruption associated with excavation of underground pathways, consideration shall  be given to the installation of pathways systems in excess of those initially required."
+    },
+    {
+      "type": "paragraph",
+      "text": "For pathways between a premises boundary and building entrance facility (BEF):"
+    },
+    {
+      "type": "list_item",
+      "text": "a) in commercial or multi-tenant residential premises, conduits without sub-conduits shall be 90 mm  minimum internal diameter;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) on residential premises, conduits without sub-conduits shall be of 38 mm (consistent with Size 40  conduits of the EN 61386 series) minimum internal diameter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Between any two access points including the premises boundary and the BEF:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) there shall not be more than one pre-formed bend of up to 90 degrees;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) deviations shall not exceed a total of 90 degrees;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) bends shall be of 600 mm radius minimum,"
+    },
+    {
+      "type": "list_item",
+      "text": "4) bends in the conduit shall not contain any kinks or other discontinuities that may have a detrimental  effect on the cable sheath during cable pulling operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The inside radius of a bend in conduit shall be at least 6 times the internal conduit diameter. Bends within  conduit shall be accessible and able to act as pulling points unless:"
+    },
+    {
+      "type": "list_item",
+      "text": "no additional cables are to be installed within the conduit, following the initial installation of cable;"
+    },
+    {
+      "type": "list_item",
+      "text": "cables are to be removed before any additional installation takes place."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "In view of the cost and disruption associated with excavation of underground pathways, consideration shall  be given to the installation of pathways systems in excess of those initially required."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) in commercial or multi-tenant residential premises, conduits without sub-conduits shall be 90 mm  minimum internal diameter;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) on residential premises, conduits without sub-conduits shall be of 38 mm (consistent with Size 40  conduits of the EN 61386 series) minimum internal diameter."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "1) there shall not be more than one pre-formed bend of up to 90 degrees;"
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "2) deviations shall not exceed a total of 90 degrees;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "3) bends shall be of 600 mm radius minimum,"
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "4) bends in the conduit shall not contain any kinks or other discontinuities that may have a detrimental  effect on the cable sheath during cable pulling operations."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The inside radius of a bend in conduit shall be at least 6 times the internal conduit diameter. Bends within  conduit shall be accessible and able to act as pulling points unless:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "38",
+      "4",
+      "40",
+      "6",
+      "600",
+      "61386",
+      "90"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": [
+      "EN 61386"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.2.1.json"
+}

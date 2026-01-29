@@ -1,0 +1,40 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.10.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.10.1",
+  "title": "General",
+  "parent_id": "4.10",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The administration (installation) requirements shall be Level 3 of EN 50174-1. The administration (operation)  requirements shall be Level 2 of EN 50174-1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The administration (installation) requirements shall be Level 3 of EN 50174-1. The administration (operation)  requirements shall be Level 2 of EN 50174-1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": [
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.10.1.json"
+}

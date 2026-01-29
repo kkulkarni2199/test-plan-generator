@@ -1,0 +1,74 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.4.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.4.1.3",
+  "title": "Recommendations",
+  "parent_id": "4.5.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Wind vibration damping should be considered where wind is considered to be a particular problem."
+    },
+    {
+      "type": "paragraph",
+      "text": "Solutions include:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) cables with intrinsic resistance to Aeolian vibration;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) where aerial cables are integrated with a catenary wire in a \"figure of 8\" cross-section, the cable should  be twisted between each point of suspension (or with one twist per 10 m between points of suspension);"
+    },
+    {
+      "type": "list_item",
+      "text": "c) for other cables, wind vibration dampers should be added as shown in the example in Figure 5."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The dampers reduce Aeolian vibrations (resonant vibration caused by low velocity wind blowing across a cylindrical cable under  tension."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\4_5_4_1_3\\figure_1_page_36_picture_9.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 10353
+    }
+  ],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Wind vibration damping should be considered where wind is considered to be a particular problem."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "b) where aerial cables are integrated with a catenary wire in a \"figure of 8\" cross-section, the cable should  be twisted between each point of suspension (or with one twist per 10 m between points of suspension);"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "c) for other cables, wind vibration dampers should be added as shown in the example in Figure 5."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "10",
+      "5",
+      "8",
+      "Figure 5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.4.1.3.json"
+}

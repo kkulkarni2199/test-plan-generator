@@ -1,0 +1,48 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::13",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "13",
+  "title": "TERMINALS",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This clause of IS 17017 (Part 2/Sec 1) is applicable  except as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Addition:"
+    },
+    {
+      "type": "paragraph",
+      "text": "13.201 Wire connection of components, for example  coding resistors may be rewirable or non-rewirable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "13.201 Wire connection of components, for example  coding resistors may be rewirable or non-rewirable."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "13.201",
+      "17017",
+      "2",
+      "clause o"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2"
+    ],
+    "standards": [
+      "IS 17017"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\13.json"
+}

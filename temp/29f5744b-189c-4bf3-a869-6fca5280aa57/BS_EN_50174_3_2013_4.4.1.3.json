@@ -1,0 +1,86 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.4.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.4.1.3",
+  "title": "Recommendations",
+  "parent_id": "4.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "It is recommended to plan the pathway systems for the maximum predicted deployment of cabling. This can  be achieved either by deploying sufficient pathway systems at the time of installation or by planning and  reserving space for sufficient additional pathway systems."
+    },
+    {
+      "type": "paragraph",
+      "text": "Provided that the cabling is installed in accordance with EN 50174 series, the cable management system  can contribute to reduce electromagnetic interference:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) through a screening effect on the circuits within the cable management system;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) by improving the cohabitation between circuits contained in the cable management system;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) by reducing perturbations transferred from current flowing through the cable management system onto  circuits contained in the cable management system."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of electromagnetic screening within trays as shown in Figure 4:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) the inner corners provide the greatest effect;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) for a given internal cross-sectional area, high sidewalls provide greater useable capacity."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of electromagnetic screening, where cables are to be installed on metallic building  structural members (e.g. beams), inner corners provide the greatest effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-metallic cable management systems are neutral products from the electromagnetic point of view. They  do not provide electromagnetic screening to the contained cabling, but they do not perturb the cabling by  transferring induced currents or leakage currents. Non-metallic cable management systems should be used  where electromagnetic screening is not required by the cables to be installed within them."
+    },
+    {
+      "type": "paragraph",
+      "text": "The design of ducts, conduit and trunking should allow installation and removal of the cable without risk of  damage."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Non-metallic cable management systems are neutral products from the electromagnetic point of view. They  do not provide electromagnetic screening to the contained cabling, but they do not perturb the cabling by  transferring induced currents or leakage currents. Non-metallic cable management systems should be used  where electromagnetic screening is not required by the cables to be installed within them."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The design of ducts, conduit and trunking should allow installation and removal of the cable without risk of  damage."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "4",
+      "50174",
+      "Figure 4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": [
+      "EN 50174"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.4.1.3.json"
+}

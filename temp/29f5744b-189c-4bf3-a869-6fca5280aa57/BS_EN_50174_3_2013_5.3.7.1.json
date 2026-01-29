@@ -1,0 +1,144 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.7.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.7.1",
+  "title": "General",
+  "parent_id": "5.3.7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Installation of cables shall be in accordance with the instructions supplied by their manufacturers/suppliers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Installation of cable shall be undertaken according to the installation schedule."
+    },
+    {
+      "type": "paragraph",
+      "text": "Metallic information technology cabling and power supply cabling shall be segregated in accordance with the  requirements of Clause 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE Testing of secure/safe/sufficient separation is described in EN 61140 (for mains power AC frequencies of 50 Hz to 60 Hz)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When installing cables, cords or jumpers appropriate techniques shall be applied to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) eliminate cable stress caused by: 1) tension in suspended cable runs;2) tightly cinched cable bundles;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) ensure that minimum bend radii are as specified by the cable manufacturer, supplier or in accordance  with the relevant product standard (rollers or other devices shall be used to avoid damage);"
+    },
+    {
+      "type": "list_item",
+      "text": "c) ensure that the tensile load applied to the cables and cable bundles as specified by the cable  manufacturer, supplier or in accordance with the relevant product standard. When pulling-in cables,  (particularly optical fibre cables) mechanical fuses (or equivalent protection) shall be used to ensure that  the maximum tensile loads established by the cable manufacturer are not exceeded."
+    },
+    {
+      "type": "list_item",
+      "text": "d) unless otherwise stated in the suppliers/manufacturers specification, the maximum tensile load applied  to a bundle shall be that specified for a single cable;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) prevent pressure marks (e.g. through improper fastening or crossovers) on the cable sheath or the cable  elements;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) prevent optical fibre within cables experiencing direct stress following installation (where long vertical  runs are proposed optical fibre cables may need to deviate from the vertical by the inclusion of short  horizontal runs or loops at intervals as recommended by the manufacturer);"
+    },
+    {
+      "type": "list_item",
+      "text": "g) avoid joints other than those in accordance with the installation specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where it is necessary, and relevant permission has been obtained, to open:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) covers of maintenance holes or cable management systems, only the minimum number shall be  removed and these shall be replaced on completion of works."
+    },
+    {
+      "type": "list_item",
+      "text": "2) fire barriers and gas seals shall be opened only when necessary and resealed on completion of works."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Installation of cables shall be in accordance with the instructions supplied by their manufacturers/suppliers."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Installation of cable shall be undertaken according to the installation schedule."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Metallic information technology cabling and power supply cabling shall be segregated in accordance with the  requirements of Clause 6."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "When installing cables, cords or jumpers appropriate techniques shall be applied to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) ensure that minimum bend radii are as specified by the cable manufacturer, supplier or in accordance  with the relevant product standard (rollers or other devices shall be used to avoid damage);"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) ensure that the tensile load applied to the cables and cable bundles as specified by the cable  manufacturer, supplier or in accordance with the relevant product standard. When pulling-in cables,  (particularly optical fibre cables) mechanical fuses (or equivalent protection) shall be used to ensure that  the maximum tensile loads established by the cable manufacturer are not exceeded."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "d) unless otherwise stated in the suppliers/manufacturers specification, the maximum tensile load applied  to a bundle shall be that specified for a single cable;"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "f) prevent optical fibre within cables experiencing direct stress following installation (where long vertical  runs are proposed optical fibre cables may need to deviate from the vertical by the inclusion of short  horizontal runs or loops at intervals as recommended by the manufacturer);"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "1) covers of maintenance holes or cable management systems, only the minimum number shall be  removed and these shall be replaced on completion of works."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "2) fire barriers and gas seals shall be opened only when necessary and resealed on completion of works."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "50",
+      "6",
+      "60",
+      "61140",
+      "Clause 6"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": [
+      "EN 61140"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.7.1.json"
+}

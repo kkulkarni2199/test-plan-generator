@@ -1,0 +1,86 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.6",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.6",
+  "title": "Gauges \u2013 Sizing gauges and retention force gauges",
+  "parent_id": "5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Figure 5 and Table 3 show the gauges and gauge dimensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Material: tool steel, with hardness of 60 to 64 HRC according to ISO 6508-1 and surface  roughness according to ISO 21920-1: 2021: Ramax = 0,25 \u03bcm, Ramin = 0,15 \u03bcm."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Figure 5 et le Tableau 3 pr\u00e9sentent les calibres et leurs dimensions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mat\u00e9riel: outil en acier de duret\u00e9 60 \u00e0 64 HRC conform\u00e9ment \u00e0 l'ISO 6508-1 et d'une rugosit\u00e9  de surface conform\u00e9ment \u00e0 l'ISO 21920-1: 2021: Ramax = 0,25 \u03bcm, Ramin = 0,15 \u03bcm."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 3 \u2013 Dimensions des calibres"
+    }
+  ],
+  "tables": [
+    {
+      "number": "3",
+      "caption": "Table 3 \u2013 Gauge dimensions",
+      "html": "<content-ref src='/page/18/Reference/271'></content-ref><content-ref src='/page/18/Reference/270'></content-ref><table><tbody><tr><th>Gauge</th><th>Mass</th><th>Application</th><th>A</th><th>L</th></tr><tr><td></td><td>g</td><td></td><td>mm</td><td>mm</td></tr><tr><td>P11</td><td>-</td><td>Sizing</td><td>\u03a62 +0,005<br>0</td><td>14 min.</td></tr><tr><td>P12</td><td>100</td><td>Retention force</td><td>\u03a61,98 0<br>-<br>0,005</td><td>14 min.</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": "Figure 5 \u2013 Calibre pour contact",
+      "html": "<content-ref src='/page/50/Reference/261'></content-ref><content-ref src='/page/50/Reference/260'></content-ref><table><tbody><tr><th>Calibre</th><th>Masse</th><th>Application</th><th>A</th><th>L</th></tr><tr><td></td><td>g</td><td></td><td>mm</td><td>mm</td></tr><tr><td>P11</td><td>-</td><td>Dimensionnement</td><td>\u03a62 +0,005<br>0</td><td>14 min.</td></tr><tr><td>P12</td><td>100</td><td>Force de r\u00e9tention</td><td>\u03a61,98 0<br>-<br>0,005</td><td>14 min.</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\IEC_61076_8_103_2023\\5_6\\figure_1_page_18_picture_7.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 11657
+    },
+    {
+      "number": 2,
+      "path": "output_images\\IEC_61076_8_103_2023\\5_6\\figure_2_page_50_picture_7.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 11725
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "15",
+      "2021",
+      "21920",
+      "25",
+      "3",
+      "5",
+      "60",
+      "64",
+      "6508",
+      "Figure 5",
+      "Table 3"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "ISO 21920-1: 2021",
+      "ISO 6508-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.6.json"
+}

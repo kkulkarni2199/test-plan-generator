@@ -1,0 +1,45 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.4.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.4.3.2",
+  "title": "Recommendations",
+  "parent_id": "4.3.4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conduits under roads and railways should be installed in co-operation with the relevant authorities in order to  define requirements for:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) access;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) safety;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) reinstatement including depth of cover and materials (see 5.3.4.4.1)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Conduits under roads and railways should be installed in co-operation with the relevant authorities in order to  define requirements for:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "5.3.4.4.1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5.3.4.4.1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.4.3.2.json"
+}

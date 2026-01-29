@@ -1,0 +1,21 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.1",
+  "title": "Recommended method of termination",
+  "parent_id": "4",
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "4.1.1",
+    "4.1.2"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.1.json"
+}

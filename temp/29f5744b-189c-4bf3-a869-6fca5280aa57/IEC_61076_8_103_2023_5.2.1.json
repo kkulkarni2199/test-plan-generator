@@ -1,0 +1,35 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.2.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.2.1",
+  "title": "General",
+  "parent_id": "5.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Figure 1 shows an isometric view of the free connector and Figure 2 shows an isometric view  of the fixed connector."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Figure 1 pr\u00e9sente une vue isom\u00e9trique de la fiche tandis que la Figure 2 pr\u00e9sente une vue  isom\u00e9trique de l'embase."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "Figure 1",
+      "Figure 2"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.2.1.json"
+}

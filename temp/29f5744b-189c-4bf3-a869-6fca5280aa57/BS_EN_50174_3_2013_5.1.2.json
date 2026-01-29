@@ -1,0 +1,47 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.1.2",
+  "title": "Pathways",
+  "parent_id": "5.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "It is possible for explosive, asphyxiating or toxic gases to build up in ducts, draw pits, maintenance holes or other closed chambers. Before entering any such areas, the atmosphere shall be tested to detect any  potentially hazardous gases and, if necessary, they shall be well ventilated. Where a gas hazard is detected  the installer shall inform the nominated site contact and appropriate action shall be agreed and undertaken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Personnel installing or maintaining information technology cabling on shared infrastructure shall be made  aware of safety rules or local regulations relating to access including any local designations that advise as  the power supply on the structures of the shared infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "The function of similar type of underground cable management systems shall be identifiable in accordance  with local regulations."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "It is possible for explosive, asphyxiating or toxic gases to build up in ducts, draw pits, maintenance holes or other closed chambers. Before entering any such areas, the atmosphere shall be tested to detect any  potentially hazardous gases and, if necessary, they shall be well ventilated. Where a gas hazard is detected  the installer shall inform the nominated site contact and appropriate action shall be agreed and undertaken."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Personnel installing or maintaining information technology cabling on shared infrastructure shall be made  aware of safety rules or local regulations relating to access including any local designations that advise as  the power supply on the structures of the shared infrastructure."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The function of similar type of underground cable management systems shall be identifiable in accordance  with local regulations."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.1.2.json"
+}

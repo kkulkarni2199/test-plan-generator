@@ -1,0 +1,69 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2.2.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2.2.3",
+  "title": "Test group BP \u2013 Mechanical endurance",
+  "parent_id": "7.2.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The number of specimens specified in Table 6 shall be subject to the following tests. See  Table 9."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre de sp\u00e9cimens sp\u00e9cifi\u00e9s dans le Tableau 6 doit \u00eatre soumis aux essais suivants. Voir  le Tableau 9."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 9 \u2013 Groupe d'essais BP"
+    },
+    {
+      "type": "footnote",
+      "text": "a La moiti\u00e9 des sp\u00e9cimens sont destin\u00e9s \u00e0 l'essai de corrosion/brouillard salin, l'autre moiti\u00e9 \u00e0 l'essai de corrosion  dans un flux de m\u00e9lange de gaz."
+    }
+  ],
+  "tables": [
+    {
+      "number": "9",
+      "caption": "Table 9 \u2013 Test group BP",
+      "html": "<content-ref src='/page/28/Reference/501'></content-ref><table><tbody><tr><th></th><th colspan=3>Test</th><th colspan=2>Measurement to be<br>performed</th><th></th></tr><tr><th>Test<br>phase</th><th>Title</th><th>IEC<br>60512<br>Test<br>NO.</th><th>Severity or condition of<br>test</th><th>Title</th><th>IEC<br>60512<br>Test<br>NO.</th><th>Requirements</th></tr><tr><td>BP1</td><td>Engaging<br>and<br>separating<br>forces</td><td>13a</td><td>Rate of insertion and<br>withdrawal operation:<br>10 mm/s max.</td><td></td><td></td><td>Shall be as per 6.3.4<br>Engaging force: 100 N<br>max.; separating force:<br>3 N to 80 N</td></tr><tr><td>BP2</td><td>Mechanical<br>operation<br>(half of the<br>specified<br>number of<br>operations)</td><td>9a</td><td>Speed: 10 mm/s max.<br>Rest time: 30s(unmated)<br>Cycles: 250</td><td></td><td></td><td></td></tr><tr><td>BP3</td><td></td><td></td><td></td><td>Contact<br>resistance\u2013<br>Millivolt level<br>method</td><td>2a</td><td>Shall be as per 6.2.5<br>3 m\u03a9 max.</td></tr><tr><td>BP4</td><td></td><td></td><td></td><td>Visual<br>examination</td><td>1a</td><td>No defect that would<br>impair normal<br>operation.</td></tr><tr><td>BP5.1a</td><td>Corrosion,<br>salt mist</td><td>11f</td><td>7 days</td><td></td><td></td><td></td></tr><tr><td>BP5.2a</td><td>flowing mixed<br>gas corrosion</td><td>11g</td><td>4 d, test method 4<br>according to<br>IEC 60068\u20112\u201160</td><td></td><td></td><td></td></tr><tr><td>BP6</td><td></td><td></td><td></td><td>Contact<br>resistance\u2013<br>Millivolt level<br>method</td><td>2a</td><td>Shall be as per 6.2.5<br>30 m\u03a9 max.</td></tr><tr><td>BP7</td><td></td><td></td><td></td><td>Visual<br>examination</td><td>1a</td><td>No defect that would<br>impair normal<br>operation.</td></tr><tr><td>BP8</td><td>Mechanical<br>operation<br>(remaining<br>half of<br>specified<br>number of<br>operations)</td><td>9a</td><td>Speed: 10 mm/s max.<br>Rest time: 30 s (unmated)<br>Cycles: 250</td><td></td><td></td><td></td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th rowspan=2>Test<br>phase</th><th colspan=3>Test</th><th colspan=2>Measurement to be<br>performed</th><th></th></tr><tr><th>Title</th><th>IEC<br>60512<br>Test<br>NO.</th><th>Severity or condition of<br>test</th><th>Title</th><th>IEC<br>60512<br>Test<br>NO.</th><th>Requirements</th></tr><tr><td>BP9</td><td></td><td></td><td></td><td>Contact<br>resistance\u2013<br>Millivolt level<br>method</td><td>2a</td><td>Shall be as per 6.2.5<br>3 m\u03a9 max.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Shall be as per 6.2.6</td></tr><tr><td>BP10</td><td></td><td></td><td>Method A, test voltage:<br>500 V DC \u00b1 50 V DC</td><td>Insulation<br>resistance</td><td>3a</td><td>Between contacts,<br>contacts and metal<br>housing: 100 M\u03a9 min.</td></tr><tr><td></td><td></td><td></td><td>Method A, duration: 1 min</td><td></td><td></td><td>Shall be as per 6.2.2</td></tr><tr><td>BP11</td><td></td><td></td><td>Between contacts,<br>contacts and metal<br>housing: 4 000 V AC min.</td><td>Voltage proof</td><td>4a</td><td>No breakdown or<br>flashover.</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>Shall be as per 6.3.6</td></tr><tr><td>BP12</td><td></td><td></td><td>150 N</td><td>Polarizing and<br>keying method</td><td>13e</td><td>No defect that would<br>impair normal<br>operation</td></tr><tr><td>BP13</td><td></td><td></td><td></td><td>Visual<br>examination</td><td>1a</td><td>No defect that would<br>impair normal<br>operation</td></tr><tr><td>BP14</td><td>IP code<br>second<br>characteristic<br>numeral</td><td></td><td>Mated connectors<br>reference to 6.4.4 for the<br>IP tests in<br>BP14.1,BP14.2,BP14.3,BP<br>14.4 in which the<br>specimens shall be tested</td><td></td><td></td><td></td></tr><tr><td>BP14.1</td><td></td><td></td><td>IPX5:<br>specimens mated, wired<br>and locked</td><td>See 14.2.5 of<br>IEC 60529:1989</td><td></td><td>See 14.3 of<br>IEC 60529:1989</td></tr><tr><td>BP14.2</td><td></td><td></td><td>IPX7: specimens mated,<br>wired and locked</td><td>See 14.2.7 of<br>IEC 60529:1989</td><td></td><td>See 14.3 of<br>IEC 60529:1989</td></tr><tr><td></td><td>IP code</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BP14.3</td><td>first<br>characteristic<br>numeral</td><td></td><td>IP6X: specimens mated,<br>wired and locked</td><td>See Table 7 of<br>IEC 60529:1989</td><td></td><td>See 13.6.2 of<br>IEC 60529:1989</td></tr><tr><td></td><td>IP code</td><td></td><td>IPXXB:</td><td>See 15.2 of</td><td></td><td>See 15.3 of</td></tr><tr><td>BP14.4</td><td>the additional<br>letter</td><td></td><td>specimens unmated</td><td>IEC 60529:1989</td><td></td><td>IEC 60529:1989</td></tr><tr><td></td><td></td><td></td><td>Rate of insertion and</td><td></td><td></td><td>Shall be as per 6.3.4</td></tr><tr><td>BP15</td><td></td><td></td><td>withdrawal operation:<br>10 mm/s max.</td><td>Engaging and<br>separating forces</td><td>13a</td><td>Engaging force: 100 N<br>max.; separating force:<br>3 N to 80 N</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/62/Reference/495'></content-ref><table><tbody><tr><th></th><th></th><th></th><th>Essai</th><th colspan=2>Mesure \u00e0 effectuer</th><th colspan=2></th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>Exigences</th></tr><tr><td>BP1</td><td>Forces<br>d'accouple<br>ment et de<br>d\u00e9saccouple<br>ment</td><td>13a</td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td></td><td></td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4<br>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr><tr><td>BP2</td><td>Fonctionn<br>ement<br>m\u00e9canique<br>(la moiti\u00e9 du<br>nombre<br>sp\u00e9cifi\u00e9<br>d'op\u00e9rations)</td><td>9a</td><td>Vitesse: 10 mm/s max.<br>Temps de repos: 30 s<br>(d\u00e9saccoupl\u00e9)<br>Cycles: 250</td><td></td><td></td><td></td></tr><tr><td>BP3</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013 M\u00e9thode<br>du niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>3 m\u03a9 max.</td></tr><tr><td>BP4</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>BP5.1a</td><td>Corrosion,<br>brouillard<br>salin</td><td>11f</td><td>7 jours</td><td></td><td></td><td></td></tr><tr><td>BP5.2a</td><td>Essai de<br>corrosion<br>dans un flux<br>de m\u00e9lange<br>de gaz</td><td>11g</td><td>4 jours, m\u00e9thode d'essai<br>4 selon l'IEC 60068\u20112\u201160</td><td></td><td></td><td></td></tr><tr><td>BP6</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013 M\u00e9thode<br>du niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>30 m\u03a9 max.</td></tr><tr><td>BP7</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>BP8</td><td>Fonctionne<br>ment<br>m\u00e9canique<br>(moiti\u00e9<br>restante du<br>nombre<br>sp\u00e9cifi\u00e9<br>d'op\u00e9rations)</td><td>9a</td><td>Vitesse: 10 mm/s max.<br>Temps de repos: 30 s<br>(d\u00e9saccoupl\u00e9)<br>Cycles: 250</td><td></td><td></td><td></td></tr><tr><td>BP9</td><td></td><td></td><td></td><td>R\u00e9sistance de<br>contact \u2013 M\u00e9thode<br>du niveau des<br>millivolts</td><td>2a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.5<br>3 m\u03a9 max.</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th></th><th></th><th>Essai</th><th colspan=2>Mesure \u00e0 effectuer</th><th></th></tr><tr><th>Phase<br>d'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>S\u00e9v\u00e9rit\u00e9 ou condition de<br>l'essai</th><th>Titre</th><th>N\u00b0<br>d'essai<br>dans la<br>s\u00e9rie<br>IEC<br>60512</th><th>Exigences</th></tr><tr><td>BP10</td><td></td><td></td><td>M\u00e9thode A, tension<br>d'essai: 500 V CC \u00b1 50 V<br>CC</td><td>R\u00e9sistance<br>d'isolement</td><td>3a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.6<br>Entre contacts, et<br>entre contacts et<br>bo\u00eetier m\u00e9tallique:<br>100 M\u03a9 min.</td></tr><tr><td>BP11</td><td></td><td></td><td>M\u00e9thode A, dur\u00e9e: 1 min<br>Entre contacts, et entre<br>contacts et bo\u00eetier<br>m\u00e9tallique: 4 000 V en<br>courant alternatif min.</td><td>Tension de tenue</td><td>4a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.2.2<br>Ni claquage ni<br>contournement.</td></tr><tr><td>BP12</td><td></td><td></td><td>150 N</td><td>M\u00e9thode de<br>polarisation et de<br>codage</td><td>13e</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.6<br>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>BP13</td><td></td><td></td><td></td><td>Examen visuel</td><td>1a</td><td>Aucun d\u00e9faut<br>susceptible de nuire<br>au fonctionnement<br>normal</td></tr><tr><td>BP14</td><td>Code IP<br>Second<br>chiffre<br>caract\u00e9risti<br>que</td><td></td><td>Pour les connecteurs<br>accoupl\u00e9s, r\u00e9f\u00e9rence \u00e0<br>6.4.4 pour les essais IP<br>en BP14.1, BP14.2,<br>BP14.3, BP14.4 au cours<br>desquels les sp\u00e9cimens<br>doivent \u00eatre soumis \u00e0<br>essai</td><td></td><td></td><td></td></tr><tr><td>BP14.1</td><td></td><td></td><td>IPX5:<br>sp\u00e9cimens accoupl\u00e9s,<br>c\u00e2bl\u00e9s et verrouill\u00e9s</td><td>Voir en 14.2.5 de<br>l'IEC 60529:1989</td><td></td><td>Voir en 14.3 de<br>l'IEC 60529:1989</td></tr><tr><td>BP14.2</td><td></td><td></td><td>IPX7: sp\u00e9cimens<br>accoupl\u00e9s, c\u00e2bl\u00e9s et<br>verrouill\u00e9s</td><td>Voir en 14.2.7 de<br>l'IEC 60529:1989</td><td></td><td>Voir en 14.3 de<br>l'IEC 60529:1989</td></tr><tr><td>BP14.3</td><td>Code IP<br>Premier<br>nombre<br>caract\u00e9risti<br>que</td><td></td><td>IP6X: sp\u00e9cimens<br>accoupl\u00e9s, c\u00e2bl\u00e9s et<br>verrouill\u00e9s</td><td>Voir le Tableau 7<br>de<br>l'IEC 60529:1989</td><td></td><td>Voir en 13.6.2 de<br>l'IEC 60529:1989</td></tr><tr><td>BP14.4</td><td>Code IP<br>Lettre<br>compl\u00e9men<br>taire</td><td></td><td>IPXXB:<br>sp\u00e9cimens d\u00e9saccoupl\u00e9s</td><td>Voir en 15.2 de<br>l'IEC 60529:1989</td><td></td><td>Voir en 15.3 de<br>l'IEC 60529:1989</td></tr><tr><td>BP15</td><td></td><td></td><td>Taux de l'op\u00e9ration<br>d'insertion et d'extraction:<br>10 mm/s max.</td><td>Forces<br>d'accouplement et<br>de<br>d\u00e9saccouplement</td><td>13a</td><td>Doit \u00eatre comme<br>indiqu\u00e9 en 6.3.4<br>Force<br>d'accouplement:<br>100 N max.; force de<br>d\u00e9saccouplement:<br>3 N \u00e0 80 N</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The number of specimens specified in Table 6 shall be subject to the following tests. See  Table 9."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "6",
+      "9",
+      "Table 6",
+      "Table 9"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.2.3.json"
+}

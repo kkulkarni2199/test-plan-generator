@@ -1,0 +1,83 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.2.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.2.4",
+  "title": "Electrical load and temperature",
+  "parent_id": "6.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-9-2, Test 9b."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, mated connectors, contacts are connected with  IEC 60228 class 5 stranded copper wires, wire cross-sectional area 2,5 mm2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Test current: 20 A, temperature: 85 \u00b0C \u00b1 2 \u00b0C, duration: 500 h."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the appearance, contact resistance (6.2.5), insulation resistance (6.2.6), voltage  proof (6.2.2), engaging and separating forces (6.3.4) and IP degree of protection (6.4.4) shall  meet the requirements of this specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-9-2, Essai 9b."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, connecteurs accoupl\u00e9s, contacts connect\u00e9s \u00e0 l'aide  de fils de cuivre torsad\u00e9s de classe 5 selon l'IEC 60228, section des fils de 2,5 mm2."
+    },
+    {
+      "type": "paragraph",
+      "text": "Courant d'essai: 20 A, temp\u00e9rature: 85 \u00b0C \u00b1 2 \u00b0C, dur\u00e9e: 500 h."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: l'aspect, la r\u00e9sistance de contact (6.2.5), la r\u00e9sistance d'isolement (6.2.6), la tension  de tenue (6.2.2), les forces d'accouplement et de d\u00e9saccouplement (6.3.4) ainsi que le degr\u00e9  de protection IP (6.4.4) doivent satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the appearance, contact resistance (6.2.5), insulation resistance (6.2.6), voltage  proof (6.2.2), engaging and separating forces (6.3.4) and IP degree of protection (6.4.4) shall  meet the requirements of this specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "2",
+      "20",
+      "5",
+      "500",
+      "6.2.2",
+      "6.2.5",
+      "6.2.6",
+      "6.3.4",
+      "6.4.4",
+      "60228",
+      "60512",
+      "85",
+      "9",
+      "section d"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::5",
+      "IEC_61076_8_103_2023::6.2.2",
+      "IEC_61076_8_103_2023::6.2.5",
+      "IEC_61076_8_103_2023::6.2.6",
+      "IEC_61076_8_103_2023::6.3.4",
+      "IEC_61076_8_103_2023::6.4.4"
+    ],
+    "standards": [
+      "IEC 60228",
+      "IEC 60512-9-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.2.4.json"
+}

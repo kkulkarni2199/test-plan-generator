@@ -1,0 +1,69 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.2.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.2.3",
+  "title": "Current-carrying capacity",
+  "parent_id": "6.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The current-carrying capacity shall be verified according to IEC 60512-5-2, Test 5b, with the  maximum accepted cross-sectional area (2,5 mm2), to demonstrate compliance with the rated  current (20 A) and the upper limiting temperature (125 \u00b0C). See Figure 6 for the currenttemperature derating curve."
+    },
+    {
+      "type": "caption",
+      "text": "NOTE The diagram is expression of the formula"
+    },
+    {
+      "type": "paragraph",
+      "text": "I (T) = 35,3565 \u00d7 (1 \u2013 T/125) 0,5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le courant admissible doit \u00eatre v\u00e9rifi\u00e9 conform\u00e9ment \u00e0 l'IEC 60512-5-2, Essai 5b, avec la  section maximale accept\u00e9e (2,5 mm2), pour d\u00e9montrer la conformit\u00e9 au courant assign\u00e9 (20 A)  et \u00e0 la temp\u00e9rature limite sup\u00e9rieure (125 \u00b0C). Voir la Figure 6 pour la courbe du taux de  r\u00e9duction de l'intensit\u00e9 en fonction de la temp\u00e9rature."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE La courbe est l'expression de la formule"
+    },
+    {
+      "type": "paragraph",
+      "text": "I (T) = 35,3565 \u00d7 (1 \u2013 T/125) 0,5"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The current-carrying capacity shall be verified according to IEC 60512-5-2, Test 5b, with the  maximum accepted cross-sectional area (2,5 mm2), to demonstrate compliance with the rated  current (20 A) and the upper limiting temperature (125 \u00b0C). See Figure 6 for the currenttemperature derating curve."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "125",
+      "2",
+      "20",
+      "35",
+      "3565",
+      "5",
+      "6",
+      "60512",
+      "Figure 6",
+      "section m"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::5",
+      "IEC_61076_8_103_2023::6"
+    ],
+    "standards": [
+      "IEC 60512-5-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.2.3.json"
+}

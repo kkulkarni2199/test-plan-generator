@@ -1,0 +1,57 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.7.4.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.7.4.1",
+  "title": "Requirements",
+  "parent_id": "5.3.7.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The cable shall be designed to be compatible with the proposed method of installation. Alternatively, the  materials surrounding the cable shall be selected to protect the cable from damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "A marker tape/wire shall be installed which allows the position of the cable to be detected using an  appropriate cable locator equipment. Alternatively, the location of direct buried cables shall be documented  on a site plan."
+    },
+    {
+      "type": "paragraph",
+      "text": "A marker tape in accordance with EN 12613 shall be laid between 0,1 m and 0,2 m above any directly buried  cable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The cable shall be designed to be compatible with the proposed method of installation. Alternatively, the  materials surrounding the cable shall be selected to protect the cable from damage."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "A marker tape/wire shall be installed which allows the position of the cable to be detected using an  appropriate cable locator equipment. Alternatively, the location of direct buried cables shall be documented  on a site plan."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "A marker tape in accordance with EN 12613 shall be laid between 0,1 m and 0,2 m above any directly buried  cable."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "12613",
+      "2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 12613"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.7.4.1.json"
+}

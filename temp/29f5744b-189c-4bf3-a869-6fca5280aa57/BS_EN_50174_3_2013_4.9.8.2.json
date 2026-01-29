@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.8.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.8.2",
+  "title": "Requirements",
+  "parent_id": "4.9.8",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any structural elements of cables (e.g. armouring or strength members) shall be earthed at least at one end  for purposes of safety."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Any structural elements of cables (e.g. armouring or strength members) shall be earthed at least at one end  for purposes of safety."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.8.2.json"
+}

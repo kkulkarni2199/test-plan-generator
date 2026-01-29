@@ -1,0 +1,39 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.3.1",
+  "title": "General",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Voltage and current transients (surges) occur on power and information technology cabling. The origins of  these surges can be local or remote, and can be destructive to equipment and be a safety hazard to  personnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "This subclause deals only with the application of surge arresters (surge protective devices) in the mains  power cabling and information technology cabling. The adequate protection of equipment does not form part  of this subclause, although some equipment influences the protection measures in the cabling part."
+    },
+    {
+      "type": "paragraph",
+      "text": "Surge arrestors when installed within a telecommunication system will add additional impairments  (resistance, capacitance and/or inductance). These additional impairments should be taken into account  when designing the information technology network."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Surge arrestors when installed within a telecommunication system will add additional impairments  (resistance, capacitance and/or inductance). These additional impairments should be taken into account  when designing the information technology network."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "subclause d"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.3.1.json"
+}

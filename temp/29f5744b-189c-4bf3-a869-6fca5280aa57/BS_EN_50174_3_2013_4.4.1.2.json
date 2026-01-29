@@ -1,0 +1,291 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.4.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.4.1.2",
+  "title": "Requirements",
+  "parent_id": "4.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The selection of pathway systems and cable management systems shall allow installation and removal of the  cable without risk of damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "The selection of pathway systems and cable management systems shall consider:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the strength of the electromagnetic fields along the pathway (proximity of electromagnetic conducted and  radiated disturbing sources);"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the authorised level of conducted and radiated emissions;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) the type of cabling, e.g. coaxial, category of balanced cable (if a cable management system is selected  to support a specific cable technology, it may not be suitable for installations of other cabling  technologies in the future);"
+    },
+    {
+      "type": "list_item",
+      "text": "d) the immunity of the equipment connected to the information technology cabling system (if a cable  management system is selected to support the interconnection of equipment having a specific level of  electromagnetic immunity, it may not be suitable for other equipment);"
+    },
+    {
+      "type": "list_item",
+      "text": "e) other environment constraints (chemical, mechanical, climatic, fire, etc.);"
+    },
+    {
+      "type": "list_item",
+      "text": "f) the MICE environmental classification of EN 50173-1;"
+    },
+    {
+      "type": "list_item",
+      "text": "g) any future information technology cabling system extension;"
+    },
+    {
+      "type": "list_item",
+      "text": "h) where appropriate, Annex A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cable management systems of the types listed below shall comply with the relevant European Standards:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) conduit systems: EN 61386-1 and the relevant Part 2;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) cable trunking systems and cable ducting systems: EN 50085-1 and the relevant Part 2;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) power track systems: EN 61534 series;"
+    },
+    {
+      "type": "list_item",
+      "text": "4) cable tray systems and cable ladder systems: EN 61537."
+    },
+    {
+      "type": "paragraph",
+      "text": "The selection of cable management system shall be made by considering in combination:"
+    },
+    {
+      "type": "list_item",
+      "text": "the cabling products to be contained;"
+    },
+    {
+      "type": "list_item",
+      "text": "the electromagnetic performance of the cable management system;"
+    },
+    {
+      "type": "list_item",
+      "text": "the segregation requirements of Clause 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathways, entry points to the pathways and the pathway systems selected shall ensure cables are able to be  installed and, where appropriate, fixed in accordance with the applicable minimum bend radius (during  installation, during operation \u2013 static and during operation \u2013 dynamic). This may be achieved by the use of  pre-fabricated curved corners, drop-outs, radius limiters or other means. Where multiple cable types are  involved, the largest minimum bend radius shall apply. The techniques employed shall:"
+    },
+    {
+      "type": "list_item",
+      "text": "be designed to maintain the relevant minimum radius of the cable(s) to be installed; where multiple cable  types are involved, the largest minimum bend radius shall apply;"
+    },
+    {
+      "type": "list_item",
+      "text": "not introduce deformation of the cable sheath;"
+    },
+    {
+      "type": "list_item",
+      "text": "not apply compressive loads exceeding that specified for the cable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Minimum bending radius is determined by manufacturers instructions. If instructions do not exist the  minimum bending radius shall be 20 times the cable diameter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathway systems that do not allow such an approach may restrict the type and use of cables installed in the  pathways and cable management systems selected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Specific cable constructions, e.g. armoured cables, may require greater bend radii than those specified  above."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate space shall be allocated to drawboxes and the storage of cable loops (service loops)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The maximum stacking height in pathway systems is specified by manufacturers instructions. If instructions  do not exist the following shall apply:"
+    },
+    {
+      "type": "list_item",
+      "text": "I) for pathway systems that provide continuous support (e.g. trays), the stacking height shall not exceed  150 mm;"
+    },
+    {
+      "type": "list_item",
+      "text": "II) for pathway systems that provide non-continuous support (e.g. basket, ladder or hooks): \u03b1) the maximum distance allowed between supporting elements of the pathway system is 1 500 mm;\u03b2) the maximum stacking height shall be calculated according to Formula (1) (the integer values shown  in Table 6 are calculated using Formula (1) and are for information only)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where"
+    },
+    {
+      "type": "list_item",
+      "text": "h maximum stacking height (mm);"
+    },
+    {
+      "type": "list_item",
+      "text": "L distance between points of support (mm)."
+    },
+    {
+      "type": "caption",
+      "text": "L mm h mm 0 150 100 140 150 136 250 128 500 111 750 98 1 000 88"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathway systems protruding through a horizontal surface shall not be terminated less than 50 mm above the  finished floor surface."
+    },
+    {
+      "type": "paragraph",
+      "text": "1 500 73"
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE This protrusion aids in preventing construction debris from entering the pathway during construction and protects cabling from  mechanical damage."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The selection of pathway systems and cable management systems shall allow installation and removal of the  cable without risk of damage."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The selection of pathway systems and cable management systems shall consider:"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "c) the type of cabling, e.g. coaxial, category of balanced cable (if a cable management system is selected  to support a specific cable technology, it may not be suitable for installations of other cabling  technologies in the future);"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "d) the immunity of the equipment connected to the information technology cabling system (if a cable  management system is selected to support the interconnection of equipment having a specific level of  electromagnetic immunity, it may not be suitable for other equipment);"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cable management systems of the types listed below shall comply with the relevant European Standards:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The selection of cable management system shall be made by considering in combination:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Pathways, entry points to the pathways and the pathway systems selected shall ensure cables are able to be  installed and, where appropriate, fixed in accordance with the applicable minimum bend radius (during  installation, during operation \u2013 static and during operation \u2013 dynamic). This may be achieved by the use of  pre-fabricated curved corners, drop-outs, radius limiters or other means. Where multiple cable types are  involved, the largest minimum bend radius shall apply. The techniques employed shall:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "be designed to maintain the relevant minimum radius of the cable(s) to be installed; where multiple cable  types are involved, the largest minimum bend radius shall apply;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Minimum bending radius is determined by manufacturers instructions. If instructions do not exist the  minimum bending radius shall be 20 times the cable diameter."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Pathway systems that do not allow such an approach may restrict the type and use of cables installed in the  pathways and cable management systems selected."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Specific cable constructions, e.g. armoured cables, may require greater bend radii than those specified  above."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Appropriate space shall be allocated to drawboxes and the storage of cable loops (service loops)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The maximum stacking height in pathway systems is specified by manufacturers instructions. If instructions  do not exist the following shall apply:"
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "I) for pathway systems that provide continuous support (e.g. trays), the stacking height shall not exceed  150 mm;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "II) for pathway systems that provide non-continuous support (e.g. basket, ladder or hooks): \u03b1) the maximum distance allowed between supporting elements of the pathway system is 1 500 mm;\u03b2) the maximum stacking height shall be calculated according to Formula (1) (the integer values shown  in Table 6 are calculated using Formula (1) and are for information only)."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Pathway systems protruding through a horizontal surface shall not be terminated less than 50 mm above the  finished floor surface."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "000",
+      "1",
+      "100",
+      "111",
+      "128",
+      "136",
+      "140",
+      "150",
+      "2",
+      "20",
+      "250",
+      "3",
+      "4",
+      "50",
+      "500",
+      "50085",
+      "50173",
+      "6",
+      "61386",
+      "61534",
+      "61537",
+      "73",
+      "750",
+      "88",
+      "98",
+      "Annex A",
+      "Clause 6",
+      "Table 6"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": [
+      "EN 50085-1",
+      "EN 50173-1",
+      "EN 61386-1",
+      "EN 61534",
+      "EN 61537",
+      "is 1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.4.1.2.json"
+}

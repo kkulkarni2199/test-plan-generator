@@ -1,0 +1,48 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.7.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.7.1",
+  "title": "Requirements",
+  "parent_id": "5.7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Provided that there is no risk of damage to cables or the pathway system additional cables may be installed  within pathway systems according to the following rules:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) using all the useable cross-sectional area (see 4.4.2) within: 1) uncovered pathway systems and cable management systems;2) pathway systems and cable management systems from which covers are removed before  installation of cables;3) non-enclosed pathway systems and cable management systems;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) using up to 40 % of the useable cross-sectional area (see 4.4.2) within conduit (unless the conduit  contains empty sub-conduits)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Provided that there is no risk of damage to cables or the pathway system additional cables may be installed  within pathway systems according to the following rules:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "4.4.2",
+      "40"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4.4.2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.7.1.json"
+}

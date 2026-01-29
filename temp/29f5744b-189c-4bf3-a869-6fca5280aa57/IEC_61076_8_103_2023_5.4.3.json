@@ -1,0 +1,37 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.4.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.4.3",
+  "title": "Terminations",
+  "parent_id": "5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Terminations either according to IEC 60352 series (solderless connections) or according to  IEC 60999-1 (screw-type and screwless-type clamping units)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sorties conform\u00e9ment soit \u00e0 la s\u00e9rie IEC 60352 (connexions sans soudure) soit \u00e0 l'IEC 60999- 1 (organes de serrage \u00e0 vis et sans vis)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "60352",
+      "60999"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1"
+    ],
+    "standards": [
+      "IEC 60352",
+      "IEC 60999",
+      "IEC 60999-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.4.3.json"
+}

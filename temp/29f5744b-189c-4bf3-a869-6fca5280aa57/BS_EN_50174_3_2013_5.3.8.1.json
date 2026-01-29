@@ -1,0 +1,74 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.8.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.8.1",
+  "title": "General",
+  "parent_id": "5.3.8",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cables shall be jointed or terminated in accordance with the instructions provided by the manufacturer or  supplier of the connecting hardware. If special tools are required for jointing or termination, then only those  recommended by the manufacturer shall be used."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cable elements not terminated within connecting hardware shall be treated as detailed in the installation  specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sharp bending that would compromise transmission performance of cables shall be avoided."
+    },
+    {
+      "type": "paragraph",
+      "text": "Following jointing or termination, the cable elements shall be arranged within the closure in a manner that  allows access to individual connectors, joints and cable elements with minimal disruption to neighbouring  components during subsequent repair, expansion or extension of the installed cabling."
+    },
+    {
+      "type": "paragraph",
+      "text": "The presentation of cable elements within joints, terminating and connecting hardware and closures shall be  in accordance with the installation specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ends of unterminated cables shall be fitted with protective caps, or equivalent."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cables shall be jointed or terminated in accordance with the instructions provided by the manufacturer or  supplier of the connecting hardware. If special tools are required for jointing or termination, then only those  recommended by the manufacturer shall be used."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cable elements not terminated within connecting hardware shall be treated as detailed in the installation  specification."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Sharp bending that would compromise transmission performance of cables shall be avoided."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Following jointing or termination, the cable elements shall be arranged within the closure in a manner that  allows access to individual connectors, joints and cable elements with minimal disruption to neighbouring  components during subsequent repair, expansion or extension of the installed cabling."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The presentation of cable elements within joints, terminating and connecting hardware and closures shall be  in accordance with the installation specification."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The ends of unterminated cables shall be fitted with protective caps, or equivalent."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.8.1.json"
+}

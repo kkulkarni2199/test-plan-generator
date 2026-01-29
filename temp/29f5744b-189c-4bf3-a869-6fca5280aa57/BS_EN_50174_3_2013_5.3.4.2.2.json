@@ -1,0 +1,89 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.4.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.4.2.2",
+  "title": "Electromagnetic screening using cable management systems",
+  "parent_id": "5.3.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The following requirements apply to metallic or composite cable management systems that are required  specifically to provide electromagnetic screening for the information technology cables to be contained within  them (see 4.4.1.3):"
+    },
+    {
+      "type": "list_item",
+      "text": "a) if the cable management system is constructed from multiple sections: 1) the sections shall be interconnected to ensure continuity;2) bonds shall have performance in accordance with EN 50310 (illustrated in Figure 8b) and 8c));"
+    },
+    {
+      "type": "list_item",
+      "text": "b) cable management systems shall be functionally bonded in accordance with EN 50310;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) Figure 9 shows cable management systems crossing a wall at which a fire barrier is to be re-instated  following cable installation. Unless specifically allowed by local regulations, the fire-stop materials or firestopping techniques, the cable management system shall be interrupted and the two metallic sections  shall be bonded. The bonds shall have performance in accordance with EN 50310;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) if adjustments or extensions to the pathways system are carried out, the component used shall maintain  the intended electromagnetic performance (e.g. a metallic sections shall not be replaced by plastic  sections)."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\5_3_4_2_2\\figure_1_page_53_picture_2.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 54676
+    },
+    {
+      "number": "8",
+      "path": "output_images\\BS_EN_50174_3_2013\\5_3_4_2_2\\figure_2_page_53_picture_4.jpg",
+      "format": "jpg",
+      "caption": "Figure 8 Continuity of metallic cable management systems",
+      "size_bytes": 27222
+    }
+  ],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) if the cable management system is constructed from multiple sections: 1) the sections shall be interconnected to ensure continuity;2) bonds shall have performance in accordance with EN 50310 (illustrated in Figure 8b) and 8c));"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) cable management systems shall be functionally bonded in accordance with EN 50310;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) Figure 9 shows cable management systems crossing a wall at which a fire barrier is to be re-instated  following cable installation. Unless specifically allowed by local regulations, the fire-stop materials or firestopping techniques, the cable management system shall be interrupted and the two metallic sections  shall be bonded. The bonds shall have performance in accordance with EN 50310;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "d) if adjustments or extensions to the pathways system are carried out, the component used shall maintain  the intended electromagnetic performance (e.g. a metallic sections shall not be replaced by plastic  sections)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "4.4.1.3",
+      "50310",
+      "9",
+      "Figure 8b",
+      "Figure 9"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4.4.1.3"
+    ],
+    "standards": [
+      "EN 50310"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.4.2.2.json"
+}

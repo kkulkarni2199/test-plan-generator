@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.1.2",
+  "title": "Power supply cabling",
+  "parent_id": "4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The proper implementation of the requirements of this European Standard require that electrical installations  are undertaken in accordance with the HD 384/HD 60364 series and/or local regulations as appropriate."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "384",
+      "60364"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "HD 384",
+      "HD 60364"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.1.2.json"
+}

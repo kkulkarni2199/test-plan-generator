@@ -1,0 +1,47 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.3",
+  "title": "Protection of installed cabling",
+  "parent_id": "4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cable pathways shall provide protection to the installed cabling, except in zones where the cabling can  neither be damaged nor have its transmission properties adversely affected (e.g. rising zones, connecting  ducts, equipment rooms, etc.). Additional and appropriate protection shall be applied in specific areas in  which there is a history of, or identified risk of, rodent damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rodent protection may be achieved by selection of appropriate components."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate space shall be allocated to the storage of cable loops (service loops)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cable pathways shall provide protection to the installed cabling, except in zones where the cabling can  neither be damaged nor have its transmission properties adversely affected (e.g. rising zones, connecting  ducts, equipment rooms, etc.). Additional and appropriate protection shall be applied in specific areas in  which there is a history of, or identified risk of, rodent damage."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Rodent protection may be achieved by selection of appropriate components."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Appropriate space shall be allocated to the storage of cable loops (service loops)."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.3.json"
+}

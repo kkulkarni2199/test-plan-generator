@@ -1,0 +1,43 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.17",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.17",
+  "title": "surge protective device",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "device intended to protect the electrical apparatus from high transient over-voltages and to limit the duration and the amplitude of the follow-on current"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 1 to entry: The device contains at least one non-linear component."
+    },
+    {
+      "type": "paragraph",
+      "text": "[SOURCE: EN 50174-2:2009/A1:2011, 3.1.30]"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "2009",
+      "2011",
+      "3.1.30",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 50174-2:2009"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.17.json"
+}

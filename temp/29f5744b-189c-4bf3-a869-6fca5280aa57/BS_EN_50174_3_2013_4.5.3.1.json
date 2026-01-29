@@ -1,0 +1,54 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.3.1",
+  "title": "Requirements",
+  "parent_id": "4.5.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where the cable comes ashore it shall be:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) secured mechanically to a fixed point using the strength member of the cable;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) be protected mechanically in the tidal zone and to a depth of 3 m (ffs) below the lowest tide level;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) marked to prevent anchoring of vessels etc. in the tidal zone and to a depth of 3 m (ffs) below the lowest  tide level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cables with metallic cable elements shall be provided with overvoltage protection."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where the cable comes ashore it shall be:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cables with metallic cable elements shall be provided with overvoltage protection."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.3.1.json"
+}

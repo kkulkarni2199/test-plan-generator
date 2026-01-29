@@ -1,0 +1,36 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.1",
+  "title": "Hospitals",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Different sources of electromagnetic noise exist in the vicinity of hospitals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Emitters and receivers can produce or be affected by high frequency electrical fields. If hospital equipment is  affected it could be life threatening and special care has to be taken (see EN 60601-1-2)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "60601"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 60601-1-2"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.1.json"
+}

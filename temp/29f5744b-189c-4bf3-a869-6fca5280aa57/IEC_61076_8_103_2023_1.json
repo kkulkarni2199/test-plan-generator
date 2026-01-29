@@ -1,0 +1,37 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "1",
+  "title": "Scope",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This part of IEC 61076-8 describes free and fixed 2-pole power (1P+N) plus PE circular  connectors with 20 A rated current, rated voltage up to and including 300 V AC, IP65/IP67 metal  housing with push-pull locking (hereinafter referred to as a connectors) for use in electrical and  electronic equipment. It includes overall dimensions, interface dimensions, technical  characteristics, performance requirements and test methods."
+    },
+    {
+      "type": "paragraph",
+      "text": "La pr\u00e9sente partie de l'IEC 61076-8 d\u00e9crit des embases et fiches circulaires bipolaires  d'alimentation (1P+N) plus PE avec un courant assign\u00e9 de 20 A, une tension assign\u00e9e jusqu'\u00e0  300 V (en courant alternatif) inclus et un bo\u00eetier m\u00e9tallique IP65/IP67 avec verrouillage par  pousser-tirer (ci-apr\u00e8s d\u00e9sign\u00e9s connecteurs), destin\u00e9s \u00e0 \u00eatre utilis\u00e9s dans des \u00e9quipements  \u00e9lectriques et \u00e9lectroniques. Elle inclut les dimensions hors tout, les dimensions d'interface, les  caract\u00e9ristiques techniques, les exigences de performance et les m\u00e9thodes d'essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2",
+      "20",
+      "300",
+      "61076",
+      "8"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2"
+    ],
+    "standards": [
+      "IEC 61076-8"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\1.json"
+}

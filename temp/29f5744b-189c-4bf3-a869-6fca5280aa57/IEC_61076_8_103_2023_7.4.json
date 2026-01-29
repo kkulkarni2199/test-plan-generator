@@ -1,0 +1,41 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.4",
+  "title": "Pre-conditioning",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Before the tests are performed, the connectors shall be preconditioned under conditions  specified in IEC 60068-1 for a period of 24 h, unless otherwise specified by the detail product  specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Avant de proc\u00e9der aux essais, les connecteurs doivent \u00eatre pr\u00e9conditionn\u00e9s dans les conditions  sp\u00e9cifi\u00e9es par l'IEC 60068-1 pendant une p\u00e9riode de 24 h, sauf indication contraire de la  sp\u00e9cification particuli\u00e8re du produit."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Before the tests are performed, the connectors shall be preconditioned under conditions  specified in IEC 60068-1 for a period of 24 h, unless otherwise specified by the detail product  specification."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "24",
+      "60068"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1"
+    ],
+    "standards": [
+      "IEC 60068-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.4.json"
+}

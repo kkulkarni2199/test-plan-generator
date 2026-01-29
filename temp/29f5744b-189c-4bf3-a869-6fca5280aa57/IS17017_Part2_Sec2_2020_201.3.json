@@ -1,0 +1,44 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::201.3",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "201.3",
+  "title": "Current-carrying Parts of Incorporated  Components",
+  "parent_id": "201",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any component uninsulated live part shall be so secured  to the base or mounting surface, or otherwise insulated  that the part does not turn or shift in position resulting  in a reduction of creepage distances, clearances and  distances below the minimum required values of 28 of  IS 17017 (Part 2/Sec 1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Any component uninsulated live part shall be so secured  to the base or mounting surface, or otherwise insulated  that the part does not turn or shift in position resulting  in a reduction of creepage distances, clearances and  distances below the minimum required values of 28 of  IS 17017 (Part 2/Sec 1)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017",
+      "2",
+      "28"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::28"
+    ],
+    "standards": [
+      "IS 17017"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\201.3.json"
+}

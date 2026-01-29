@@ -1,0 +1,53 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.4",
+  "title": "Chemical manufacturing areas",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Chemical manufacturing areas may feature controlled, earth-free power supply installations."
+    },
+    {
+      "type": "paragraph",
+      "text": "In chemical environments, the main stress for equipment and accessories is corrosion. All metallic parts like  earthing and bonding connections, EMC gaskets and seals, connectors and connection points, closures and  cabinets, cable management systems are very sensitive to corrosion. EN 50310 provides further information."
+    },
+    {
+      "type": "paragraph",
+      "text": "In such environments, use of non-metallic cable management systems is often recommended. For closures,  refer to 5.3.6, for information."
+    },
+    {
+      "type": "paragraph",
+      "text": "The selection of cables, connectors, cable management systems and accessories shall be based upon the  requirements of the relevant European product standards."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Chemical manufacturing areas may feature controlled, earth-free power supply installations."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The selection of cables, connectors, cable management systems and accessories shall be based upon the  requirements of the relevant European product standards."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "5.3.6",
+      "50310"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5.3.6"
+    ],
+    "standards": [
+      "EN 50310"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.4.json"
+}

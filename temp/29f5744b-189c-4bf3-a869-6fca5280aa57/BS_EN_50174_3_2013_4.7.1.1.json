@@ -1,0 +1,76 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.7.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.7.1.1",
+  "title": "Requirements",
+  "parent_id": "4.7.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cables shall have mechanical strength and environmental characteristics that are compatible with the  pathway systems within which they are to be installed and the installation methods to be used."
+    },
+    {
+      "type": "paragraph",
+      "text": "Outdoor optical fibre cables shall be in accordance with EN 60794-3 and the appropriate family, detailed and  product specifications detailed in Table 7."
+    },
+    {
+      "type": "paragraph",
+      "text": "For cables with multiple types of optical fibres, some means of segregating the fibres by type shall be  employed."
+    },
+    {
+      "type": "paragraph",
+      "text": "European Standards have been prepared which specify outdoor metallic cables; where applicable, products  in accordance with these standards shall be used. These include EN 50406 series and EN 50407 series."
+    }
+  ],
+  "tables": [
+    {
+      "number": "7",
+      "caption": "Table 7 Family and detailed specifications for outdoor optical fibre cables",
+      "html": "<table><tbody><tr><th>Environment</th><th>Family specification</th><th>Product/detailed<br>specification</th><th colspan=2>Detailed aspect</th></tr><tr><td>Conduit (duct)</td><td>EN 60794-3-10</td><td>EN 60794-3-11</td><td>Singlemode<br>telecommunications</td></tr><tr><td></td><td></td><td>EN 60794-3-12</td><td>Premises cabling</td></tr><tr><td>Direct burial</td><td>EN 60794-3-10</td><td>EN 60794-3-11</td><td>Singlemode<br>telecommunications</td></tr><tr><td></td><td></td><td>EN 60794-3-12</td><td>Premises cabling</td></tr><tr><td>Lashed aerial</td><td>EN 60794-3-10</td><td>-</td><td>-</td></tr><tr><td>Self-supporting aerial</td><td>EN 60794-3-20</td><td>EN 60794-3-21</td><td>Premises cabling</td></tr><tr><td>ADSS</td><td>EN 60794-4-20</td><td>-</td><td>-</td></tr><tr><td>Blown</td><td>EN 60794-5-10</td><td>-</td><td>-</td></tr><tr><td>Blown</td><td>EN 60794-5-20</td><td>-</td><td>-</td></tr><tr><td>Lakes</td><td>EN 60794-3-30</td><td>-</td><td>-</td></tr><tr><td>River crossings</td><td></td><td></td><td></td></tr><tr><td>Coastal applications</td><td></td><td></td><td></td></tr><tr><td>Storm and sanitary sewers</td><td>EN 60794-3-40</td><td>-</td><td>-</td></tr><tr><td>Gas pipes</td><td>EN 60794-3-50</td><td>-</td><td>-</td></tr><tr><td>Drinking water pipes</td><td>EN 60794-3-60</td><td>-</td><td>-</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cables shall have mechanical strength and environmental characteristics that are compatible with the  pathway systems within which they are to be installed and the installation methods to be used."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Outdoor optical fibre cables shall be in accordance with EN 60794-3 and the appropriate family, detailed and  product specifications detailed in Table 7."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "For cables with multiple types of optical fibres, some means of segregating the fibres by type shall be  employed."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "European Standards have been prepared which specify outdoor metallic cables; where applicable, products  in accordance with these standards shall be used. These include EN 50406 series and EN 50407 series."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "3",
+      "50406",
+      "50407",
+      "60794",
+      "7",
+      "Table 7"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": [
+      "EN 50406",
+      "EN 50407",
+      "EN 60794-3"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.7.1.1.json"
+}

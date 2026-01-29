@@ -1,0 +1,25 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.10",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.10",
+  "title": "hot zone",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "area around a high-voltage installation (e.g. substation, transformer, pylon) whose earth potential rise in  normal operation or when an earth fault occurs, is over the limits given in ITU-T K.68 for typical fault  situations"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "68"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.10.json"
+}

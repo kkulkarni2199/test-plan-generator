@@ -1,0 +1,61 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.1.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.1.3.2",
+  "title": "Power supply cabling",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The use of filters should not interrupt the PE connecting the equipment."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the filter is located outside the equipment it is preferable that the wires from the filter should be twisted and positioned close to the equipotential structure (see Figure A.8)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the installation is protected by a residual current device the leakage current of the filter should be lower than the rated residual current of the residual current device (see Figure A.8)."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.8 \u2014 Installation of power filter"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_3_1_3_2\\figure_1_page_85_picture_8.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 19072
+    }
+  ],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The use of filters should not interrupt the PE connecting the equipment."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "When the filter is located outside the equipment it is preferable that the wires from the filter should be twisted and positioned close to the equipotential structure (see Figure A.8)."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "When the installation is protected by a residual current device the leakage current of the filter should be lower than the rated residual current of the residual current device (see Figure A.8)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "8"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.1.3.2.json"
+}

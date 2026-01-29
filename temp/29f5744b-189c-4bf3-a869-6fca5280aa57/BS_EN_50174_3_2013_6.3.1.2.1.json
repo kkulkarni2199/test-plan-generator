@@ -1,0 +1,68 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.3.1.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.3.1.2.1",
+  "title": "Requirements (Safety)",
+  "parent_id": "6.3.1.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Unless otherwise specified by national or local regulations, if the supporting structures of the information  technology cabling are non-conducting (e.g. wooden) or insulated, the minimum clearance between aerial  information technology and overhead power supply cabling shall be as specified in Table 11."
+    },
+    {
+      "type": "footnote",
+      "text": "a) National or local regulation may require HV cables only."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where power supply cables (\u2264 AC 1 000 V or DC 1 500 V) and information technology cables are fixed on  the external surfaces of buildings or other structures they shall be separated by at least:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) 0 m if the cables are insulated to the highest voltage present in accordance with HD 60364 series;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) 1,0 m in all other cases."
+    }
+  ],
+  "tables": [
+    {
+      "number": "11",
+      "caption": "Table 11 Minimum clearances between aerial information technology and overhead power supply cabling",
+      "html": "<table><tbody><tr><th></th><th colspan=3>Overhead power supply<br>< AC 1 000 V r.m.s. or DC 1 500 V</th><th>Overhead power supply<br>> AC 1 000 V r.m.s. or DC 1 500 V</th><th></th></tr><tr><th></th><th>Power supply<br>cables<br>(insulated)</th><th>Power supply<br>cables<br>(uninsulated)</th><th>Power supply<br>poles</th><th>Power supply cables/<br>conductors a)</th><th>Power supply<br>poles</th></tr><tr><td>Information technology cables</td><td>0,5 m</td><td>1,0 m</td><td>0,5 m</td><td>2,0 m b)</td><td>1,0 m</td></tr><tr><td>Information technology poles</td><td>0,5 m</td><td>1,0 m</td><td>0,5 m</td><td>2,0 m b)</td><td>1,0 m</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Unless otherwise specified by national or local regulations, if the supporting structures of the information  technology cabling are non-conducting (e.g. wooden) or insulated, the minimum clearance between aerial  information technology and overhead power supply cabling shall be as specified in Table 11."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where power supply cables (\u2264 AC 1 000 V or DC 1 500 V) and information technology cables are fixed on  the external surfaces of buildings or other structures they shall be separated by at least:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "000",
+      "1",
+      "11",
+      "500",
+      "60364",
+      "Table 11"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "HD 60364"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.3.1.2.1.json"
+}

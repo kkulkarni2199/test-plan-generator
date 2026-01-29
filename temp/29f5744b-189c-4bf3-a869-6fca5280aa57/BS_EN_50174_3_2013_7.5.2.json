@@ -1,0 +1,80 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.2",
+  "title": "Requirements",
+  "parent_id": "7.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The information technology cabling, supporting structures and accessories shall not obstruct the visibility of  signals and road crossings."
+    },
+    {
+      "type": "paragraph",
+      "text": "The space to be left clear by the parts of the information technology cables shall be subject to agreement  with the operator of the railway."
+    },
+    {
+      "type": "paragraph",
+      "text": "As an example of such an agreement, for a standard gauge railway on which vehicles with a width of  3 150 mm run, Figure 14 shows a shaded area that shall not be occupied by any part of the information  technology cabling infrastructure including anchors and stays."
+    },
+    {
+      "type": "paragraph",
+      "text": "The functioning of technical equipment of railway installations shall not be impaired."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information technology cables shall be provided with a high degree of resistance to fracture."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\7_5_2\\figure_1_page_75_picture_16.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 22911
+    }
+  ],
+  "requirements": [
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "The information technology cabling, supporting structures and accessories shall not obstruct the visibility of  signals and road crossings."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The space to be left clear by the parts of the information technology cables shall be subject to agreement  with the operator of the railway."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "As an example of such an agreement, for a standard gauge railway on which vehicles with a width of  3 150 mm run, Figure 14 shows a shaded area that shall not be occupied by any part of the information  technology cabling infrastructure including anchors and stays."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "The functioning of technical equipment of railway installations shall not be impaired."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information technology cables shall be provided with a high degree of resistance to fracture."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "14",
+      "150",
+      "3",
+      "Figure 14"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.2.json"
+}

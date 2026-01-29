@@ -1,0 +1,23 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6",
+  "title": "Segregation",
+  "parent_id": null,
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "6.1",
+    "6.2",
+    "6.3",
+    "6.4"
+  ],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.json"
+}

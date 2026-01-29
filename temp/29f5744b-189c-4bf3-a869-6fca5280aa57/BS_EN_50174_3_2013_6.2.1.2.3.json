@@ -1,0 +1,31 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.2.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.2.3",
+  "title": "Requirements (EMI)",
+  "parent_id": "6.2.1.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where the information technology cables and power supply cables are required to cross, the angle of their  crossing shall be maintained at 90 degrees on either side of the crossing for a distance no less than the  applicable minimum separation requirement."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where the information technology cables and power supply cables are required to cross, the angle of their  crossing shall be maintained at 90 degrees on either side of the crossing for a distance no less than the  applicable minimum separation requirement."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "90"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.2.3.json"
+}

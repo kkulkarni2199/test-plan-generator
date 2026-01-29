@@ -1,0 +1,33 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.1.2",
+  "title": "Recommendations (Safety)",
+  "parent_id": "6.2.1.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where the information technology cables and power supply cables are required to cross (see 6.2.1.1.3), an  additional barrier should be installed between the cables to provide electrical isolation."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where the information technology cables and power supply cables are required to cross (see 6.2.1.1.3), an  additional barrier should be installed between the cables to provide electrical isolation."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "6.2.1.1.3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::6.2.1.1.3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.1.2.json"
+}

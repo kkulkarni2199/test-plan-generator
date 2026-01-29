@@ -1,0 +1,58 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.3.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.3.3",
+  "title": "Installation",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The surge protective devices fitted at the main distribution frame and all subscriber terminals reduce the risk  of damage to information technology cabling but their main function is to protect components having lower  dielectric strength than the cables. See Recommendations ITU-T K.20, ITU-T K.21, ITU-T K.44, ITU-T K.45  and the EN 61643 series."
+    },
+    {
+      "type": "paragraph",
+      "text": "Connections of information technology cabling and earthing systems to surge protective devices should be  as short as possible to minimise surge voltage levels between the lines and the equipotential bond point (see  Figure A.11)."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.11  Short connections of surge protective devices"
+    },
+    {
+      "type": "paragraph",
+      "text": "(informative)"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_3_3_3\\figure_1_page_88_picture_21.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 14232
+    }
+  ],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Connections of information technology cabling and earthing systems to surge protective devices should be  as short as possible to minimise surge voltage levels between the lines and the equipotential bond point (see  Figure A.11)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "11",
+      "20",
+      "21",
+      "44",
+      "45",
+      "61643"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "EN 61643"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.3.3.json"
+}

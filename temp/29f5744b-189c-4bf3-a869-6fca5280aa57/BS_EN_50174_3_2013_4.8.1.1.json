@@ -1,0 +1,33 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.8.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.8.1.1",
+  "title": "Introduction",
+  "parent_id": "4.8.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The requirements and recommendations of this sub-clause are applicable to all spaces and structures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Access to pathways between buildings is provided by spaces and structures that typically comprise  maintenance holes, hand-holes and telecommunication cabinets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The spaces and structures are frequently located in unrestricted access areas and are subject to  considerable physical risk."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "clause a"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.8.1.1.json"
+}

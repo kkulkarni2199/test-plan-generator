@@ -1,0 +1,33 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::201.2",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "201.2",
+  "title": "Mechanical Assembly",
+  "parent_id": "201",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Loosening of parts in an accessory as a result of  vibration due to storage, handling and operation shall  not result in a risk of fire, electric shock, injury to  persons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compliance is checked by inspection."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Loosening of parts in an accessory as a result of  vibration due to storage, handling and operation shall  not result in a risk of fire, electric shock, injury to  persons."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\201.2.json"
+}

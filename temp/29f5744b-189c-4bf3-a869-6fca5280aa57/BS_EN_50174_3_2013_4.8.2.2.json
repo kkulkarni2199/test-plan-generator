@@ -1,0 +1,46 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.8.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.8.2.2",
+  "title": "Recommendations",
+  "parent_id": "4.8.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Maintenance holes are preferred over hand holes as they provide greater flexibility for extension and  expansion of the installed cabling infrastructure e.g. additional pathways."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance holes and hand holes should be provided at both ends of a conduit route, positioned as close  as practicable (normally within 5 m) to the external building walls and adjacent to the equipment room in  which the cables terminate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance holes should be located at the sides of crossings of roadways or railways."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Maintenance holes and hand holes should be provided at both ends of a conduit route, positioned as close  as practicable (normally within 5 m) to the external building walls and adjacent to the equipment room in  which the cables terminate."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Maintenance holes should be located at the sides of crossings of roadways or railways."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.8.2.2.json"
+}

@@ -1,0 +1,40 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.5",
+  "title": "Creepage and clearance distances",
+  "parent_id": "4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Creepage and clearance distances shall be as per 6.2.1 of this document (connector without  breaking capacity as defined in IEC 61984)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les lignes de fuite et les distances d'isolement doivent \u00eatre conformes \u00e0 6.2.1 du pr\u00e9sent  document (connecteur sans pouvoir de coupure tel que d\u00e9fini dans l'IEC 61984)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Creepage and clearance distances shall be as per 6.2.1 of this document (connector without  breaking capacity as defined in IEC 61984)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "6.2.1",
+      "61984"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6.2.1"
+    ],
+    "standards": [
+      "IEC 61984"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.5.json"
+}

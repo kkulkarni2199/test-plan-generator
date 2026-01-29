@@ -1,0 +1,36 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.5",
+  "title": "campus",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "premises containing one or more buildings"
+    },
+    {
+      "type": "paragraph",
+      "text": "[SOURCE: EN 50173-1:2011, 3.1.23]"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2011",
+      "3.1.23",
+      "50173"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50173-1:2011"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.5.json"
+}

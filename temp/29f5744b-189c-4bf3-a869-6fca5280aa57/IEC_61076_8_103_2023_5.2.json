@@ -1,0 +1,22 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.2",
+  "title": "Isometric view and common features",
+  "parent_id": "5",
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "5.2.1",
+    "5.2.2",
+    "5.2.3"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.2.json"
+}

@@ -1,0 +1,39 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.7.5.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.7.5.2",
+  "title": "Recommendations",
+  "parent_id": "5.3.7.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A marker tape in accordance with EN 12613 should be laid between 0,1 m and 0,2 m above each conduits  or group of conduits."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "A marker tape in accordance with EN 12613 should be laid between 0,1 m and 0,2 m above each conduits  or group of conduits."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "12613",
+      "2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 12613"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.7.5.2.json"
+}

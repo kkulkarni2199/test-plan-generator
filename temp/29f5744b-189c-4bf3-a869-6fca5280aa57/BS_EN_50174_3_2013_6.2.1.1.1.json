@@ -1,0 +1,35 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.1.1",
+  "title": "Requirements (Safety)",
+  "parent_id": "6.2.1.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Unless the cables are insulated to the highest voltage present in accordance with HD 60364 series, the  minimum separation between information technology cables and power supply cables shall be 0,05 m."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Unless the cables are insulated to the highest voltage present in accordance with HD 60364 series, the  minimum separation between information technology cables and power supply cables shall be 0,05 m."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "05",
+      "60364"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "HD 60364"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.1.1.json"
+}

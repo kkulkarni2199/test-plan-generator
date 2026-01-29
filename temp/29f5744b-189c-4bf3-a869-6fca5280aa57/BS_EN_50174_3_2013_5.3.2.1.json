@@ -1,0 +1,25 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.2.1",
+  "title": "General",
+  "parent_id": "5.3.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The requirements and recommendations of this sub-clause are applicable to all pathways."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "clause a"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.2.1.json"
+}

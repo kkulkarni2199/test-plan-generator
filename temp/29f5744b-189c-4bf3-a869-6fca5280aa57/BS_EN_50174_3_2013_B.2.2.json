@@ -1,0 +1,38 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::B.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "B.2.2",
+  "title": "Example of a hot zone around HV installations less than 25 kV",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where the EPR is not known, the limit of the hot zone can be taken from Table B.1."
+    },
+    {
+      "type": "caption",
+      "text": "Table B.1  Minimum distance (HV installations less than 25 kV)"
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Soil resistivity</th><th>Power supply system with isolated<br>neutral or arc suppression coil<br>(If < 40 A)</th><th>Power supply system with directly<br>earthed neutral<br>(If > 1 000 A)</th></tr><tr><td>< 50 \u03a9m</td><td>5 m</td><td>10 m</td></tr><tr><td>50 \u03a9m to 500 \u03a9m</td><td>10 m</td><td>20 m</td></tr><tr><td>500 \u03a9m to 5 000 \u03a9m</td><td>20 m</td><td>50 m</td></tr><tr><td>5 000 \u03a9m to 10 000 \u03a9m</td><td>20 m</td><td>100 m</td></tr><tr><td>> 10 000 \u03a9m</td><td>20 m</td><td>200 m</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "25"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\B.2.2.json"
+}

@@ -1,0 +1,30 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.16",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.16",
+  "title": "Protection against electrostatic discharge (ESD)",
+  "parent_id": "5.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For information see EN 50174-1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "50174"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.16.json"
+}

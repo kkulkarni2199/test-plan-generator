@@ -1,0 +1,813 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::63",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "63",
+  "title": "A,415 V THREE-PHASE OR 70 A,240 V SINGLE PHASE ACCESSORIES",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The standard sheets 2-II apply to configuration type  2: 63 A,415 V a.c. three-phase and 70 A, 240 V a. c.  single-phase accessories."
+    },
+    {
+      "type": "paragraph",
+      "text": "For configuration type 2, the following specifications  are applicable:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interlocking and latching of the accessories is mandatory  to prevent them from unintentional separation and  breaking under load. The interlocking shall insure that  the energy transmission is stopped before separation."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2212 Interlocking can be performed by mechanical or  electromechanical means ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The interlocking means shall offer a feedback to show  that the mechanism is in correct engagement. At least"
+    },
+    {
+      "type": "paragraph",
+      "text": "one latching means shall be provided. The feedback  can be offered for example by a supplementary contact."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pilot function shall be realized by implementation  of \"Control Pilot function through a control pilot  circuit using PWM signal and a control pilot wire\" as  described in Annex A of IS 17017 (Part 1):2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Proximity detection and current coding shall be  implemented according to \"Circuit for simultaneous  proximity detection and current coding\" as per B-2 of  IS 17017 (Part 1):2018."
+    },
+    {
+      "type": "paragraph",
+      "text": "Interoperability of configuration type 2 accessories is  indicated in Table 203."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard Sheets 2-IIg and 2-IIh define packaging  rooms to ensure compatibility."
+    },
+    {
+      "type": "footnote",
+      "text": "1) Type 2 accessories shall only be used in the modes as listed in this tabulation."
+    },
+    {
+      "type": "footnote",
+      "text": "2) Interoperability excluded by mechanical coding."
+    },
+    {
+      "type": "footnote",
+      "text": "3) Interoperability excluded by gap in control pilot circuit."
+    },
+    {
+      "type": "footnote",
+      "text": "4) Fixed accessories cannot be connected together."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a Latching means construction to customer's decision"
+    },
+    {
+      "type": "list_item",
+      "text": "b Optional drain hole"
+    },
+    {
+      "type": "list_item",
+      "text": "c Sealing area (optional sealing). The plug area from 11 to 16,7 has to be kept free of shrinkage,  tool cuts and ejector marks. See 2-IIb sheet 1."
+    },
+    {
+      "type": "list_item",
+      "text": "d Tip of sleeves chamfered for easy insertion"
+    },
+    {
+      "type": "list_item",
+      "text": "e Contact point"
+    },
+    {
+      "type": "list_item",
+      "text": "1 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "list_item",
+      "text": "2 For single phase socket-outlets, contacts L2 and L3 including the surrounding insulation can be omitted"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 ) Sheet 2 ( Continuation of Sheet 1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a Preferred area for optional shutter. Mechanism might exceed this area."
+    },
+    {
+      "type": "list_item",
+      "text": "b Latching means positions. At least one Latching means provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2212 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "a Sealing area, free of sinkage, toolcuts and ejectors."
+    },
+    {
+      "type": "list_item",
+      "text": "1 Surface roughness in sealing area: Ra=0,7 \u03bcm"
+    },
+    {
+      "type": "list_item",
+      "text": "2 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "list_item",
+      "text": "3 For single phase plugs the contacts L2 and L3 can be omitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "caption",
+      "text": "Sheet 2 ( Continuation of Sheet 1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a Isolated cap"
+    },
+    {
+      "type": "list_item",
+      "text": "b No sharp edges acceptable at the transition region"
+    },
+    {
+      "type": "list_item",
+      "text": "c The cavity shall have a rectangular shape with smooth edges with the dimensions indicated and shall  be within the prescribed limits over the distance &lt;14.5 mm. Beyond this, limits of the cavity may have  a different shape and different dimensions."
+    },
+    {
+      "type": "list_item",
+      "text": "d The cavity shall have a rectangular shape with smooth edges with the dimensions indicated and shall  be within the prescribed limits over the distance &lt;212 mm. Beyond these limits the cavity may have a  different shape and dimension."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2212 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a All the domes may be shortened by 17.8 mm if a shutter is used"
+    },
+    {
+      "type": "list_item",
+      "text": "b Tip of sleeves chamfered for easy insertion"
+    },
+    {
+      "type": "list_item",
+      "text": "c Contact point"
+    },
+    {
+      "type": "list_item",
+      "text": "d Sealing area free of sinkage, toolcuts and ejectors"
+    },
+    {
+      "type": "list_item",
+      "text": "1 Undimensioned radii: R 0.5 mm to 0.7 mm."
+    },
+    {
+      "type": "list_item",
+      "text": "2 Surface roughness in sealing area: Ra=0.7 \u03bcm"
+    },
+    {
+      "type": "list_item",
+      "text": "3 For single phase connectors the contacts L2 and L3 including the surrounding insulation can be omitted"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sheet 2 ( Continuation of Sheet 1 )"
+    },
+    {
+      "type": "caption",
+      "text": "NOTE \u2212 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "(Clause 9.1)"
+    },
+    {
+      "type": "list_item",
+      "text": "a Latching means, construction to customers decision"
+    },
+    {
+      "type": "list_item",
+      "text": "b Optional drain hole"
+    },
+    {
+      "type": "list_item",
+      "text": "c Sealing area (optional sealing)"
+    },
+    {
+      "type": "list_item",
+      "text": "1 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "list_item",
+      "text": "2 For single phase inlets the contacts L2 and L3 can be omitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sheet 2 ( Continuation of Sheet 1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a No sharp edges acceptable at the transition region."
+    },
+    {
+      "type": "list_item",
+      "text": "b Isolated cap"
+    },
+    {
+      "type": "list_item",
+      "text": "c Latching means positions. At least one latching means provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2212 Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a. Tip of sleeves chamfered for easy insertion"
+    },
+    {
+      "type": "list_item",
+      "text": "b Contact point."
+    },
+    {
+      "type": "list_item",
+      "text": "c Sealing area free of sinkage, toolcuts and ejectors"
+    },
+    {
+      "type": "list_item",
+      "text": "1 Undimensioned radii: R 0.5 mm to 0.7 mm."
+    },
+    {
+      "type": "list_item",
+      "text": "2 Surface roughness in sealing area: Ra=0.7 \u03bcm."
+    },
+    {
+      "type": "list_item",
+      "text": "3 For single phase connectors the contacts L2 and L3 including the surrounding insulation can be omitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "(Clause 9.1)"
+    },
+    {
+      "type": "caption",
+      "text": "Sheet 2 (Continuation of Sheet 1)"
+    },
+    {
+      "type": "caption",
+      "text": "NOTE - Undimensioned radii: R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "list_item",
+      "text": "a Latching means construction to customer's decision"
+    },
+    {
+      "type": "list_item",
+      "text": "b Sealing area (optional sealing)"
+    },
+    {
+      "type": "list_item",
+      "text": "1 Undimensioned radii: R 0.5 mm to 0.7 mm."
+    },
+    {
+      "type": "list_item",
+      "text": "2 For single phase inlets the contacts L2 and L3 can be omitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sheet 2 ( Continuation of Sheet 1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "a Isolated cap"
+    },
+    {
+      "type": "paragraph",
+      "text": "b No sharp edges acceptable at the transition region"
+    },
+    {
+      "type": "paragraph",
+      "text": "c Latching means positions. At least one latching means provided."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2212 Undimensioned radii : R 0.5 mm to 0.7 mm"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE \u2212 Plug body shape shall be within the shaded area."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "caption",
+      "text": "NOTE \u2212 Vehicle connector body shape shall be within the shaded area."
+    },
+    {
+      "type": "paragraph",
+      "text": "Limited, Gurgaon, Haryana"
+    },
+    {
+      "type": "paragraph",
+      "text": "( Foreword )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Electrotechnology in Mobility Sectional Committee, ETD-51"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Alok Kumar (Alternate I) Ms Alka Sharma (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EV Motors India Private Limited, Noida,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uttar Pradesh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Exicom Tele-Systems Private Limited, Gurgaon, Haryana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fortum India Private Limited, Gurgaon, Haryana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hero MotoCorp Limited, Jaipur, Rajasthan Shri Feroz Ali Khan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Honda Cars R and D India, Gautam Budh Nagar District, Uttar Pradesh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Honda Motorcycle and Scooter India Private  Limited, Gurugram, Haryana"
+    },
+    {
+      "type": "paragraph",
+      "text": "India Smart Grid Forum, Chanakyapuri,  New Delhi"
+    },
+    {
+      "type": "paragraph",
+      "text": "India Yamaha Motor Private Limited,  Uttar Pradesh, India"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indian Electrical and Electronics  Manufacturers Association,  New Delhi, Delhi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indian Institute of Technology (IITB), Mumbai, Maharashtra"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indian Institute of Technology (IITM), Chennai, Tamil Nadu"
+    },
+    {
+      "type": "paragraph",
+      "text": "Infineon Technologies India Private Limited, Noida, Uttar Pradesh"
+    },
+    {
+      "type": "paragraph",
+      "text": "International Copper Association India,  New Delhi, Delhi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mahindra Electric Mobility Limited,  Bommanahalli, Bangalore"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maruti Suzuki India Limited, Gurgaon, Haryana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Masstech Controls Private Limited, Mumbai, Maharashtra"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ministry of Heavy Industries, New Delhi, Delhi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Narnix Technolabs Private Limited,  Sector 13 R K Puram, New Delhi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Organization Representative(s)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Vinit Bansal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Nicco Bhabu (Alternate I) Shri Vikram Gulati (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Akshay Ahuja"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri P. M. Singh (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Awadhesh Kumar Jha"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Chinmay Shukla (Alternate I) Shri Ankit Maheshwari (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Subrat Kumar Dash (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Koji Tamenori"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Adish Aggarwal (Alternate I) Shri S. Muthu Kumar (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Suraj Agarwal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Sandeep Miskeen (Alternate I) Shri Vipin Sharma (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Reji Kumar Pillai"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Shuvam Sarkar Roy (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Sanjeev Chugh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri J. Emmanuel (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Mustafa Wajid, Meher Capacitors, Bengaluru"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Vivek Arora (Alternate I) Shri Pande J (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prof Sagar Mitra"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prof Venkatasailanathan Ramadeigan (Alternate I)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Prof Kishore Chatterjee (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr Prabhjot Kaur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ms Anitha Dhianeshwar (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Rakesh Sharma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Debdas Goswami"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dr Allabaksh Naikodi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Sreejakumar Nair (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Gururaj Ravi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Amit Bharti (Alternate I) Shri Sumit Kumar (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Anurag Patil"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Subhash N Patil (Alternate I)  Shri Bhushan Bharambe (Alternate II)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri A. A. Deshpande"
+    },
+    {
+      "type": "paragraph",
+      "text": "Automotive Research Association of India,"
+    },
+    {
+      "type": "paragraph",
+      "text": "PuneMaharashtra"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri M. M. Desai (Alternate)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Automotive Research Association of India, Pune."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maharashtra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri Narang N. Kishor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mayur Vihar Phase 1 extension,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Delhi \u2013 110 091)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Member Secretary"
+    },
+    {
+      "type": "paragraph",
+      "text": "[ Representing Director General, BIS ( Ex-officio ) ]"
+    },
+    {
+      "type": "paragraph",
+      "text": "Shri P. V. Mathew Scientist 'E' (ETD), BIS"
+    },
+    {
+      "type": "paragraph",
+      "text": "BIS Directorate General Shri Rajeev Sharma, Scientist 'F' and Head (ETD)"
+    },
+    {
+      "type": "paragraph",
+      "text": "BIS is a statutory institution established under the Bureau of Indian Standards Act, 2016 to promote harmonious development of the activities of standardization, marking and quality certification of goods and attending to connected matters in the country."
+    },
+    {
+      "type": "paragraph",
+      "text": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 'BIS Catalogue' and 'Standards: Monthly Additions'."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Indian Standard has been developed from Doc No.: ETD 51 (15094)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Manak Bhavan, 9 Bahadur Shah Zafar Marg, New Delhi 110002"
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephones: 2323 0131, 2323 3375, 2323 9402 Website: www.bis.gov.in"
+    },
+    {
+      "type": "paragraph",
+      "text": "NAGPUR, PARWANOO, PATNA, PUNE, RAIPUR, RAJKOT, VISAKHAPATNAM,"
+    }
+  ],
+  "tables": [
+    {
+      "number": "203",
+      "caption": "Table 203 Interoperation of Configuration Type 2 Accessories",
+      "html": "<table><tbody><tr><th>Accessory1)</th><th>Plug (mode 3)<br>Sheet 2-IIb</th><th>Vehicle Inlet<br>(all modes) Sheet 2-IId</th><th>Vehicle Inlet<br>(modes 2 and 3) Sheet 2-IIf</th></tr><tr><td>Socket-outlet (mode 3) Sheet 2-IIa</td><td>Yes</td><td>n. a4)</td><td>n. a4)</td></tr><tr><td>Vehicle connector (mode 1) Sheet 2-IIc</td><td>No2)</td><td>Yes</td><td>No2)</td></tr><tr><td>Vehicle connector (modes 2 and 3)Sheet 2- IIe</td><td>No3)</td><td>Yes</td><td>Yes</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th></th></tr><tr><th>Organization</th><th>Representative(s)</th></tr><tr><td>Department of Science And Technology,<br>New Delhi, Delhi</td><td colspan=3>Dr Sajid Mubashir (Chairman)</td></tr><tr><td>ABB India Limited, Faridabad, Haryana</td><td>Shri Divya Kum<br>ar</td></tr><tr><td>Amara Raja Batteries Limited, Tirupati,<br>Andhra Pradesh</td><td>Shri Niranjan C<br>Shri Jasm<br>eet Singh (Alternate)</td></tr><tr><td>Ashok Leyland Limited, Chennai,<br>Tamil Nadu</td><td>Shri Arun Kum<br>ar Gelli<br>Shri Huzefa A. C. (Alternate I)<br>Ms Suchism<br>ita Chatterjee (Alternate II)</td></tr><tr><td>Ather Energy Private Limited, Bengaluru,<br>Karnataka</td><td>Shri Swapnil Jain<br>Shri Nishant D. K. (Alternate I)<br>Shri Chenn<br>asetty Prashanth Manikum<br>ar (Alternate II)</td></tr><tr><td>Automotive Component Manufactures<br>Association of India (ACMA), New<br>Delhi, Delhi</td><td>Ms<br>Pooja Sharm<br>a<br>Shri Uday Harite (Alternate)</td></tr><tr><td>Bangalore Electricity Supply Company<br>Limited, Bangalore, Karnataka</td><td>Shri Anil Kum<br>ar Dsouza</td></tr><tr><td>Bharat Heavy Electricals Limited,<br>Lodhi Road, New Delhi</td><td>Shri Im<br>ran Mans<br>ury<br>Shri Pushkar Khakha (Alternate)</td></tr><tr><td>Bajaj Auto Limited, Pune, Maharashtra</td><td>Dr Philip Jose<br>Shri Arvind<br>Kum<br>bhar (Alternate)</td></tr><tr><td>Bosch Limited, Bangalore, Karnataka</td><td>Shri Pradeep Ram<br>achand<br>ra<br>Shri Hariprasad<br>Gowrisank<br>ar (Alternate I)<br>Shri Sanjay Khatri (Alternate II)</td></tr><tr><td>Castus Energy Solutions Private Limited,<br>Chennai, Tamilnadu</td><td>Shri Sivam<br>Sabesan</td></tr><tr><td>Center For Study of Science, Technology, and<br>Policy, Noida, Uttar Pradesh</td><td>Dr Mridula Dixit Bharadwaj<br>Shri Aumk<br>ar Borgaonk<br>ar (Alternate I)<br>Shri Arunesh Karkun (Alternate II)</td></tr><tr><td>Central Electricity Authority, R K Puram,<br>New Delhi</td><td>Shrim<br>ati Vand<br>ana Singhal<br>Ms Seem<br>a Saxena (Alternate)</td></tr><tr><td>Central Electricity Regulatory Commission,<br>New Delhi, Delhi</td><td>Shri M. M. Chaudhari</td></tr><tr><td>Central Power Research Institute (CPRI),<br>Bangalore, Karnataka</td><td>Dr Kuldeep Singh Rana</td></tr><tr><td>CG Power and Industrial Solutions Limited,<br>Ahmednagar, Gujarat</td><td>Shri A. Sudhakaran<br>Shri Sand<br>eep R. Bachkar (Alternate)</td></tr><tr><td>Council of Scientific and Industrial Research,<br>New Delhi, Delhi</td><td>Dr R. P. Aloysius<br>Ms<br>Priyank<br>a Jain (Alternate I)<br>Shri Atul Suresh Somk<br>uwar (Alternate II)</td></tr><tr><td>Delta Power Solutions (India) Private<br>Limited, Gurgaon, Haryana</td><td>Shri Aks<br>haye Barbudd<br>he<br>Shri R. Om<br>Prakash (Alternate)</td></tr><tr><td>D E N S O International India Private</td><td>Shri Noel Alexand<br>er Peters</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Organization</th><th>Representative(s)</th></tr><tr><td>Panasonic India Private Limited, Gurugram,<br>Uttar Pradesh</td><td>Shri Atul Arya<br>Shri Shailesh Kum<br>ar Dubey (Alternate I)<br>Shri Yogesh Kum<br>ar (Alternate II)</td></tr><tr><td>Phoenix Contact India Private Limited,<br>New Delhi, Delhi</td><td>Shri Am<br>it Tyagi<br>Aggarwal (Alternate I)<br>Shri Alok<br>Shri Am<br>it Sharm<br>a (Alternate II)</td></tr><tr><td>Rajasthan Electronics and Instruments<br>Limited, Jaipur, Rajasthan</td><td>Shri A K Jain<br>Shri R K Gupta (Alternate I)<br>Shri D K Gupta (Alternate II)</td></tr><tr><td>Renault India Private Limited,<br>Kancheepuram District, Tamilnadu</td><td>Shri Vijay Dinakaran<br>Shri Rajend<br>ra Khile (Alternate)</td></tr><tr><td>Siemens Limited,<br>Navi Mumbai, Maharashtra</td><td>Shri Bidyut Mazumd<br>aer<br>Shri Am<br>it Kekare (Alternate)</td></tr><tr><td>Society of Indian Automobile Manufacturers,<br>New Delhi, Delhi</td><td>Shri Prashant K. Banerjee<br>Shri Saurabh Rohilla (Alternate)</td></tr><tr><td>Tata Motors Limited, Pune, Maharashtra</td><td>Dr Ajit Kum<br>ar Jind<br>al<br>Dr Raja Munusam<br>y (Alternate I)<br>Mr Sunil Nagpal (Alternate II)</td></tr><tr><td>Tata Power Company Limited, Mumbai,<br>Maharashtra</td><td>Shri Paresh Bhatt<br>Ms Nushreen<br>Ahm<br>ed (Alternate I)<br>Shri Manoj Kum<br>ar (Alternate II)</td></tr><tr><td>Tata Power Delhi Distribution Limited,<br>Kingsway Camp, Delhi</td><td>Dr G. Ganesh Das</td></tr><tr><td>Tech Perspect Software Private Limited,<br>Noida, Uttar Pradesh</td><td>Shri Sum<br>it Ahuja<br>esh Arora (Alternate I)<br>Shri Ram<br>Shri Vishal Sharm<br>a (Alternate II)</td></tr><tr><td>The Energy and Resources Institute,<br>New Delhi, Delhi</td><td>Shri Alekhya Datta<br>Dr Shashank<br>Vyas (Alternate I)<br>Shri Neshwin<br>Rodrigues (Alternate II)</td></tr><tr><td>Toyota Kirloskar Motor Private Limited,<br>Ramanagara District, Karnataka</td><td>Shri Chann<br>appa Revadi<br>Shri Raju M (Alternate I)<br>Shri M. Suchind<br>ran (Alternate II)</td></tr><tr><td>TVS Motor Company, Harita, Hosur</td><td>Dr S. Jabez Dhinagar<br>Shri Ravind<br>ar Naik (Alternate)</td></tr><tr><td>UL India Private Limited, Whitefield,<br>Bengaluru</td><td>Shri V Manjunath<br>Shri Manish Kothari (Alternate)</td></tr><tr><td>Vision Mechatronics Private Limited, Thane<br>(W), Maharashtra</td><td>Dr Rashi Gupta<br>Mr Bharat Gupta (Alternate)</td></tr><tr><td>In personal capacity (506/2 Kirti Apartments,</td><td>Shri P. K. Mukherjee</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Amend No.</th><th>Date of Issue</th><th colspan=3>Text Affected</th></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th colspan=3>Telephones: 2323 0131, 2323 3375, 2323 9402</th><th colspan=4>Website: www.bis.gov.in</th></tr><tr><td colspan=3>Regional Offices:</td><td></td><td></td><td>Telephones</td></tr><tr><td>Central</td><td>: Manak Bhavan, 9 B<br>NEW DELHI 11000</td><td></td><td><b>I</b>arg</td><td></td><td></td><td><pre>{ 2323 7617\n2323 3841</pre></td></tr><tr><td>Eastern</td><td colspan=5>: 1/14 C.I.T. Scheme VII M, V.I.P. Road, Kankurgachi KOLKATA 700054</td><td>7 8499, 2337 8561<br>7 8626, 2337 9120</td></tr><tr><td>Northern</td><td>: Plot No. 4-A, Sector<br>CHANDIGARH 16</td><td>,</td><td>g</td><td></td><td></td><td>{ 265 0206 265 0290</td></tr><tr><td>Southern</td><td>: C.I.T. Campus, IV C</td><td>Cross Road, CHENN</td><td>AI 600113</td><td></td><td>{ 2254<br>2254</td><td>4 1216, 2254 1442<br>4 2519, 2254 2315</td></tr><tr><td>Western</td><td>: Manakalaya, E9 MI<br>MUMBAI 400093</td><td>DC, Marol, Andheri</td><td>(East)</td><td></td><td>{ 2832<br>2832</td><td>2 9295, 2832 7858<br>2 7891, 2832 7892</td></tr><tr><td>Branches</td><td>: AHMEDABAD.<br>DEHRADUN.<br>HYDERABAD.</td><td>BENGALURU.<br>DURGAPUR.<br>JAIPUR. JAM</td><td>BHOPAL.<br>FARIDABAI<br>IMU. JAM</td><td>-</td><td></td><td>COIMBATORE.<br>GUWAHATI.<br>LUCKNOW.</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\IS17017_Part2_Sec2_2020\\63\\figure_1_page_10_picture_4.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 132347
+    },
+    {
+      "number": 2,
+      "path": "output_images\\IS17017_Part2_Sec2_2020\\63\\figure_2_page_19_picture_4.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 144967
+    },
+    {
+      "number": 3,
+      "path": "output_images\\IS17017_Part2_Sec2_2020\\63\\figure_3_page_20_picture_4.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 144538
+    }
+  ],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Interlocking and latching of the accessories is mandatory  to prevent them from unintentional separation and  breaking under load. The interlocking shall insure that  the energy transmission is stopped before separation."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The interlocking means shall offer a feedback to show  that the mechanism is in correct engagement. At least"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "one latching means shall be provided. The feedback  can be offered for example by a supplementary contact."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The pilot function shall be realized by implementation  of \"Control Pilot function through a control pilot  circuit using PWM signal and a control pilot wire\" as  described in Annex A of IS 17017 (Part 1):2018."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Proximity detection and current coding shall be  implemented according to \"Circuit for simultaneous  proximity detection and current coding\" as per B-2 of  IS 17017 (Part 1):2018."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c The cavity shall have a rectangular shape with smooth edges with the dimensions indicated and shall  be within the prescribed limits over the distance &lt;14.5 mm. Beyond this, limits of the cavity may have  a different shape and different dimensions."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "d The cavity shall have a rectangular shape with smooth edges with the dimensions indicated and shall  be within the prescribed limits over the distance &lt;212 mm. Beyond these limits the cavity may have a  different shape and dimension."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "a All the domes may be shortened by 17.8 mm if a shutter is used"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "NOTE \u2212 Plug body shape shall be within the shaded area."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "BIS has the copyright of all its publications. No part of these publications may be reproduced in any form without the prior permission in writing of BIS. This does not preclude the free use, in the course of implementing the standard, of necessary details, such as symbols and sizes, type or grade designations. Enquiries relating to copyright be addressed to the Director (Publications), BIS."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Amendments are issued to standards as the need arises on the basis of comments. Standards are also reviewed periodically; a standard along with amendments is reaffirmed when such review indicates that no changes are needed; if the review indicates that changes are needed, it is taken up for revision. Users of Indian Standards should ascertain that they are in possession of the latest amendments or edition by referring to the latest issue of 'BIS Catalogue' and 'Standards: Monthly Additions'."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "0.5",
+      "0.7",
+      "0131",
+      "091",
+      "1",
+      "11",
+      "110",
+      "110002",
+      "13",
+      "14.5",
+      "15094",
+      "16",
+      "17.8",
+      "17017",
+      "2",
+      "2016",
+      "2018",
+      "203",
+      "212",
+      "2323",
+      "240",
+      "3",
+      "3375",
+      "4",
+      "415",
+      "51",
+      "63",
+      "7",
+      "70",
+      "9",
+      "9.1",
+      "9402",
+      "Annex A",
+      "Clause 9.1",
+      "Table 203"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::11",
+      "IS17017_Part2_Sec2_2020::13",
+      "IS17017_Part2_Sec2_2020::16",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::3",
+      "IS17017_Part2_Sec2_2020::4",
+      "IS17017_Part2_Sec2_2020::63",
+      "IS17017_Part2_Sec2_2020::7",
+      "IS17017_Part2_Sec2_2020::9"
+    ],
+    "standards": [
+      "IS 17017 (Part 1):2018"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\63.json"
+}

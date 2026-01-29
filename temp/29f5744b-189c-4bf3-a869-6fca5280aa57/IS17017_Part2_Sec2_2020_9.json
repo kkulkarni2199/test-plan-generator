@@ -1,0 +1,63 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::9",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "9",
+  "title": "DIMENSIONS",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This clause of IS 17017 (Part 2/Sec 1) is applicable  except as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Replacement:"
+    },
+    {
+      "type": "paragraph",
+      "text": "9.1 Accessories shall comply with the relevant standard  sheets as specified below and in Table 202:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Configuration type 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u2013 63 A, 415V three-phase or 240 V, 70 A singlephase accessories: standard sheets 2-II, IIa, IIb,  IIc, IId, IIe, IIf, IIg and IIh."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "9.1 Accessories shall comply with the relevant standard  sheets as specified below and in Table 202:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017",
+      "2",
+      "202",
+      "240",
+      "63",
+      "70",
+      "9.1",
+      "Table 202",
+      "clause o"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::202",
+      "IS17017_Part2_Sec2_2020::63"
+    ],
+    "standards": [
+      "IS 17017"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\9.json"
+}

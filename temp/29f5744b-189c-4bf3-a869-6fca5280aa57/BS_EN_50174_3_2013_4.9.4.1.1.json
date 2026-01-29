@@ -1,0 +1,88 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.4.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.4.1.1",
+  "title": "Requirements",
+  "parent_id": "4.9.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Provision shall be made to allow the sealing of pathway systems at or near to the entrance point inside the  building to prevent the ingress of dust, water, animals, gas etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology cables that do not comply with the minimum recommended performance  requirements of EN 60332-1-2 shall either be:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) terminated inside the building, within 2 m (unless an alternative distance if specified by local regulations)  of the point of internal penetration of the external fire barrier (e.g. floor/ceiling/wall)"
+    },
+    {
+      "type": "paragraph",
+      "text": "or"
+    },
+    {
+      "type": "paragraph",
+      "text": "b) any length exceeding 2 m (unless an alternative distance if specified by local regulations) is installed  within trunking or conduit that is considered as a fire barrier in accordance with local fire regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE This also applies where the cable has to pass through a space between two external fire barriers within a building."
+    },
+    {
+      "type": "paragraph",
+      "text": "Incoming cabling management systems shall ensure continuity of cabling, and be connected directly by the  shortest possible distance to the equipment room of campus or building, without exceeding constraints (e.g.  bending radius or ducts of constant cross sectional area)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Structural metallic elements of cables (e.g. armouring or strength members) shall be treated in accordance  with HD 60364-4-444. Screens of metallic cables shall be treated in accordance with HD 60364-4-444.  Where required, surge protection shall be applied to metallic cable elements in accordance with 4.9.8."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Provision shall be made to allow the sealing of pathway systems at or near to the entrance point inside the  building to prevent the ingress of dust, water, animals, gas etc."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Information technology cables that do not comply with the minimum recommended performance  requirements of EN 60332-1-2 shall either be:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Incoming cabling management systems shall ensure continuity of cabling, and be connected directly by the  shortest possible distance to the equipment room of campus or building, without exceeding constraints (e.g.  bending radius or ducts of constant cross sectional area)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Structural metallic elements of cables (e.g. armouring or strength members) shall be treated in accordance  with HD 60364-4-444. Screens of metallic cables shall be treated in accordance with HD 60364-4-444.  Where required, surge protection shall be applied to metallic cable elements in accordance with 4.9.8."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "4",
+      "4.9.8",
+      "444",
+      "60332",
+      "60364"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::4.9.8"
+    ],
+    "standards": [
+      "EN 60332-1-2",
+      "HD 60364-4-444"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.4.1.1.json"
+}

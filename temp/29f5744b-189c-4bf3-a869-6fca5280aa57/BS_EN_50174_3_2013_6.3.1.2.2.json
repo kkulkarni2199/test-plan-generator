@@ -1,0 +1,70 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.3.1.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.3.1.2.2",
+  "title": "Recommendations (Safety)",
+  "parent_id": "6.3.1.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The horizontal separation between information technology and power supply cabling infrastructures should  be greater than the height of the highest infrastructure (see Figure 11) unless:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) measures are implemented to avoid possible contact between aerial information technology cables and  overhead power supply cables following mechanical faults (e.g. fallen wires or supporting structures) or"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the information technology cables are insulated to the highest voltage present."
+    },
+    {
+      "type": "paragraph",
+      "text": "The pathway system for information technology cables should rather be underground than overhead when  crossing under HV lines exceeding 25 kV."
+    },
+    {
+      "type": "footnote",
+      "text": "b) Further information with regard to the interference to information technology cabling from other services is given, for instance,  in EN 50341-1 and HD 637 S1."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\6_3_1_2_2\\figure_1_page_69_picture_13.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 20033
+    }
+  ],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The horizontal separation between information technology and power supply cabling infrastructures should  be greater than the height of the highest infrastructure (see Figure 11) unless:"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The pathway system for information technology cables should rather be underground than overhead when  crossing under HV lines exceeding 25 kV."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "11",
+      "25",
+      "50341",
+      "637",
+      "Figure 11"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1"
+    ],
+    "standards": [
+      "EN 50341-1",
+      "HD 637"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.3.1.2.2.json"
+}

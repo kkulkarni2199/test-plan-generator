@@ -1,0 +1,57 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.3.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.3.3",
+  "title": "Gauge retention force (resilient contact)",
+  "parent_id": "6.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Condition: IEC 60512-16-5, Test 16e, method A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: The gauges shall be retained."
+    },
+    {
+      "type": "paragraph",
+      "text": "Condition: IEC 60512-16-5, Essai 16e, m\u00e9thode A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: Les calibres doivent \u00eatre retenus."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: The gauges shall be retained."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "16",
+      "5",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "IEC 60512-16-5"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.3.3.json"
+}

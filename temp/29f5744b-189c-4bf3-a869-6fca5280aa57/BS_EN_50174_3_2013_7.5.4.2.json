@@ -1,0 +1,83 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.4.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.4.2",
+  "title": "Requirements for electrified railways",
+  "parent_id": "7.5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A railway is a complex installation with moving sources of electric and electromagnetic disturbances; the  implementation of the electromagnetic immunity standards within information technology installations alone  is not a guarantee of satisfactory performance. A documented plan addressing the management of  electromagnetic interference shall be produced prior to any installation of information technology cabling  which considered all sources of electromagnetic interference."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology equipment shall be protected against overvoltages caused by the contact line voltage  being exceeded, e.g. by means of a surge arrester or a protective transformer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Users of information technology cables and equipment adjacent or near to DC traction systems experiencing  earth leaking problems shall seek expert advice."
+    },
+    {
+      "type": "paragraph",
+      "text": "For mitigation techniques see Annex A."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology cables shall not employ unsupported aerial crossing of electrified railways, i.e. the  cables shall be provided with continuous support (e.g. a bridge of other similar fixed structure)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Information technology cables shall be positioned at a horizontal distance of at least 4 m from the centre line  of the track."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conductive pathway systems in close proximity to electrified railways shall be protected from electrical  hazards by means of protection earthing and/or sectioning."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "A railway is a complex installation with moving sources of electric and electromagnetic disturbances; the  implementation of the electromagnetic immunity standards within information technology installations alone  is not a guarantee of satisfactory performance. A documented plan addressing the management of  electromagnetic interference shall be produced prior to any installation of information technology cabling  which considered all sources of electromagnetic interference."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Information technology equipment shall be protected against overvoltages caused by the contact line voltage  being exceeded, e.g. by means of a surge arrester or a protective transformer."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Users of information technology cables and equipment adjacent or near to DC traction systems experiencing  earth leaking problems shall seek expert advice."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Information technology cables shall not employ unsupported aerial crossing of electrified railways, i.e. the  cables shall be provided with continuous support (e.g. a bridge of other similar fixed structure)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Information technology cables shall be positioned at a horizontal distance of at least 4 m from the centre line  of the track."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Conductive pathway systems in close proximity to electrified railways shall be protected from electrical  hazards by means of protection earthing and/or sectioning."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "4",
+      "Annex A"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.4.2.json"
+}

@@ -1,0 +1,25 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.4.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.4.2.2",
+  "title": "Recommendations",
+  "parent_id": "6.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "See A.1.6"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1.6"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.4.2.2.json"
+}

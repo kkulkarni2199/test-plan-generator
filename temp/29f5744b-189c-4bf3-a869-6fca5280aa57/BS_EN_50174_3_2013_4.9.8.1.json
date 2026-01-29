@@ -1,0 +1,59 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.8.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.8.1",
+  "title": "General",
+  "parent_id": "4.9.8",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Generally cabling installed in urban areas does not need protection from lightning. Protection is generally  needed if cables containing metallic parts are installed in rural areas."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more detailed information refer to EN 61663-1 for optical fibre cable and to EN 61663-2 for copper cable  as well as EN 62305 series."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other common protection methods are"
+    },
+    {
+      "type": "list_item",
+      "text": "a) use of all dielectric optical cables,"
+    },
+    {
+      "type": "list_item",
+      "text": "b) use of shield conductor(s),"
+    },
+    {
+      "type": "list_item",
+      "text": "c) use of surge protective devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of combined protective measures is also possible to reduce the likelihood of damage due to  lightning."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "61663",
+      "62305"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 61663-1",
+      "EN 61663-2",
+      "EN 62305"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.8.1.json"
+}

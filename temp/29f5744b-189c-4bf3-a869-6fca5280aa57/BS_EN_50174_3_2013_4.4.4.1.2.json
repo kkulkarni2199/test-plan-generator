@@ -1,0 +1,60 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.4.4.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.4.4.1.2",
+  "title": "Requirements",
+  "parent_id": "4.4.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The following shall be implemented for all supporting structures:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) adjacent supports for information technology cabling shall be separated by at least 0,3 m;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) crossing of information technology bundles is not allowed unless an additional support at the pole is  used;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) protection against lightning and proximity of lightning rods."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where stays or struts are used to strengthen the supporting structure (e.g. at the resultant load points of the  cables or at road crossings) they shall be suitably insulated when required (e.g. when passing power supply  cables), and also when using a metallic catenary wire to ensure the safety of the public from hazardous  voltages."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The following shall be implemented for all supporting structures:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) adjacent supports for information technology cabling shall be separated by at least 0,3 m;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where stays or struts are used to strengthen the supporting structure (e.g. at the resultant load points of the  cables or at road crossings) they shall be suitably insulated when required (e.g. when passing power supply  cables), and also when using a metallic catenary wire to ensure the safety of the public from hazardous  voltages."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.4.4.1.2.json"
+}

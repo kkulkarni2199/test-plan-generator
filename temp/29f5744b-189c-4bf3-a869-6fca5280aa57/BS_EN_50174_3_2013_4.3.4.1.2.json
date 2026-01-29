@@ -1,0 +1,108 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.4.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.4.1.2",
+  "title": "Requirements",
+  "parent_id": "4.3.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The placement of pathways shall be in accordance with national and local regulations in relation to proximity to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) existing underground services,"
+    },
+    {
+      "type": "list_item",
+      "text": "b) trees and tree roots,"
+    },
+    {
+      "type": "list_item",
+      "text": "c) building foundations."
+    },
+    {
+      "type": "paragraph",
+      "text": "The planned location of, and distance between access points shall take into account:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) the maximum tensile load of the cable;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) the installation method;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) requirements for future expansion of the cabling to service additional buildings;"
+    },
+    {
+      "type": "list_item",
+      "text": "4) need for access."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following planning information shall be documented:"
+    },
+    {
+      "type": "list_item",
+      "text": "the installation method;"
+    },
+    {
+      "type": "list_item",
+      "text": "the location of access points."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shall be assumed that dedicated underground pathways will become at least partially water filled due to  leaking and condensation, unless specific design features are employed to prevent ingress. The provision of  effective drainage shall be considered during the design, installation and operation of access points (see 4.8)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The environment within shared pathways is defined by the construction of the pathway."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The placement of pathways shall be in accordance with national and local regulations in relation to proximity to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The planned location of, and distance between access points shall take into account:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The following planning information shall be documented:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "It shall be assumed that dedicated underground pathways will become at least partially water filled due to  leaking and condensation, unless specific design features are employed to prevent ingress. The provision of  effective drainage shall be considered during the design, installation and operation of access points (see 4.8)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "4.8"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::4.8"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.4.1.2.json"
+}

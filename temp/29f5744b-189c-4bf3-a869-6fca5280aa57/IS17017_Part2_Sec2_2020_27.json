@@ -1,0 +1,33 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::27",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "27",
+  "title": "SCREWS, CURRENT-CARRYING PARTS  AND CONNECTIONS",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This clause of IS 17017 (Part 2/Sec 1) is applicable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017",
+      "2",
+      "clause o"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2"
+    ],
+    "standards": [
+      "IS 17017"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\27.json"
+}

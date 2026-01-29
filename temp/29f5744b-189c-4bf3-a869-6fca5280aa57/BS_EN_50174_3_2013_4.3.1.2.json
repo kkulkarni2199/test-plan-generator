@@ -1,0 +1,58 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.1.2",
+  "title": "Recommendations",
+  "parent_id": "4.3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Within pathways, as shown in the example of Figure 3, it is common to have to consider other factors (visible  and hidden) which might have an environmental impact on the information technology cabling. These  include:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) high-voltage underground cables, overhead lines or electrified traction systems (electromagnetic impact);"
+    },
+    {
+      "type": "list_item",
+      "text": "b) steam pipes (temperature impact);"
+    },
+    {
+      "type": "list_item",
+      "text": "c) flooding (ingress impact);"
+    },
+    {
+      "type": "list_item",
+      "text": "d) chemical contamination (liquid, gas);"
+    },
+    {
+      "type": "list_item",
+      "text": "e) roads or railroad tracks (mechanical impact)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where possible, the installation of information technology cabling in such areas affected by these factors  should be avoided. However, where national or local regulations allow, mitigation in the form of appropriate  pathway systems, spaces and components selection may be applied."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where possible, the installation of information technology cabling in such areas affected by these factors  should be avoided. However, where national or local regulations allow, mitigation in the form of appropriate  pathway systems, spaces and components selection may be applied."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "3",
+      "Figure 3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.1.2.json"
+}

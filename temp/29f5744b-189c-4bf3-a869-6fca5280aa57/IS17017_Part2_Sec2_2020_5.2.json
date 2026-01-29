@@ -1,0 +1,69 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::5.2",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "5.2",
+  "title": "Rated Currents",
+  "parent_id": "5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The rated currents are:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) 2 A (signal or control purposes only);"
+    },
+    {
+      "type": "list_item",
+      "text": "b) 13 A single phase;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) 16 A single and three-phase;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) 20 A single and three-phase;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) 30 A or 32 A single and three-phase;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) 60 A or 63 A single and three-phase; and"
+    },
+    {
+      "type": "list_item",
+      "text": "g) 70 A single phase only."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "13",
+      "16",
+      "2",
+      "20",
+      "30",
+      "32",
+      "60",
+      "63",
+      "70"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::13",
+      "IS17017_Part2_Sec2_2020::16",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::20",
+      "IS17017_Part2_Sec2_2020::30",
+      "IS17017_Part2_Sec2_2020::32",
+      "IS17017_Part2_Sec2_2020::63"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\5.2.json"
+}

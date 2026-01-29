@@ -154,7 +154,7 @@ def test_workflow():
     dvp_payload = {
         "component_profile": component_profile,
         "test_cases": test_cases,
-        "output_format": "xlsx",
+        "output_format": "docx",
         "include_traceability_sheet": True
     }
     

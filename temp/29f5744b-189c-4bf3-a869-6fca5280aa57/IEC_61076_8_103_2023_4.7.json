@@ -1,0 +1,42 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.7",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.7",
+  "title": "Marking",
+  "parent_id": "4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The marking of the connector and the package shall be in accordance with 2.7 of  IEC 61076-1:2006."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le marquage du connecteur et le marquage de son emballage doivent \u00eatre conformes \u00e0 2.7 de  l'IEC 61076-1:2006."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The marking of the connector and the package shall be in accordance with 2.7 of  IEC 61076-1:2006."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2.7",
+      "2006",
+      "61076"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1"
+    ],
+    "standards": [
+      "IEC 61076-1:2006"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.7.json"
+}

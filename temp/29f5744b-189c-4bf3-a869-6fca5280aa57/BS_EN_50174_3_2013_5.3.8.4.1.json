@@ -1,0 +1,60 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.8.4.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.8.4.1",
+  "title": "Requirements",
+  "parent_id": "5.3.8.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Joints (fusion or mechanical splices) and their strain relief mechanisms shall be fixed and supported within  the optical fibre management system of the closure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Within joints the protection and retention of the optical fibres shall be in accordance with manufacturers'  instructions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Labelling of installations shall be such that the polarisation of optical fibre connections of more than one  optical fibre is known and consistent throughout the installation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The end-faces of terminated optical fibres shall be subjected to visual inspection as defined in EN 50346."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Joints (fusion or mechanical splices) and their strain relief mechanisms shall be fixed and supported within  the optical fibre management system of the closure."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Within joints the protection and retention of the optical fibres shall be in accordance with manufacturers'  instructions."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Labelling of installations shall be such that the polarisation of optical fibre connections of more than one  optical fibre is known and consistent throughout the installation."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The end-faces of terminated optical fibres shall be subjected to visual inspection as defined in EN 50346."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "50346"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "EN 50346"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.8.4.1.json"
+}

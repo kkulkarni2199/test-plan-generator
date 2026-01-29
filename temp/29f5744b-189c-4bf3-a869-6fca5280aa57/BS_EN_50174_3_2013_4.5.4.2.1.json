@@ -1,0 +1,55 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.4.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.4.2.1",
+  "title": "General",
+  "parent_id": "4.5.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The planning of pathway systems depends on the voltages supported by the overhead power supply  infrastructure and the type of information technology cable to be installed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Components of the pathway systems include:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) fittings to attach the information technology cables to the supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) fittings to accommodate service loops on the supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) joint closures installed on the supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) fittings to attach the joint closures to the supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) insulation components used to separate any metallic components from the supporting structures;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) wind vibration dampers;"
+    },
+    {
+      "type": "list_item",
+      "text": "g) local earthing fittings to allow electrostatic discharge of the information technology cable sheath at each  end of the pathway."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.4.2.1.json"
+}

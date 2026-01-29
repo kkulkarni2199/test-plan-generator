@@ -1,0 +1,151 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.8.2.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.8.2.1.1",
+  "title": "General",
+  "parent_id": "4.8.2.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Maintenance holes and hand holes shall be used to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) facilitate a safe and secure pathway system between buildings;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) ease the installation or removal of cables;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) enable changes of direction of underground pathway systems;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance holes shall be used to enable:"
+    },
+    {
+      "type": "list_item",
+      "text": "d) changes of depth of underground pathway systems;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) changes in volume and quantity of underground pathway systems;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) the future installation of additional pathway systems;"
+    },
+    {
+      "type": "list_item",
+      "text": "g) the accommodation of closures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The location and distances between maintenance holes and hand holes shall be determined in accordance  with the relevant instructions for the cables to be installed and the installation technique to be employed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maintenance holes shall be:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) designed to maintain the relevant minimum radius of the cable(s) to be installed, where multiple cable  types are involved, the largest minimum bend radius shall apply;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) large enough to contain closures and \"feed in\", if required;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) contain adequate fittings to support closures, if required."
+    },
+    {
+      "type": "paragraph",
+      "text": "Routing of cables through maintenance holes shall enable the installation requirements of Clause 5 to be  complied with."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathway systems or ducts connected to the maintenance holes shall not act as a drain. However, it is  expected that water will pass through these ducts in some circumstances."
+    },
+    {
+      "type": "paragraph",
+      "text": "The appropriate type of maintenance holes shall be selected following an analysis of ground water table  conditions. Sump-sealed maintenance holes shall not be used where the water table may damage it and/or  the pathway systems connected to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Covers for maintenance holes shall conform to EN 124. Armoured cover plates with security locks shall be  considered where it is desirable to prevent unauthorised access."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Maintenance holes and hand holes shall be used to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Maintenance holes shall be used to enable:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The location and distances between maintenance holes and hand holes shall be determined in accordance  with the relevant instructions for the cables to be installed and the installation technique to be employed."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Maintenance holes shall be:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "1) designed to maintain the relevant minimum radius of the cable(s) to be installed, where multiple cable  types are involved, the largest minimum bend radius shall apply;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Routing of cables through maintenance holes shall enable the installation requirements of Clause 5 to be  complied with."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Pathway systems or ducts connected to the maintenance holes shall not act as a drain. However, it is  expected that water will pass through these ducts in some circumstances."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The appropriate type of maintenance holes shall be selected following an analysis of ground water table  conditions. Sump-sealed maintenance holes shall not be used where the water table may damage it and/or  the pathway systems connected to it."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Covers for maintenance holes shall conform to EN 124. Armoured cover plates with security locks shall be  considered where it is desirable to prevent unauthorised access."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "124",
+      "2",
+      "3",
+      "5",
+      "Clause 5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": [
+      "EN 124"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.8.2.1.1.json"
+}

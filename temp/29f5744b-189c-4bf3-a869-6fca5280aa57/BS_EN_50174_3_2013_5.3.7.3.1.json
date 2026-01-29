@@ -1,0 +1,122 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.7.3.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.7.3.1",
+  "title": "Requirements",
+  "parent_id": "5.3.7.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Precautions shall be taken during the installation of draw ropes, where used, to prevent the draw ropes  becoming entangled with cables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where cable is to be installed in shared pathways precautions shall be taken to avoid damage to existing  cables or structures within those routes."
+    },
+    {
+      "type": "paragraph",
+      "text": "When simultaneously pulling multiple cables within a pathway the loose ends of each cable shall be labelled  with a unique identifier. Where cable elements cannot be otherwise identified, labels shall be applied."
+    },
+    {
+      "type": "paragraph",
+      "text": "The position of information technology cables and the location of closures in cable management systems  shall be in accordance with the instructions provided by the manufacturers/suppliers of the cable  management systems (subject to meeting the segregation requirements of Clause 6). When installing cables  into cable management systems they shall be secured as specified in the installation specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "The final placement of cables and cable bundles shall take into account the risk of damage due to external  influences."
+    },
+    {
+      "type": "paragraph",
+      "text": "The re-instatement of the fire rating of fire barriers in accordance with local regulations shall be implemented  using the specified fire-stop materials and/or fire-stopping techniques."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reinstatement of gas seals in accordance with local regulations shall be implemented using the specified  materials and/or techniques."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any information technology cables rising from the ground shall be mechanically protected to a height of at  least 2 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cables containing structural metallic elements (e.g. armouring or strength members) shall be earthed in  accordance with the planning information. The connections shall be safeguarded against corrosion and a good electrical contact between all parts ensured (maintenance periods may be dependent upon the  environment, see EN 50174-1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subsequent installations by other suppliers shall not obstruct existing cables or access points."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Precautions shall be taken during the installation of draw ropes, where used, to prevent the draw ropes  becoming entangled with cables."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where cable is to be installed in shared pathways precautions shall be taken to avoid damage to existing  cables or structures within those routes."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "When simultaneously pulling multiple cables within a pathway the loose ends of each cable shall be labelled  with a unique identifier. Where cable elements cannot be otherwise identified, labels shall be applied."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The position of information technology cables and the location of closures in cable management systems  shall be in accordance with the instructions provided by the manufacturers/suppliers of the cable  management systems (subject to meeting the segregation requirements of Clause 6). When installing cables  into cable management systems they shall be secured as specified in the installation specification."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The final placement of cables and cable bundles shall take into account the risk of damage due to external  influences."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The re-instatement of the fire rating of fire barriers in accordance with local regulations shall be implemented  using the specified fire-stop materials and/or fire-stopping techniques."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The reinstatement of gas seals in accordance with local regulations shall be implemented using the specified  materials and/or techniques."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Any information technology cables rising from the ground shall be mechanically protected to a height of at  least 2 m."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cables containing structural metallic elements (e.g. armouring or strength members) shall be earthed in  accordance with the planning information. The connections shall be safeguarded against corrosion and a good electrical contact between all parts ensured (maintenance periods may be dependent upon the  environment, see EN 50174-1)."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Subsequent installations by other suppliers shall not obstruct existing cables or access points."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "50174",
+      "6",
+      "Clause 6"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": [
+      "EN 50174-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.7.3.1.json"
+}

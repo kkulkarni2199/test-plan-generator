@@ -1,0 +1,72 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.3.2",
+  "title": "Safety requirements",
+  "parent_id": "6.2.1.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The segregation requirements of Table 8 and Table 9 apply between information technology cabling and parts of buried earthing systems provided that:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) if the information technology cable is direct buried its sheath has a dielectric strength of at least 1,5 kV at 50 Hz;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) if the information technology cable is installed in a non-conducting conduit or duct, the conduit or duct is constructed of a material having an equivalent dielectric strength to a)."
+    },
+    {
+      "type": "footnote",
+      "text": "This distance is considered sufficient to avoid irreparable damage to the cable elements or construction of the information technology cables due to lightning on the power supply cabling. The separation may be reduced based upon the conclusions of a relevant risk assessment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Further information is provided in ITU-T K.8."
+    },
+    {
+      "type": "paragraph",
+      "text": "In locations identified as containing hot zones (see 4.9.5.3), the installer shall contact the owner of the HV installation concerning the risks (probability, duration, etc.) and the size of the hot zone."
+    }
+  ],
+  "tables": [
+    {
+      "number": "8",
+      "caption": "Table 8 \u2014 Minimum distance between information technology cables and earthed electrodes of power systems in rural and urban environments",
+      "html": "<content-ref src='/page/67/Reference/140'></content-ref><table><tbody><tr><th>Soil resistivity<br>\u03a9m</th><th>Low voltage (\u2264 1 kV)<br>(neutral earthing<br>electrode <sup>a</sup>)</th><th colspan=2>High-voltage (\u2264 25 kV)\nearthing system\n\n(with isolated neutral or arc\nsuppression coil)</th><th colspan=2>High-voltage (\u2264 25 kV)<br>earthing system<br>(directly earthed neutral)</th></tr><tr><th></th><th></th><th>Rural</th><th>Urban</th><th>Rural</th><th>Urban</th></tr><tr><td>< 50</td><td></td><td>2 m</td><td></td><td>4 m</td><td></td></tr><tr><td>50 to 500</td><td></td><td>4 m</td><td></td><td>8 m</td><td></td></tr><tr><td>500 to 5 000</td><td>2 m</td><td>8 m</td><td>See 6.2.1.2.1</td><td>20 m</td><td>See 6.2.1.2.1</td></tr><tr><td>5 000 to 10 000</td><td></td><td>8 m</td><td></td><td>40 m</td><td></td></tr><tr><td>> 10 000</td><td></td><td>8 m</td><td></td><td>80 m</td><td></td></tr></tbody></table>"
+    },
+    {
+      "number": "9",
+      "caption": "Table 9 \u2014 Minimum distance between information technology cables and earthed electrodes of power systems in accordance with ITU-T K.8",
+      "html": "<table><tbody><tr><th>Soil resistivity<br>\u03a9m</th><th colspan=2>High-voltage (\u2264 132 kV)\nearthing system\n\n(with isolated neutral or arc\nsuppression coil)</th><th>earthing</th><th>e (\u2264 132 kV)<br>g system<br>thed neutral)</th></tr><tr><td></td><td>Rural</td><td>Urban</td><td>Rural</td><td>Urban</td></tr><tr><td>< 50</td><td>5 m</td><td>2 m</td><td>10 m</td><td>5 m</td></tr><tr><td>50 to 500</td><td>10 m</td><td>5 m</td><td>20 m</td><td>10 m</td></tr><tr><td>500 to 5 000</td><td>10 m</td><td>10 m</td><td>100 m</td><td>50 m</td></tr><tr><td>5 000 to 10 000</td><td>20 m</td><td>10 m</td><td>100 m</td><td>50 m</td></tr><tr><td>> 10 000</td><td>20 m</td><td>10 m</td><td>200 m</td><td>50 m</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "In locations identified as containing hot zones (see 4.9.5.3), the installer shall contact the owner of the HV installation concerning the risks (probability, duration, etc.) and the size of the hot zone."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4.9.5.3",
+      "5",
+      "50",
+      "8",
+      "9",
+      "Table 8",
+      "Table 9"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.3.2.json"
+}

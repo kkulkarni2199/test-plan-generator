@@ -1,0 +1,188 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.5.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.5.2",
+  "title": "Mounting",
+  "parent_id": "7.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "When mounting is required in a test, the connectors shall be rigidly mounted on a metal plate,  a printed board or to specified accessories, whichever is applicable, using the normal mounting  method, fixing devices and panel cut-out as laid down in the detail product specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "___________"
+    },
+    {
+      "type": "paragraph",
+      "text": "____________"
+    },
+    {
+      "type": "paragraph",
+      "text": "Partie 8-103: Connecteurs d'alimentation \u2013  Sp\u00e9cification particuli\u00e8re relative aux connecteurs circulaires 2P+PE  avec un courant assign\u00e9 de 20 A et un m\u00e9canisme de verrouillage  de type pousser-tirer IP65/IP67, log\u00e9s dans un bo\u00eetier m\u00e9tallique"
+    },
+    {
+      "type": "list_item",
+      "text": "1) La Commission Electrotechnique Internationale (IEC) est une organisation mondiale de normalisation compos\u00e9e  de l'ensemble des comit\u00e9s \u00e9lectrotechniques nationaux (Comit\u00e9s nationaux de l'IEC). L'IEC a pour objet de  favoriser la coop\u00e9ration internationale pour toutes les questions de normalisation dans les domaines de  l'\u00e9lectricit\u00e9 et de l'\u00e9lectronique. A cet effet, l'IEC \u2013 entre autres activit\u00e9s \u2013 publie des Normes internationales,  des Sp\u00e9cifications techniques, des Rapports techniques, des Sp\u00e9cifications accessibles au public (PAS) et des  Guides (ci-apr\u00e8s d\u00e9nomm\u00e9s \"Publication(s) de l'IEC\"). Leur \u00e9laboration est confi\u00e9e \u00e0 des comit\u00e9s d'\u00e9tudes, aux  travaux desquels tout Comit\u00e9 national int\u00e9ress\u00e9 par le sujet trait\u00e9 peut participer. Les organisations  internationales, gouvernementales et non gouvernementales, en liaison avec l'IEC, participent \u00e9galement aux  travaux. L'IEC collabore \u00e9troitement avec l'Organisation Internationale de Normalisation (ISO), selon des  conditions fix\u00e9es par accord entre les deux organisations."
+    },
+    {
+      "type": "list_item",
+      "text": "2) Les d\u00e9cisions ou accords officiels de l'IEC concernant les questions techniques repr\u00e9sentent, dans la mesure du  possible, un accord international sur les sujets \u00e9tudi\u00e9s, \u00e9tant donn\u00e9 que les Comit\u00e9s nationaux de l'IEC int\u00e9ress\u00e9s  sont repr\u00e9sent\u00e9s dans chaque comit\u00e9 d'\u00e9tudes."
+    },
+    {
+      "type": "list_item",
+      "text": "3) Les Publications de l'IEC se pr\u00e9sentent sous la forme de recommandations internationales et sont agr\u00e9\u00e9es  comme telles par les Comit\u00e9s nationaux de l'IEC. Tous les efforts raisonnables sont entrepris afin que l'IEC  s'assure de l'exactitude du contenu technique de ses Publications; l'IEC ne peut pas \u00eatre tenue responsable de  l'\u00e9ventuelle mauvaise utilisation ou interpr\u00e9tation qui en est faite par un quelconque utilisateur final."
+    },
+    {
+      "type": "list_item",
+      "text": "4) Dans le but d'encourager l'uniformit\u00e9 internationale, les Comit\u00e9s nationaux de l'IEC s'engagent, dans toute la  mesure possible, \u00e0 appliquer de fa\u00e7on transparente les Publications de l'IEC dans leurs publications nationales  et r\u00e9gionales. Toutes divergences entre toutes Publications de l'IEC et toutes publications nationales ou  r\u00e9gionales correspondantes doivent \u00eatre indiqu\u00e9es en termes clairs dans ces derni\u00e8res."
+    },
+    {
+      "type": "list_item",
+      "text": "5) L'IEC elle-m\u00eame ne fournit aucune attestation de conformit\u00e9. Des organismes de certification ind\u00e9pendants  fournissent des services d'\u00e9valuation de conformit\u00e9 et, dans certains secteurs, acc\u00e8dent aux marques de  conformit\u00e9 de l'IEC. L'IEC n'est responsable d'aucun des services effectu\u00e9s par les organismes de certification  ind\u00e9pendants."
+    },
+    {
+      "type": "list_item",
+      "text": "6) Tous les utilisateurs doivent s'assurer qu'ils sont en possession de la derni\u00e8re \u00e9dition de cette publication."
+    },
+    {
+      "type": "list_item",
+      "text": "7) Aucune responsabilit\u00e9 ne doit \u00eatre imput\u00e9e \u00e0 l'IEC, \u00e0 ses administrateurs, employ\u00e9s, auxiliaires ou mandataires,  y compris ses experts particuliers et les membres de ses comit\u00e9s d'\u00e9tudes et des Comit\u00e9s nationaux de l'IEC,  pour tout pr\u00e9judice caus\u00e9 en cas de dommages corporels et mat\u00e9riels, ou de tout autre dommage de quelque  nature que ce soit, directe ou indirecte, ou pour supporter les co\u00fbts (y compris les frais de justice) et les d\u00e9penses  d\u00e9coulant de la publication ou de l'utilisation de cette Publication de l'IEC ou de toute autre Publication de l'IEC,  ou au cr\u00e9dit qui lui est accord\u00e9."
+    },
+    {
+      "type": "list_item",
+      "text": "8) L'attention est attir\u00e9e sur les r\u00e9f\u00e9rences normatives cit\u00e9es dans cette publication. L'utilisation de publications  r\u00e9f\u00e9renc\u00e9es est obligatoire pour une application correcte de la pr\u00e9sente publication."
+    },
+    {
+      "type": "list_item",
+      "text": "9) L'attention est attir\u00e9e sur le fait que certains des \u00e9l\u00e9ments de la pr\u00e9sente Publication de l'IEC peuvent faire l'objet  de droits de brevet. L'IEC ne saurait \u00eatre tenue pour responsable de ne pas avoir identifi\u00e9 de tels droits de  propri\u00e9t\u00e9 et averti de leur existence."
+    },
+    {
+      "type": "paragraph",
+      "text": "L'IEC 61076-8-103 a \u00e9t\u00e9 \u00e9tablie par le sous-comit\u00e9 48B: Connecteurs \u00e9lectriques, du comit\u00e9  d'\u00e9tudes 48 de l'IEC: Connecteurs \u00e9lectriques et structures m\u00e9caniques pour les \u00e9quipements  \u00e9lectriques et \u00e9lectroniques. Il s'agit d'une Norme internationale."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le texte de cette Norme internationale est issu des documents suivants:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le rapport de vote indiqu\u00e9 dans le tableau ci-dessus donne toute information sur le vote ayant  abouti \u00e0 son approbation."
+    },
+    {
+      "type": "paragraph",
+      "text": "La langue employ\u00e9e pour l'\u00e9laboration de cette Norme internationale est l'anglais."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ce document a \u00e9t\u00e9 r\u00e9dig\u00e9 selon les Directives ISO/IEC, Partie 2, il a \u00e9t\u00e9 d\u00e9velopp\u00e9 selon les  Directives ISO/IEC, Partie 1 et les Directives ISO/IEC, Suppl\u00e9ment IEC, disponibles sous  www.iec.ch/members_experts/refdocs. Les principaux types de documents d\u00e9velopp\u00e9s par  l'IEC sont d\u00e9crits plus en d\u00e9tail sous www.iec.ch/publications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Une liste de toutes les parties de la s\u00e9rie IEC 61076, publi\u00e9es sous le titre g\u00e9n\u00e9ral Connecteurs  pour \u00e9quipements \u00e9lectriques et \u00e9lectroniques \u2013 Exigences de produit, se trouve sur le site  web de l'IEC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les futures normes de cette s\u00e9rie porteront le nouveau titre g\u00e9n\u00e9ral cit\u00e9 ci-dessus. Le titre des  normes qui existent d\u00e9j\u00e0 dans cette s\u00e9rie sera mis \u00e0 jour lors de leur prochaine \u00e9dition."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le comit\u00e9 a d\u00e9cid\u00e9 que le contenu de ce document ne sera pas modifi\u00e9 avant la date de stabilit\u00e9  indiqu\u00e9e sur le site web de l'IEC sous webstore.iec.ch dans les donn\u00e9es relatives au document  recherch\u00e9. A cette date, le document sera"
+    },
+    {
+      "type": "list_item",
+      "text": "reconduit,"
+    },
+    {
+      "type": "list_item",
+      "text": "supprim\u00e9,"
+    },
+    {
+      "type": "list_item",
+      "text": "remplac\u00e9 par une \u00e9dition r\u00e9vis\u00e9e, ou"
+    },
+    {
+      "type": "list_item",
+      "text": "amend\u00e9."
+    },
+    {
+      "type": "paragraph",
+      "text": "Partie 8-103: Connecteurs d'alimentation \u2013  Sp\u00e9cification particuli\u00e8re relative aux connecteurs circulaires 2P+PE  avec un courant assign\u00e9 de 20 A et un m\u00e9canisme de verrouillage  de type pousser-tirer IP65/IP67, log\u00e9s dans un bo\u00eetier m\u00e9tallique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque le montage est exig\u00e9 dans un essai, les connecteurs doivent \u00eatre mont\u00e9s de mani\u00e8re  rigide sur une plaque m\u00e9tallique, une carte de circuit imprim\u00e9 ou sur des accessoires sp\u00e9cifi\u00e9s,  suivant le cas, en utilisant les m\u00e9thodes usuelles de montage, les dispositifs de fixation et les  d\u00e9coupes de panneaux pr\u00e9vus dans la sp\u00e9cification particuli\u00e8re de produit."
+    },
+    {
+      "type": "paragraph",
+      "text": "___________"
+    },
+    {
+      "type": "paragraph",
+      "text": "3, rue de Varemb\u00e9  PO Box 131 CH-1211 Geneva 20  Switzerland"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tel: + 41 22 919 02 11  info@iec.ch  www.iec.ch"
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Projet</th><th>Rapport de vote</th></tr><tr><td>48B/2952/CDV</td><td>48B/2990/RVC</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th></th><th>La Commission Electrotechnique Internationale</th><th>IEC 61076-8-103</th></tr><tr><th colspan=2>IEC SC 48B\u2014Connecteurs \u00e9lectriques<br>Sp\u00e9cification particuli\u00e8re conform\u00e9ment \u00e0 l'IEC 61076-8</th><th></th></tr><tr><th>Fiche</th><th></th><th>Pour courant assign\u00e9 de 20 A;<br>2P+PE;<br>Contacts femelles;<br>M\u00e9canisme de verrouillage de type<br>pousser-tirer;<br>Blindage 360\u00b0.</th></tr><tr><td>Embase</td><td></td><td>Pour courant assign\u00e9 de 20 A;<br>2P+PE;<br>Contacts m\u00e2les;<br>M\u00e9canisme de verrouillage de type<br>pousser-tirer;<br>Blindage 360\u00b0.</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "When mounting is required in a test, the connectors shall be rigidly mounted on a metal plate,  a printed board or to specified accessories, whichever is applicable, using the normal mounting  method, fixing devices and panel cut-out as laid down in the detail product specification."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "02",
+      "1",
+      "103",
+      "11",
+      "1211",
+      "131",
+      "2",
+      "20",
+      "22",
+      "3",
+      "4",
+      "41",
+      "48",
+      "5",
+      "6",
+      "61076",
+      "7",
+      "8",
+      "9",
+      "919"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::5",
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::7"
+    ],
+    "standards": [
+      "IEC 61076",
+      "IEC 61076-8-103"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.5.2.json"
+}

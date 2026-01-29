@@ -1,0 +1,120 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "1.1",
+  "title": "Scope",
+  "parent_id": "1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This European Standard specifies requirements and provides recommendations for the following aspects of  information technology cabling:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) planning;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) installation practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "This European Standard is applicable to all types of information technology cabling outside buildings  including generic cabling systems designed in accordance with EN 50173 series. The requirements and  recommendations of this European Standard may be applied to cabling that is defined as part of the building."
+    },
+    {
+      "type": "paragraph",
+      "text": "The requirements and recommendations of Clauses 4, 5 and 6 of this European Standard are subject to any  site-specific requirements and recommendations of Clause 7."
+    },
+    {
+      "type": "paragraph",
+      "text": "The planning of the pathway systems, spaces and structures within the core and access network cabling as  described in Figure 2 that are owned by access providers is excluded except for requirements and  recommendations that provide basic safety, function and environmental objectives for mechanical, ingress  and climatic characteristics (i.e. excluding pathway dimensions, distribution of spaces and similar constraints  based on specific transmission methods)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The installation practices applicable to all cabling installation methods are included by the provision of the  necessary planning requirements and recommendations associated with each one with the exception of  information technology cabling installed:"
+    },
+    {
+      "type": "list_item",
+      "text": "around or within aerial power supply or associated earth conductors;"
+    },
+    {
+      "type": "list_item",
+      "text": "on infrastructures carrying power supplies in excess of AC/DC 25 kV."
+    },
+    {
+      "type": "paragraph",
+      "text": "This European Standard:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) details the considerations for satisfactory installation and operation of information technology cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) excludes specific requirements applicable to other cabling systems (e.g. power supply cabling); however,  it takes account of the effects other cabling systems may have on the installation of information  technology cabling (and vice versa) and gives general advice;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) excludes those aspects of installation associated with the transmission of signals in free space between  transmitters, receivers or their associated antenna systems (e.g. wireless, radio, microwave or satellite)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This European Standard is applicable to certain hazardous environments. It does not exclude additional  requirements which are applicable in particular circumstances, defined by e.g. electricity supply and  electrified railways."
+    },
+    {
+      "type": "paragraph",
+      "text": "The requirements within this European Standard do not cover any additional requirements for the information  technology cables installed in hazardous or stressful environments e.g. electricity supply and electric railway  locations (see Clause 7)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Examples of areas covered by this European Standard are shown in Figure 2."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE Pathways and spaces between premises A and B are assumed to be designed to meet specific networking objectives, whereas  the pathways and spaces between the premises boundary and the buildings in the premises, if provided by the premises owner, are  aimed to be more generic to meet the needs of multiple access providers and transmission systems within their access networks."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "This European Standard is applicable to all types of information technology cabling outside buildings  including generic cabling systems designed in accordance with EN 50173 series. The requirements and  recommendations of this European Standard may be applied to cabling that is defined as part of the building."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "2) excludes specific requirements applicable to other cabling systems (e.g. power supply cabling); however,  it takes account of the effects other cabling systems may have on the installation of information  technology cabling (and vice versa) and gives general advice;"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "25",
+      "3",
+      "4",
+      "5",
+      "50173",
+      "6",
+      "7",
+      "Clause 7",
+      "Figure 2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::6",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": [
+      "EN 50173"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\1.1.json"
+}

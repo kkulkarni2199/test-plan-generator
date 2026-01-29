@@ -1,0 +1,131 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.4.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.4.2.1",
+  "title": "Requirements",
+  "parent_id": "4.3.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Solutions include:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) cable constructions which provide the required environmental protection to the transmission media;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) conduits, which may contain sub-conduits, into which cables or bundles of cable elements (typically  optical fibre) are installed by blowing by the use of compressed air; in which case the conduits shall  provide the required environmental protection to the cable elements."
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE The common term for such conduits and sub-conduits is ducts and sub-duct or microduct respectively. This does  not match the definition of duct used by CLC/TC 213 who treat duct as non-circular conduit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Underground cables without suitable protection shall be drawn into conduits, pipes or other suitable  structures to protect them from mechanical, electrolytic or chemical danger."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless otherwise specified by national or local regulations the minimum planned depths of pathways shall be  in accordance with the requirements of Table 3, unless additional measures are to be applied to protect the  cable(s). The depths indicated are additional to the diameters of the cable(s) such that the top of the installed  cable(s) shall meet the requirements of Table 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "The depth of dig may be significantly greater than that shown in Table 3 in order to allow any protective  layers to be installed below the cables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathways that do not meet the requirements of planned depths of Table 3 without effective mitigation are  considered to be sacrificial."
+    },
+    {
+      "type": "footnote",
+      "text": "a Increased depths may be required in accordance with agreements between the planner and the  owners/operators of the land."
+    },
+    {
+      "type": "paragraph",
+      "text": "The width of the planned route shall allow adequate space for the installation process."
+    },
+    {
+      "type": "footnote",
+      "text": "b The depth of dig may be significantly greater than that shown in Table 3 in order to allow any protective layers to  be installed below the conduits."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements for marker tapes or equivalent products shall comply with national or local regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cables shall be installed inside protective conduits at crossings with roadways and railways."
+    },
+    {
+      "type": "paragraph",
+      "text": "At crossings of railways the conduits shall provide protection and insulation and shall extend to the base of  the slope of the railway embankment and shall extend at least 1,75 m beyond the outside edge of the  outermost rails."
+    }
+  ],
+  "tables": [
+    {
+      "number": "3",
+      "caption": "Table 3 Requirements and recommendation for pathway depths below finished surface",
+      "html": "<table><tbody><tr><th>Location of pathway a</th><th>Requirement</th><th>Recommendation</th></tr><tr><td>Footpath</td><td>0,5 m</td><td>0,5 m</td></tr><tr><td>Road - including parking areas</td><td>0,6 m</td><td>0,6 m</td></tr><tr><td>Motorway</td><td>1,0 m b</td><td>1,0 m b</td></tr><tr><td>Railway</td><td>1,0 m b</td><td>1,0 m b</td></tr><tr><td>Agricultural land</td><td>0,9 m</td><td>0,9 m</td></tr><tr><td>Uncultivated or landscaped land</td><td>0,5 m</td><td>0,9 m</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "b) conduits, which may contain sub-conduits, into which cables or bundles of cable elements (typically  optical fibre) are installed by blowing by the use of compressed air; in which case the conduits shall  provide the required environmental protection to the cable elements."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Underground cables without suitable protection shall be drawn into conduits, pipes or other suitable  structures to protect them from mechanical, electrolytic or chemical danger."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Unless otherwise specified by national or local regulations the minimum planned depths of pathways shall be  in accordance with the requirements of Table 3, unless additional measures are to be applied to protect the  cable(s). The depths indicated are additional to the diameters of the cable(s) such that the top of the installed  cable(s) shall meet the requirements of Table 3."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The depth of dig may be significantly greater than that shown in Table 3 in order to allow any protective  layers to be installed below the cables."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The width of the planned route shall allow adequate space for the installation process."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements for marker tapes or equivalent products shall comply with national or local regulations."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cables shall be installed inside protective conduits at crossings with roadways and railways."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "At crossings of railways the conduits shall provide protection and insulation and shall extend to the base of  the slope of the railway embankment and shall extend at least 1,75 m beyond the outside edge of the  outermost rails."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "213",
+      "3",
+      "75",
+      "Table 3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.4.2.1.json"
+}

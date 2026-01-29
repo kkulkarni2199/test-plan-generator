@@ -1,0 +1,45 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.4.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.4.3",
+  "title": "Tunnels and bridges including their associated services",
+  "parent_id": "7.5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "On metallic bridges and in tunnels containing electric railway tracks, cables with an insulated covering shall  be used. Information technology cables, of which the screen acts as protective earth conductor, shall be  insulated from conductive parts of metallic bridges. A PEC should be used (see 4.3.7.3 for information)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where it is not possible to provide reliable insulation between information technology cables and metallic  bridges, any screens and armouring of the information technology cables shall at least be connected with the  conductive parts of both ends of the bridges in such a way as to be electrically conductive. A PEC shall be  used (see 4.3.7.3 for information). This, however, shall not apply in the case of direct current railway  installations because of electrolytic corrosion (see EN 50310)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "On metallic bridges and in tunnels containing electric railway tracks, cables with an insulated covering shall  be used. Information technology cables, of which the screen acts as protective earth conductor, shall be  insulated from conductive parts of metallic bridges. A PEC should be used (see 4.3.7.3 for information)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where it is not possible to provide reliable insulation between information technology cables and metallic  bridges, any screens and armouring of the information technology cables shall at least be connected with the  conductive parts of both ends of the bridges in such a way as to be electrically conductive. A PEC shall be  used (see 4.3.7.3 for information). This, however, shall not apply in the case of direct current railway  installations because of electrolytic corrosion (see EN 50310)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "4.3.7.3",
+      "50310"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4.3.7.3"
+    ],
+    "standards": [
+      "EN 50310"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.4.3.json"
+}

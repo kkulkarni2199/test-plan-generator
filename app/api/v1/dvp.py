@@ -11,6 +11,12 @@ from pathlib import Path
 import pandas as pd
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+from docx import Document
+from docx.shared import Pt, Inches, RGBColor
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.enum.table import WD_TABLE_ALIGNMENT
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
 
 from app.models.api_models import (
     DVPGenerationRequest,
@@ -70,6 +76,126 @@ class DVPGenerator:
         self.workbook.save(str(output_path))
         logger.info(f"DVP saved to: {output_path}")
 
+        return str(output_path)
+
+    def generate_dvp_docx(self, component_profile: Dict[str, Any],
+                         test_cases: List[Dict[str, Any]],
+                         include_traceability: bool = True) -> str:
+        """
+        Generate descriptive DVP Word document
+        """
+        logger.info(f"Generating DVP Docx for: {component_profile.get('name')}")
+        
+        document = Document()
+        
+        # Title Page
+        title = document.add_heading(f"Design Verification Plan (DVP)", 0)
+        title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        
+        subtitle = document.add_paragraph(f"{component_profile.get('name', 'Component')}")
+        subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        
+        document.add_paragraph(f"Type: {component_profile.get('type', '')}").alignment = WD_ALIGN_PARAGRAPH.CENTER
+        document.add_paragraph(f"Application: {component_profile.get('application', '')}").alignment = WD_ALIGN_PARAGRAPH.CENTER
+        document.add_paragraph(f"Date: {datetime.now().strftime('%Y-%m-%d')}").alignment = WD_ALIGN_PARAGRAPH.CENTER
+        
+        document.add_page_break()
+        
+        # 1. Introduction
+        document.add_heading('1. Introduction', level=1)
+        document.add_paragraph(
+            f"This document outlines the Design Verification Plan for the {component_profile.get('name')} {component_profile.get('type')}. "
+            f"The purpose of this plan is to verify that the component meets all specified requirements for {component_profile.get('application')} application."
+        )
+        
+        # 1.1 Component Details
+        document.add_heading('1.1 Component Details', level=2)
+        table = document.add_table(rows=0, cols=2)
+        table.style = 'Table Grid'
+        
+        details = [
+            ("Component Name", component_profile.get('name', '')),
+            ("Component Type", component_profile.get('type', '')),
+            ("Application", component_profile.get('application', '')),
+            ("Test Level", component_profile.get('test_level', '')),
+            ("Variants", ", ".join(component_profile.get('variants', [])))
+        ]
+        
+        for key, value in details:
+            row_cells = table.add_row().cells
+            row_cells[0].text = key
+            row_cells[1].text = str(value)
+            
+        # 2. Test Plan Matrix
+        document.add_heading('2. Test Plan Matrix', level=1)
+        document.add_paragraph("The following table details the required tests, procedures, and acceptance criteria.")
+        
+        # Create table for test cases
+        # We'll select key columns for the document to ensure it fits
+        headers = ['Test ID', 'Description', 'Procedure', 'Acceptance Criteria', 'Qty']
+        
+        table = document.add_table(rows=1, cols=len(headers))
+        table.style = 'Table Grid'
+        
+        hdr_cells = table.rows[0].cells
+        for i, header in enumerate(headers):
+            hdr_cells[i].text = header
+            # Make bold
+            for run in hdr_cells[i].paragraphs[0].runs:
+                run.font.bold = True
+                
+        for test_case in test_cases:
+            row_cells = table.add_row().cells
+            row_cells[0].text = str(test_case.get('test_id', ''))
+            row_cells[1].text = str(test_case.get('test_description', ''))
+            row_cells[2].text = str(test_case.get('test_procedure', ''))
+            row_cells[3].text = str(test_case.get('acceptance_criteria', ''))
+            row_cells[4].text = str(test_case.get('quantity', ''))
+            
+        # 3. Traceability
+        if include_traceability:
+            document.add_heading('3. Requirement Traceability', level=1)
+            document.add_paragraph("This section maps test cases to source requirements.")
+            
+            headers = ['Test ID', 'Requirement ID', 'Source Standard']
+            table = document.add_table(rows=1, cols=len(headers))
+            table.style = 'Table Grid'
+            
+            hdr_cells = table.rows[0].cells
+            for i, header in enumerate(headers):
+                hdr_cells[i].text = header
+                
+            for test_case in test_cases:
+                traceability = test_case.get('traceability', {})
+                row_cells = table.add_row().cells
+                row_cells[0].text = str(test_case.get('test_id', ''))
+                row_cells[1].text = str(traceability.get('requirement_id', ''))
+                
+                source = f"{traceability.get('source_standard', '')} {traceability.get('source_clause', '')}"
+                row_cells[2].text = source.strip()
+                
+        # 4. References
+        document.add_heading('4. References', level=1)
+        
+        references = set()
+        for test_case in test_cases:
+            traceability = test_case.get('traceability', {})
+            source_std = traceability.get('source_standard', '')
+            source_clause = traceability.get('source_clause', '')
+
+            if source_std:
+                references.add(source_std)
+                
+        for ref in sorted(references):
+            document.add_paragraph(ref, style='List Bullet')
+            
+        # Save file
+        output_filename = f"DVP_Doc_{component_profile.get('name', 'Component').replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.docx"
+        output_path = Path(settings.output_dir) / output_filename
+        
+        document.save(str(output_path))
+        logger.info(f"DVP Document saved to: {output_path}")
+        
         return str(output_path)
 
     def _create_test_matrix_sheet(self, component_profile: Dict[str, Any],
@@ -262,12 +388,21 @@ async def process_dvp_generation(job_id: str, request: DVPGenerationRequest):
         dvp_jobs[job_id]['progress_percent'] = 20.0
 
         generator = DVPGenerator()
-
-        output_path = generator.generate_dvp(
-            component_profile=request.component_profile.model_dump(),
-            test_cases=request.test_cases,
-            include_traceability=request.include_traceability_sheet
-        )
+        
+        output_format = request.output_format.lower()
+        if output_format == 'docx' or output_format == 'doc':
+             output_path = generator.generate_dvp_docx(
+                component_profile=request.component_profile.model_dump(),
+                test_cases=request.test_cases,
+                include_traceability=request.include_traceability_sheet
+            )
+        else:
+            # Default to xlsx
+            output_path = generator.generate_dvp(
+                component_profile=request.component_profile.model_dump(),
+                test_cases=request.test_cases,
+                include_traceability=request.include_traceability_sheet
+            )
 
         # Get file size
         file_size = Path(output_path).stat().st_size
@@ -313,9 +448,9 @@ async def generate_dvp_document(
     """
     **Endpoint 5: Generate DVP Document**
 
-    Creates complete Excel DVP document matching reference format.
+    Creates complete DVP document (Excel or Word) matching reference format.
 
-    **Sheets Generated:**
+    **Sheets Generated (Excel):**
     1. Annex B - Electronics DVP (main test matrix)
     2. EMC & ENV TEST SEQUENCE (test grouping)
     3. Traceability Matrix (requirement → test mapping)
@@ -323,6 +458,7 @@ async def generate_dvp_document(
 
     **Format:**
     - Excel .xlsx format
+    - Word .docx format (Descriptive Test Plan)
     - Matches reference DVP layout
     - Includes styling and formatting
     - Ready for use by test engineers
@@ -433,7 +569,7 @@ async def download_dvp(dvp_id: str):
     return FileResponse(
         path=file_path,
         filename=Path(file_path).name,
-        media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        media_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" if str(file_path).endswith('.docx') else "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
 
 @router.get("/list")

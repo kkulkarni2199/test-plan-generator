@@ -1,0 +1,51 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.1.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.1.4",
+  "title": "Transmission and terminal equipment",
+  "parent_id": "4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Information technology cabling shall be connected to equipment that incorporates safe signal circuitry  complying with the SELV circuit and the TNV requirements as defined in the EN 60950 series."
+    },
+    {
+      "type": "paragraph",
+      "text": "Equipment connected shall comply with the requirements for protection against electric shock of the relevant  product safety standards."
+    },
+    {
+      "type": "paragraph",
+      "text": "The connection of active equipment to information technology cabling shall not introduce hazards for users  or operators of the system."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Information technology cabling shall be connected to equipment that incorporates safe signal circuitry  complying with the SELV circuit and the TNV requirements as defined in the EN 60950 series."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Equipment connected shall comply with the requirements for protection against electric shock of the relevant  product safety standards."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "The connection of active equipment to information technology cabling shall not introduce hazards for users  or operators of the system."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "60950"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "EN 60950"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.1.4.json"
+}

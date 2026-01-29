@@ -1,0 +1,103 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.4.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.4.2.1",
+  "title": "Requirements",
+  "parent_id": "4.9.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "To identify a hot zone the owner of the high-voltage installation shall be consulted."
+    },
+    {
+      "type": "paragraph",
+      "text": "When using information technology cabling containing metallic elements to provide a connection across the  boundary of a hot zone, provisions shall be made to:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) avoid flashover between the local earth and the remote earthing system of the information technology  cabling, e.g. central exchange,"
+    },
+    {
+      "type": "list_item",
+      "text": "b) protect people and information technology systems against over-voltages,"
+    },
+    {
+      "type": "list_item",
+      "text": "c) avoid part of the current flowing towards the distant earth through information technology cabling,"
+    },
+    {
+      "type": "list_item",
+      "text": "d) generally allow a continuity of information technology services in the hot zones even during electrical  fault conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the information technology cable crossing the boundary of the hot zone contains metallic conductors  the following three steps shall be taken as shown in Figure 7:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) installation of a connection closure outside the hot zone as a physical interface with the external  information technology cabling: this closure shall be used only for the connection of the information  technology cabling entering the hot zones;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) installation of an galvanic insulation device at one or more locations inside the hot zone for each metallic  information technology conductor, that has transmission characteristics to guarantee the quality of the  link;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) installation between the connection closure and the galvanic isolation device of an information  technology cable with sufficient sheath dielectric strength to withstand the EPR or by use of nonconductive cable ducts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the information technology cable crossing the boundary of the hot zone only contains optical fibres  the galvanic insulation device is replaced by optoelectronic converters."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\4_9_4_2_1\\figure_1_page_45_picture_7.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 39526
+    }
+  ],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "To identify a hot zone the owner of the high-voltage installation shall be consulted."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "When using information technology cabling containing metallic elements to provide a connection across the  boundary of a hot zone, provisions shall be made to:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where the information technology cable crossing the boundary of the hot zone contains metallic conductors  the following three steps shall be taken as shown in Figure 7:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "1) installation of a connection closure outside the hot zone as a physical interface with the external  information technology cabling: this closure shall be used only for the connection of the information  technology cabling entering the hot zones;"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "7",
+      "Figure 7"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.4.2.1.json"
+}

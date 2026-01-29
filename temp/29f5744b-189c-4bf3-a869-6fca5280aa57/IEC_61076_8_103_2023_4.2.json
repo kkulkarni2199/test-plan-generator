@@ -1,0 +1,106 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.2",
+  "title": "Ratings and characteristics",
+  "parent_id": "4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Connectors according to this specification are connectors without breaking capacity (COC)  according to IEC 61984, therefore they are not intended to be engaged or disengaged in normal  use when live or under load."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rated voltage: 300 V AC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rated impulse voltage Uimp: 6 kV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Voltage proof: 4 000 V AC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pollution degree: 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rated current (at 85 \u00b0C): 20 A. See derating diagram in 6.2.3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Insulation resistance: 5 000 M\u03a9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Climatic category: 55/125/10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Les connecteurs qui rel\u00e8vent de la pr\u00e9sente sp\u00e9cification n'ont pas de pouvoir de coupure au  sens de l'IEC 61984 et ne sont donc pas pr\u00e9vus pour \u00eatre accoupl\u00e9s ou d\u00e9saccoupl\u00e9s en  utilisation normale lorsqu'ils sont sous tension ou sous charge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Tension assign\u00e9e: 300 V en courant alternatif"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tension assign\u00e9e de tenue aux chocs Uimp: 6 kV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tension de tenue: 4 000 V en courant alternatif"
+    },
+    {
+      "type": "paragraph",
+      "text": "Degr\u00e9 de pollution: 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Courant assign\u00e9 (\u00e0 85 \u00b0C): 20 A. Voir la courbe avec coefficient de r\u00e9duction en 6.2.3."
+    },
+    {
+      "type": "paragraph",
+      "text": "R\u00e9sistance d'isolement: 5 000 M\u03a9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cat\u00e9gorie climatique: 55/125/10"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "000",
+      "10",
+      "125",
+      "2",
+      "20",
+      "300",
+      "4",
+      "5",
+      "55",
+      "6",
+      "6.2.3",
+      "61984",
+      "85"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::5",
+      "IEC_61076_8_103_2023::6",
+      "IEC_61076_8_103_2023::6.2.3"
+    ],
+    "standards": [
+      "IEC 61984",
+      "en 6.2.3"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.2.json"
+}

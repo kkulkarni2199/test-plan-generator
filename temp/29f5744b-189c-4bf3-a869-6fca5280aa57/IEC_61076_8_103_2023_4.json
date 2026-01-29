@@ -1,0 +1,26 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4",
+  "title": "Technical information",
+  "parent_id": null,
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.json"
+}

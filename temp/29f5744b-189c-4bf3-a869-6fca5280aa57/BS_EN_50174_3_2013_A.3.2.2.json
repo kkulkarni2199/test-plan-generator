@@ -1,0 +1,134 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.2.2",
+  "title": "Design",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The choice of the correct electrical information technology isolation component is application dependent."
+    },
+    {
+      "type": "paragraph",
+      "text": "The list below details the parameters that need to be taken into account when choosing isolation components:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) screened/unscreened cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) mechanical compliance;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) disconnectivity;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) active/passive component;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) the protection level needed against common mode disturbances;"
+    },
+    {
+      "type": "list_item",
+      "text": "f) the allowable asymmetrical disturbance at the information technology port to be protected;"
+    },
+    {
+      "type": "list_item",
+      "text": "g) the unbalanced attenuation required;"
+    },
+    {
+      "type": "list_item",
+      "text": "h) the compliance to EMI and safety standards if applicable;"
+    },
+    {
+      "type": "list_item",
+      "text": "i) the insulation needs, e.g. breakdown voltage."
+    },
+    {
+      "type": "paragraph",
+      "text": "The choice of the correct electrical power isolation component depends upon the following:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) screened/unscreened cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) mechanical compliance;"
+    },
+    {
+      "type": "list_item",
+      "text": "3) disconnectivity;"
+    },
+    {
+      "type": "list_item",
+      "text": "4) active/passive component;"
+    },
+    {
+      "type": "list_item",
+      "text": "5) change of the AC power distribution system into a TN-S system if applicable;"
+    },
+    {
+      "type": "list_item",
+      "text": "6) an equipment will have to be changed from safety protection class I into class II (see EN 60950-1) if  applicable. There is no fixed earth connection or touch current problem which forbids the mentioned  change;"
+    },
+    {
+      "type": "list_item",
+      "text": "7) the protection needed against common mode disturbances (opening of loops);"
+    },
+    {
+      "type": "list_item",
+      "text": "8) the allowable asymmetrical disturbance at the entrance interface (port) of the device to be protected;"
+    },
+    {
+      "type": "list_item",
+      "text": "9) the power to be transferred;"
+    },
+    {
+      "type": "list_item",
+      "text": "10) the compliance to EMI and Safety standards if applicable;"
+    },
+    {
+      "type": "list_item",
+      "text": "11) stray capacitance."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "10",
+      "11",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "60950",
+      "7",
+      "8",
+      "9"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::6",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": [
+      "EN 60950-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.2.2.json"
+}

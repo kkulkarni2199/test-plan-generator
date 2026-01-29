@@ -1,0 +1,62 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.4.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.4.4",
+  "title": "IP degree of protection",
+  "parent_id": "6.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: according to IEC 60529:1989, mated connectors: IP65/IP67, unmated connectors: IPXXB. Specimens previously subject to the tests foreseen in 6.2.4 (electrical load and  temperature), 6.3.1 (mechanical operation), 6.4.1 (vibration) and 6.4.2 (shock) according to the  relevant test groups (B, D, and A) may be conveniently subject to these IP code tests all  together, regardless their belonging to different test groups."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirement: IPX5 according to 14.2.5 of IEC 60529:1989; IPX7 according to 14.2.7 of  IEC 60529:1989; IP6X according to Table 7 of IEC 60529:1989; IPXXB according to 15.2 of  IEC 60529:1989."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: conform\u00e9ment \u00e0 l'IEC 60529:1989, connecteurs accoupl\u00e9s: IP65/IP67, connecteurs  d\u00e9saccoupl\u00e9s: IPXXB. Les sp\u00e9cimens pr\u00e9c\u00e9demment soumis aux essais pr\u00e9vus en 6.2.4 (charge \u00e9lectrique et temp\u00e9rature), 6.3.1 (fonctionnement m\u00e9canique), 6.4.1 (vibration) et 6.4.2 (choc) selon les groupes d'essais correspondants (B, D et A) peuvent \u00eatre facilement soumis \u00e0  ces essais de code IP, ind\u00e9pendamment de leur appartenance \u00e0 diff\u00e9rents groupes d'essais."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigence: IPX5 conform\u00e9ment \u00e0 14.2.5 de l'IEC 60529:1989; IPX7 conform\u00e9ment \u00e0 14.2.7 de  l'IEC 60529:1989; IP6X conform\u00e9ment au Tableau 7 de l'IEC 60529:1989; IPXXB  conform\u00e9ment \u00e0 15.2 de l'IEC 60529:1989."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Conditions: according to IEC 60529:1989, mated connectors: IP65/IP67, unmated connectors: IPXXB. Specimens previously subject to the tests foreseen in 6.2.4 (electrical load and  temperature), 6.3.1 (mechanical operation), 6.4.1 (vibration) and 6.4.2 (shock) according to the  relevant test groups (B, D, and A) may be conveniently subject to these IP code tests all  together, regardless their belonging to different test groups."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "14.2.5",
+      "14.2.7",
+      "15.2",
+      "1989",
+      "6.2.4",
+      "6.3.1",
+      "6.4.1",
+      "6.4.2",
+      "60529",
+      "7",
+      "Table 7"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6.2.4",
+      "IEC_61076_8_103_2023::6.3.1",
+      "IEC_61076_8_103_2023::6.4.1",
+      "IEC_61076_8_103_2023::6.4.2",
+      "IEC_61076_8_103_2023::7"
+    ],
+    "standards": [
+      "IEC 60529:1989",
+      "en 6.2.4"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.4.4.json"
+}

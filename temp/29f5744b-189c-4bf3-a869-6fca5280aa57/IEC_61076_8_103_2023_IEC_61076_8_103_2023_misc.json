@@ -1,0 +1,40 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::IEC_61076_8_103_2023_misc",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "IEC_61076_8_103_2023_misc",
+  "title": "Miscellaneous Images",
+  "parent_id": null,
+  "content": [],
+  "tables": [],
+  "figures": [
+    {
+      "path": "output_images\\IEC_61076_8_103_2023\\misc\\misc_1_page_0_picture_1.jpg",
+      "caption": "",
+      "format": "jpg",
+      "original_key": "/page/0/Picture/1",
+      "size_bytes": 4992
+    },
+    {
+      "path": "output_images\\IEC_61076_8_103_2023\\misc\\misc_2_page_0_picture_8.jpg",
+      "caption": "",
+      "format": "jpg",
+      "original_key": "/page/0/Picture/8",
+      "size_bytes": 77937
+    },
+    {
+      "path": "output_images\\IEC_61076_8_103_2023\\misc\\misc_3_page_1_picture_0.jpg",
+      "caption": "",
+      "format": "jpg",
+      "original_key": "/page/1/Picture/0",
+      "size_bytes": 3824
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\IEC_61076_8_103_2023_misc.json"
+}

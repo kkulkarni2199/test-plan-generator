@@ -1,0 +1,91 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.7.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.7.3",
+  "title": "Recommendations",
+  "parent_id": "4.9.7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installation of surge protection devices should be considered:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) in areas with high lightning probability;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) where the attached equipment shows a considerable impulse transfer ratio from the power supply to the  information technology port or from an antenna port to the information technology port."
+    },
+    {
+      "type": "paragraph",
+      "text": "To protect underground information technology cables against lightning surges, protective devices may be  placed at the points of connection to overhead lines as well as at the entrances of buildings. See ITU-T K.20  and ITU-T K.21 for information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protection systems against overvoltage surges should be installed at both ends of each information  technology cable having four or more spans of cable. See EN 61663 series for information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where surge protective devices are used to reduce high-voltages appearing in information technology  cabling due to induction from power line fault currents, they should be fitted to all individual information  technology cables at suitable intervals and at both ends of the affected length of line, or as near to this as  practicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "In cases where the power supply cabling within the building is susceptible to surges, an isolation transformer  should be considered (see 4.9.6) in order to reduce the peak value of the surge."
+    },
+    {
+      "type": "paragraph",
+      "text": "Surge protective devices should not be mounted in rooms where fire or explosion risk exists unless special  precautions are taken (such as enclosing the surge protective devices in a suitable enclosure)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The installation of surge protection devices should be considered:"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "To protect underground information technology cables against lightning surges, protective devices may be  placed at the points of connection to overhead lines as well as at the entrances of buildings. See ITU-T K.20  and ITU-T K.21 for information."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Protection systems against overvoltage surges should be installed at both ends of each information  technology cable having four or more spans of cable. See EN 61663 series for information."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where surge protective devices are used to reduce high-voltages appearing in information technology  cabling due to induction from power line fault currents, they should be fitted to all individual information  technology cables at suitable intervals and at both ends of the affected length of line, or as near to this as  practicable."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "In cases where the power supply cabling within the building is susceptible to surges, an isolation transformer  should be considered (see 4.9.6) in order to reduce the peak value of the surge."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Surge protective devices should not be mounted in rooms where fire or explosion risk exists unless special  precautions are taken (such as enclosing the surge protective devices in a suitable enclosure)."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "20",
+      "21",
+      "4.9.6",
+      "61663"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4.9.6"
+    ],
+    "standards": [
+      "EN 61663"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.7.3.json"
+}

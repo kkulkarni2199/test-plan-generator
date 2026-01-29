@@ -1,0 +1,37 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.1.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.1.5",
+  "title": "Cells and batteries",
+  "parent_id": "4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "If cells and batteries that produce gases and fumes (e.g. lead-acid batteries that produce hydrogen and  oxygen) are to be installed, provision shall be made for the necessary ventilation and recommended  environmental conditions (see HD 60364-5-54). Local regulations shall be complied with."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "If cells and batteries that produce gases and fumes (e.g. lead-acid batteries that produce hydrogen and  oxygen) are to be installed, provision shall be made for the necessary ventilation and recommended  environmental conditions (see HD 60364-5-54). Local regulations shall be complied with."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "5",
+      "54",
+      "60364"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": [
+      "HD 60364-5-54"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.1.5.json"
+}

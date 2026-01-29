@@ -1,0 +1,38 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.1.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.1.1.2",
+  "title": "Explosive or flammable environments",
+  "parent_id": "5.1.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installation of information technology equipment and information technology cabling in situations where  explosive or flammable materials are generated, prepared, processed, handled, stored or otherwise  encountered shall be carried out in accordance with EN 60079-0, EN 60079-14 and EN 60079-17 as  appropriate."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The installation of information technology equipment and information technology cabling in situations where  explosive or flammable materials are generated, prepared, processed, handled, stored or otherwise  encountered shall be carried out in accordance with EN 60079-0, EN 60079-14 and EN 60079-17 as  appropriate."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "14",
+      "17",
+      "60079"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "EN 60079-0",
+      "EN 60079-14",
+      "EN 60079-17"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.1.1.2.json"
+}

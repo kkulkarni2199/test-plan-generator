@@ -1,0 +1,81 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.1.7",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.1.7",
+  "title": "Closures",
+  "parent_id": "4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "NOTE The following requirements apply unless specifically allowed otherwise by local regulations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Closures and combined terminal and distribution devices (fittings) providing facilities for the termination or  (and) distribution of both information technology cables and power supply cables shall be designed to  provide separate covers for the two cabling types."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, a single overall cover is allowed provided that the power supply cabling remains protected to  prevent electric shock after removal of the cover."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where both information technology cabling and power supply cabling are contained within a closure then:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) if the closure is metallic, it shall be provided with a protective earth in accordance with 4.1.2;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the compartment in the closure shall have a barrier (either conducting or non-conducting) between the  two cable types. If compartment barriers are conductive, they shall be earthed in accordance with the  relevant wiring regulations for protective earth;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) the front covers on the closure shall allow separate access to the information technology cabling and the  power supply cabling and shall be retained such that the use of a tool is necessary to gain access  thereby preventing inadvertent connection between the power supply and the information technology  cabling;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) the entry for the information technology cables and the power supply cables shall be separately  removable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Closures and combined terminal and distribution devices (fittings) providing facilities for the termination or  (and) distribution of both information technology cables and power supply cables shall be designed to  provide separate covers for the two cabling types."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) if the closure is metallic, it shall be provided with a protective earth in accordance with 4.1.2;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) the compartment in the closure shall have a barrier (either conducting or non-conducting) between the  two cable types. If compartment barriers are conductive, they shall be earthed in accordance with the  relevant wiring regulations for protective earth;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) the front covers on the closure shall allow separate access to the information technology cabling and the  power supply cabling and shall be retained such that the use of a tool is necessary to gain access  thereby preventing inadvertent connection between the power supply and the information technology  cabling;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "d) the entry for the information technology cables and the power supply cables shall be separately  removable."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "4.1.2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4.1.2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.1.7.json"
+}

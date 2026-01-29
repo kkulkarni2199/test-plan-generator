@@ -1,0 +1,89 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.4.2.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.4.2.4",
+  "title": "Requirements for all-dielectric self-supporting (ADSS) cables",
+  "parent_id": "4.5.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The positioning of the fittings on the towers or poles shall be in accordance with the segregation  requirements of Clause 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "The position of fittings on the towers or poles shall ensure that the lowest point of the information technology  cables between any two towers or poles, taking the sag into account, shall be in accordance with Table 5, for  towers or poles supporting power supply cables &lt; 25 kV."
+    },
+    {
+      "type": "paragraph",
+      "text": "To avoid arcing phenomena between the information cable technology sheath and the structure of the tower  or pole (which reduces the operational life of the cable), the position of the fittings shall be in locations where  the potential to earth, created by the power conductors, does not exceed:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) 10 kV for all-dielectric cables with a high density polyethylene sheath;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) 20 kV for all-dielectric cables with a high density polyethylene sheath and containing an foil to prevent  arcing phenomena."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information required to determine the potential to earth on a given tower or pole shall be obtained from  the owner of the overhead power supply infrastructure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Arcing phenomena are created due to the build up of conductive particles (e.g. soot) which become  embedded with the cable sheath over time. Cables in accordance with EN 60794-4-20 shall have specified  performance in relation to these phenomena."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The positioning of the fittings on the towers or poles shall be in accordance with the segregation  requirements of Clause 6."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The position of fittings on the towers or poles shall ensure that the lowest point of the information technology  cables between any two towers or poles, taking the sag into account, shall be in accordance with Table 5, for  towers or poles supporting power supply cables &lt; 25 kV."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "To avoid arcing phenomena between the information cable technology sheath and the structure of the tower  or pole (which reduces the operational life of the cable), the position of the fittings shall be in locations where  the potential to earth, created by the power conductors, does not exceed:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The information required to determine the potential to earth on a given tower or pole shall be obtained from  the owner of the overhead power supply infrastructure."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Arcing phenomena are created due to the build up of conductive particles (e.g. soot) which become  embedded with the cable sheath over time. Cables in accordance with EN 60794-4-20 shall have specified  performance in relation to these phenomena."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "10",
+      "20",
+      "25",
+      "4",
+      "5",
+      "6",
+      "60794",
+      "Clause 6",
+      "Table 5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": [
+      "EN 60794-4-20"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.4.2.4.json"
+}

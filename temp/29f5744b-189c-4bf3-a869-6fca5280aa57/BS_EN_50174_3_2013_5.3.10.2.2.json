@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.10.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.10.2.2",
+  "title": "Recommendations",
+  "parent_id": "5.3.10.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where possible, power supply distribution equipment should be separated from cabling, patch panel and  other passive components."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where possible, power supply distribution equipment should be separated from cabling, patch panel and  other passive components."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.10.2.2.json"
+}

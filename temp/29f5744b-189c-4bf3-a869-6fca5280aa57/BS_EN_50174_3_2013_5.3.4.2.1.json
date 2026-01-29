@@ -1,0 +1,90 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.4.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.4.2.1",
+  "title": "Construction",
+  "parent_id": "5.3.4.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Any structures, fixtures and fittings used to support the telecommunications cabling within the pathways shall  be installed in accordance with instructions provided by the manufacturer(s) and/or supplier(s) of the fixtures  and fittings."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pathway systems shall be left clean and free from obstruction with all separators and bridging pieces in place  before the cabling installation commences."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cleats or temporary structures (to assist cabling installation) shall be fitted where necessary. Abrasive  supports (e.g. threaded rod) installed within the cable fill area shall have that portion within the pathway  system protected with a smooth, non-scratching covering so that cable can be pulled without physical  damage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cable management systems shall be installed:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) in accordance with the requirements of Clause 4;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) to allow installation and removal of the cable without risk of damage to the cable;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) without sharp edges or corners that could damage the cabling installed within or upon them;"
+    },
+    {
+      "type": "list_item",
+      "text": "d) to enable the creation of fire barriers in accordance with local regulations;"
+    },
+    {
+      "type": "list_item",
+      "text": "e) taking into account relevant external/environmental influences  in particular: 1) cable management systems shall be installed to ensure that water or other contaminant liquids  cannot collect;2) where required, sections of cable management systems shall be jointed to prevent ingress of  gases, liquids, etc."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Any structures, fixtures and fittings used to support the telecommunications cabling within the pathways shall  be installed in accordance with instructions provided by the manufacturer(s) and/or supplier(s) of the fixtures  and fittings."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Pathway systems shall be left clean and free from obstruction with all separators and bridging pieces in place  before the cabling installation commences."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cleats or temporary structures (to assist cabling installation) shall be fitted where necessary. Abrasive  supports (e.g. threaded rod) installed within the cable fill area shall have that portion within the pathway  system protected with a smooth, non-scratching covering so that cable can be pulled without physical  damage."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cable management systems shall be installed:"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "e) taking into account relevant external/environmental influences  in particular: 1) cable management systems shall be installed to ensure that water or other contaminant liquids  cannot collect;2) where required, sections of cable management systems shall be jointed to prevent ingress of  gases, liquids, etc."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "4",
+      "Clause 4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.4.2.1.json"
+}

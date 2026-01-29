@@ -1,0 +1,27 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2.2.7",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2.2.7",
+  "title": "Test group FP \u2013 Fluids",
+  "parent_id": "7.2.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Not applicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Non applicable."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.2.7.json"
+}

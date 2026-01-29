@@ -1,0 +1,82 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.5",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.5",
+  "title": "Countermeasures against radiative coupling",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The main countermeasure to minimise the effects of radiated couplings are:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) for field to cable (see Figure A.2):"
+    },
+    {
+      "type": "paragraph",
+      "text": "reduce the antenna effect of the disturbed cable (reduce the cable height h, put the cable into metallic or  composite cable management systems specially designed for EMC purposes, use cables with improved  electromagnetic immunity correctly installed (and bonded in the case of screened cables), add parallel  earthing conductors, add filters or ferrite beads, etc.);"
+    },
+    {
+      "type": "paragraph",
+      "text": "b) for field to loop (see Figure A.3):"
+    },
+    {
+      "type": "paragraph",
+      "text": "reduce the disturbed loop area (reduce height and length of the cable, all the solutions of a) are also  valid);"
+    },
+    {
+      "type": "paragraph",
+      "text": "c) use the Faraday cage principle:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A screened cable connected at both ends with the screening of the equipment is a possible solution; the  equipment need not be earthed in the case of high frequencies. When connecting both equipment to  earth, current loops should be avoided or at least minimised. Radiated coupling decreases with distance  and through the application of symmetrical transmission on balanced cabling."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.2  Electrical field to cable, capacitive coupling example"
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.3  Magnetic field to loop, inductive coupling example"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_1_5\\figure_1_page_80_picture_10.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 14735
+    },
+    {
+      "number": 2,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_1_5\\figure_2_page_80_picture_12.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 24892
+    }
+  ],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "A screened cable connected at both ends with the screening of the equipment is a possible solution; the  equipment need not be earthed in the case of high frequencies. When connecting both equipment to  earth, current loops should be avoided or at least minimised. Radiated coupling decreases with distance  and through the application of symmetrical transmission on balanced cabling."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "2",
+      "3"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.5.json"
+}

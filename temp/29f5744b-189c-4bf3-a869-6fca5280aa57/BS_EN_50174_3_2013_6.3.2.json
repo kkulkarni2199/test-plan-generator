@@ -1,0 +1,27 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.3.2",
+  "title": "Segregation other than for core and access networks",
+  "parent_id": "6.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "See 6.3.1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "6.3.1"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::6.3.1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.3.2.json"
+}

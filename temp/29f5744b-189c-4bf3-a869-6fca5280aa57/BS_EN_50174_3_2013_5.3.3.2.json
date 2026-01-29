@@ -1,0 +1,26 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.3.2",
+  "title": "Underground pathways",
+  "parent_id": "5.3.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "NOTE Unless otherwise specified the requirements and recommendations apply to both pathways constructed to accommodate direct  buried cabling or conduits."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "5.3.3.2.1",
+    "5.3.3.2.2"
+  ],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.3.2.json"
+}

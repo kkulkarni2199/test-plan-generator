@@ -1,0 +1,46 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.1",
+  "title": "General",
+  "parent_id": "5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dimensions are given in millimetres. Drawings are shown in the first angle projection. The shape  of the connectors may deviate from those given in the following drawings as long as the  specified dimensions are not influenced."
+    },
+    {
+      "type": "paragraph",
+      "text": "Missing dimensions shall be chosen according to the common characteristics and intended use."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dimensions sont donn\u00e9es en millim\u00e8tres. Les sch\u00e9mas sont repr\u00e9sent\u00e9s en utilisant la  projection de premier di\u00e8dre. La forme des connecteurs peut varier de celle donn\u00e9e sur les  sch\u00e9mas suivants tant que ceci n'a pas d'influence sur les dimensions sp\u00e9cifi\u00e9es."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les dimensions manquantes doivent \u00eatre choisies en fonction des caract\u00e9ristiques communes  et de l'utilisation pr\u00e9vue."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Dimensions are given in millimetres. Drawings are shown in the first angle projection. The shape  of the connectors may deviate from those given in the following drawings as long as the  specified dimensions are not influenced."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Missing dimensions shall be chosen according to the common characteristics and intended use."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.1.json"
+}

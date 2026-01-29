@@ -1,0 +1,35 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.4.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.4.1",
+  "title": "General",
+  "parent_id": "5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Figure 4 and Table 2 show drawings and dimensions for the fixed connector."
+    },
+    {
+      "type": "paragraph",
+      "text": "La Figure 4 et le Tableau 2 pr\u00e9sentent des sch\u00e9mas ainsi que les dimensions de l'embase."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2",
+      "4",
+      "Figure 4",
+      "Table 2"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.4.1.json"
+}

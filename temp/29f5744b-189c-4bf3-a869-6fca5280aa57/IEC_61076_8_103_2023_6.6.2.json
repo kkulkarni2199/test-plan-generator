@@ -1,0 +1,39 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.6.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.6.2",
+  "title": "Design/use of material",
+  "parent_id": "6.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The design shall take into account the relevant IEC standard for designing products  (IEC 62430:2019) and the use of material (IEC Guide 109) with regard to the environment."
+    },
+    {
+      "type": "paragraph",
+      "text": "La conception doit tenir compte de l'IEC applicable pour la conception de produits  (IEC 62430:2019) et l'utilisation de mat\u00e9riaux (IEC Guide 109) en ce qui concerne  l'environnement."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The design shall take into account the relevant IEC standard for designing products  (IEC 62430:2019) and the use of material (IEC Guide 109) with regard to the environment."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "109",
+      "2019",
+      "62430"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "IEC 62430:2019"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.6.2.json"
+}

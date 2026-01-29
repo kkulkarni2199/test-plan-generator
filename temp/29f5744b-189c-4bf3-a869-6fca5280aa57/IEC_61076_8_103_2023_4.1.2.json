@@ -1,0 +1,54 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::4.1.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "4.1.2",
+  "title": "Number of contacts and contact cavities",
+  "parent_id": "4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Number of contacts: power contacts: 2, PE contact: 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Number of contact cavities (for removable contacts): 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Suitable wire: cross-sectional area for power contacts: 1,5 mm2 to 2,5 mm2. The core of each  power wire is deemed to be individually shielded, each shielding requiring a dedicated  termination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nombre de contacts: contacts d'alimentation: 2, contact PE: 1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nombre de cavit\u00e9s de contact (pour les contacts amovibles): 3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fil adapt\u00e9: section des contacts d'alimentation: de 1,5 mm2 jusqu'\u00e0 2,5 mm2 Le c\u0153ur de chaque  c\u00e2ble d'alimentation est consid\u00e9r\u00e9 comme \u00e9tant prot\u00e9g\u00e9 individuellement, chaque blindage  exigeant une sortie d\u00e9di\u00e9e."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "5",
+      "section d"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\4.1.2.json"
+}

@@ -1,0 +1,69 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.1",
+  "title": "General",
+  "parent_id": "6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Clause 6 specifies requirements and recommendations for unscreened and screened cables in accordance  with the transmission performance requirements of EN 50288 series together with other balanced and  unbalanced (including coaxial) cables. Where appropriate the requirements and recommendations are  specific to particular cable specifications."
+    },
+    {
+      "type": "paragraph",
+      "text": "The segregation requirements and recommendations of this clause in relation to safety are applicable to all  information technology cables containing conducting components (whether or not used for signal  transmission) and power supply cabling operating at \u2264 25 kV."
+    },
+    {
+      "type": "paragraph",
+      "text": "The segregation requirements and recommendations of this clause are those required with regard to safety  and electromagnetic interference (EMI). Local regulations for safety may contain different segregation"
+    },
+    {
+      "type": "paragraph",
+      "text": "requirements. In all circumstances, safety has highest priority but the more stringent requirement shall take  precedence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 7 may contain modified segregation requirements. Where manufacturers' instructions require more  stringent installation practices, these shall be followed."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "The segregation requirements and recommendations of this clause are those required with regard to safety  and electromagnetic interference (EMI). Local regulations for safety may contain different segregation"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "requirements. In all circumstances, safety has highest priority but the more stringent requirement shall take  precedence."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Clause 7 may contain modified segregation requirements. Where manufacturers' instructions require more  stringent installation practices, these shall be followed."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "25",
+      "50288",
+      "6",
+      "7",
+      "Clause 6",
+      "Clause 7",
+      "clause a",
+      "clause i"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::6",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": [
+      "EN 50288"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.1.json"
+}

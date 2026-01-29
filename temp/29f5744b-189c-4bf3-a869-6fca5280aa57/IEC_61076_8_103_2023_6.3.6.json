@@ -1,0 +1,62 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.3.6",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.3.6",
+  "title": "Polarizing and keying method",
+  "parent_id": "6.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-13-5, Test 13e."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, tool and gauges are not required, unintentional engaging"
+    },
+    {
+      "type": "paragraph",
+      "text": "forces: 150 N."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the appearance of the connectors shall meet the requirements of test phase P1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-13-5, Essai 13e."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, aucun outil ni calibre exig\u00e9s, forces d'accouplement  involontaires: 150 N."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigence: l'aspect des connecteurs doit satisfaire aux exigences de la phase d'essai P1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the appearance of the connectors shall meet the requirements of test phase P1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "13",
+      "150",
+      "5",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "IEC 60512-13-5"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.3.6.json"
+}

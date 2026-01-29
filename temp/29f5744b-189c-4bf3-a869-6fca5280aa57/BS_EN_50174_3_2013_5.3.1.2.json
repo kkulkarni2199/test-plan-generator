@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.1.2",
+  "title": "Recommendations",
+  "parent_id": "5.3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The ends of stored cable should be sealed to prevent ingress of contaminants."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The ends of stored cable should be sealed to prevent ingress of contaminants."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.1.2.json"
+}

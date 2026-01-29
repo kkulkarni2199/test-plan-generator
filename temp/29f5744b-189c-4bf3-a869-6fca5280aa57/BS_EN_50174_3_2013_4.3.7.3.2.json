@@ -1,0 +1,62 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.7.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.7.3.2",
+  "title": "Requirements",
+  "parent_id": "4.3.7.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "A cable screen shall not be used where a PEC is required to withstand large currents (e.g for lightning  protection or as power fault current return)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A PEC shall be earthed at least at one point. The planning of any additional earthing arrangements shall be  in accordance with the HD 384/HD 60364 series and/or local regulations as appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Earthing connections at the PEC shall be made to the external surface of the conductor material."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conductive pathway systems in close proximity to HV power supply cabling shall be protected from electrical  hazards by means of protection earthing and/or sectioning."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "A cable screen shall not be used where a PEC is required to withstand large currents (e.g for lightning  protection or as power fault current return)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "A PEC shall be earthed at least at one point. The planning of any additional earthing arrangements shall be  in accordance with the HD 384/HD 60364 series and/or local regulations as appropriate."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Earthing connections at the PEC shall be made to the external surface of the conductor material."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Conductive pathway systems in close proximity to HV power supply cabling shall be protected from electrical  hazards by means of protection earthing and/or sectioning."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "384",
+      "60364"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "HD 384",
+      "HD 60364"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.7.3.2.json"
+}

@@ -1,0 +1,35 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.1.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.1.1.1",
+  "title": "Power supply cabling",
+  "parent_id": "5.1.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Electrical installations shall be undertaken in accordance with the HD 384/HD 60364 series and/or local  regulations as appropriate."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Electrical installations shall be undertaken in accordance with the HD 384/HD 60364 series and/or local  regulations as appropriate."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "384",
+      "60364"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "HD 384",
+      "HD 60364"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.1.1.1.json"
+}

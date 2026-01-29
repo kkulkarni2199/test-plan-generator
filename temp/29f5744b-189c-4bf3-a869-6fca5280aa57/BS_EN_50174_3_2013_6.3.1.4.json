@@ -1,0 +1,32 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.3.1.4",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.3.1.4",
+  "title": "Sharing of infrastructures carrying &gt; AC 1 000 V r.m.s. or DC 1 500 V",
+  "parent_id": "6.3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "NOTE Further information with regard to the interference to information technology cabling from other services is given in HD 637 S1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "637"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "HD 637"
+    ]
+  },
+  "children_ids": [
+    "6.3.1.4.1",
+    "6.3.1.4.2",
+    "6.3.1.4.3",
+    "6.3.1.4.4"
+  ],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.3.1.4.json"
+}

@@ -1,0 +1,43 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.2",
+  "title": "Cable segregation",
+  "parent_id": "4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The segregation of pathways containing information technology cabling and the pathways containing other  types of infrastructure and services (including power supply cabling) shall be in accordance with the  requirements of Clause 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where separation between different pathway systems is required this shall be maintained by physical  separation to prevent unintended change during installation or extensions to the installation."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The segregation of pathways containing information technology cabling and the pathways containing other  types of infrastructure and services (including power supply cabling) shall be in accordance with the  requirements of Clause 6."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where separation between different pathway systems is required this shall be maintained by physical  separation to prevent unintended change during installation or extensions to the installation."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "6",
+      "Clause 6"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.2.json"
+}

@@ -1,0 +1,35 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::7.5",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "7.5",
+  "title": "According to interface",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Interface is specified in 6."
+    },
+    {
+      "type": "paragraph",
+      "text": "\u2013 Basic type."
+    },
+    {
+      "type": "paragraph",
+      "text": "Addition:"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "6"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::6"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\7.5.json"
+}

@@ -1,0 +1,65 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.5.1",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.5.1",
+  "title": "Rapid change of temperature",
+  "parent_id": "6.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-4, Test 11d."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temperature: -55 \u00b0C to 125 \u00b0C, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the appearance, insulation resistance (6.2.6), contact resistance (6.2.5), voltage  proof (6.2.2) shall meet the requirements of this specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-4, Essai 11d."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temp\u00e9rature: entre -55 \u00b0C et 125 \u00b0C, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: l'aspect, la r\u00e9sistance d'isolement (6.2.6), la r\u00e9sistance de contact (6.2.5) et la  tension de tenue (6.2.2) doivent satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s  essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the appearance, insulation resistance (6.2.6), contact resistance (6.2.5), voltage  proof (6.2.2) shall meet the requirements of this specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "11",
+      "125",
+      "4",
+      "55",
+      "6.2.2",
+      "6.2.5",
+      "6.2.6",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::4",
+      "IEC_61076_8_103_2023::6.2.2",
+      "IEC_61076_8_103_2023::6.2.5",
+      "IEC_61076_8_103_2023::6.2.6"
+    ],
+    "standards": [
+      "IEC 60512-11-4"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.5.1.json"
+}

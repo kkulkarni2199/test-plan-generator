@@ -1,0 +1,43 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::6.1",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "6.1",
+  "title": "General",
+  "parent_id": "6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This Clause provides a description of the physical  conductive electrical interface requirements between  the vehicle and the power supply which allows the  following design at the vehicle interface:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u2212 a basic interface that provides for current ratings  up to 63 A a.c. three-phase and up to 70 A a.c.  single phase."
+    },
+    {
+      "type": "paragraph",
+      "text": "Different configuration types for the basic interface  may allow different application of mode and current  ratings. See introduction to relevant standard sheets for  more details."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Different configuration types for the basic interface  may allow different application of mode and current  ratings. See introduction to relevant standard sheets for  more details."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "63",
+      "70",
+      "Clause p"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::63"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\6.1.json"
+}

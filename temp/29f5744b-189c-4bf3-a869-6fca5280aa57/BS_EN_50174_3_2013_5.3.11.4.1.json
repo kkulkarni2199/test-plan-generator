@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.11.4.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.11.4.1",
+  "title": "Requirements",
+  "parent_id": "5.3.11.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Incoming cabling management systems shall be sealed at or near to the entrance point inside the building to  prevent the ingress of dust, water, animals, gas etc."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Incoming cabling management systems shall be sealed at or near to the entrance point inside the building to  prevent the ingress of dust, water, animals, gas etc."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.11.4.1.json"
+}

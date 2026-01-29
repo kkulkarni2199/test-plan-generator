@@ -1,0 +1,29 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.1",
+  "title": "General",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "EMC performance of installed cabling is influenced by several different coupling phenomena which may have  adverse effects at different frequencies. These situations are explained in the following subclauses."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "EMC performance of installed cabling is influenced by several different coupling phenomena which may have  adverse effects at different frequencies. These situations are explained in the following subclauses."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.1.json"
+}

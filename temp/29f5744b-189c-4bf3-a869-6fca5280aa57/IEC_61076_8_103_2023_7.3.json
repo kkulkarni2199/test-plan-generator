@@ -1,0 +1,53 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.3",
+  "title": "Test procedures and measurement methods",
+  "parent_id": "7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The test methods specified and given in the relevant standards are the preferred methods but  not necessarily the only ones which can be used. In case of dispute, however, the specified  method shall be used."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless otherwise specified, all tests shall be carried out under standard atmospheric conditions  for testing as specified in IEC 60068-1."
+    },
+    {
+      "type": "paragraph",
+      "text": "Les m\u00e9thodes d'essai sp\u00e9cifi\u00e9es et indiqu\u00e9es dans les normes applicables sont les m\u00e9thodes  pr\u00e9f\u00e9rentielles, mais ne sont pas n\u00e9cessairement les seules qui peuvent \u00eatre utilis\u00e9es.  Toutefois, en cas de litige, la m\u00e9thode sp\u00e9cifi\u00e9e doit \u00eatre utilis\u00e9e."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sauf sp\u00e9cification contraire, tous les essais doivent \u00eatre r\u00e9alis\u00e9s dans les conditions  atmosph\u00e9riques normales pour les essais, comme cela est sp\u00e9cifi\u00e9 dans l'IEC 60068-1."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The test methods specified and given in the relevant standards are the preferred methods but  not necessarily the only ones which can be used. In case of dispute, however, the specified  method shall be used."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Unless otherwise specified, all tests shall be carried out under standard atmospheric conditions  for testing as specified in IEC 60068-1."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "60068"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1"
+    ],
+    "standards": [
+      "IEC 60068-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.3.json"
+}

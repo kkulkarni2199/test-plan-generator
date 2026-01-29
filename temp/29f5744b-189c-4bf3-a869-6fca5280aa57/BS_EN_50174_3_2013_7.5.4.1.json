@@ -1,0 +1,112 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::7.5.4.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "7.5.4.1",
+  "title": "General",
+  "parent_id": "7.5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The requirements and recommendations of this sub-clause are in addition to those of 7.5.2 and 7.5.3."
+    },
+    {
+      "type": "paragraph",
+      "text": "Electromagnetic interference is produced in the vicinity of railway installations (for detailed information see  EN 50121 series)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Electromagnetic coupling occurs in three main ways:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) galvanic coupling (i.e. EPR) due to return current in the soil (stray current); particular attention should be  given to corrosion in the case of direct current source feeders;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) electrostatic influence due to high-voltage sources;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) induction phenomenon due to alternating currents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Direct current sources (600 V up to 3 000 V) and alternating current sources (16,7 Hz at 15 kV or 2 x 15 kV,  50 Hz at 25 kV or 2 x 25 kV) are used. They produce"
+    },
+    {
+      "type": "list_item",
+      "text": "1) low frequency electric and magnetic fields in a wide zone,"
+    },
+    {
+      "type": "list_item",
+      "text": "2) low frequency harmonics (up to 9 kHz),"
+    },
+    {
+      "type": "list_item",
+      "text": "3) transients, flashover discharge (e.g. short circuit catenary/rail, pantograph/catenary disconnection),"
+    },
+    {
+      "type": "list_item",
+      "text": "4) radio frequency (9 kHz to 400 GHz) fields from trains,"
+    },
+    {
+      "type": "list_item",
+      "text": "5) arcing phenomena."
+    },
+    {
+      "type": "paragraph",
+      "text": "DC railway and traction systems using the earth as a part of the current return path may have earth leakage."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "a) galvanic coupling (i.e. EPR) due to return current in the soil (stray current); particular attention should be  given to corrosion in the case of direct current source feeders;"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "DC railway and traction systems using the earth as a part of the current return path may have earth leakage."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "000",
+      "1",
+      "15",
+      "16",
+      "2",
+      "25",
+      "3",
+      "4",
+      "400",
+      "5",
+      "50",
+      "50121",
+      "600",
+      "7",
+      "7.5.2",
+      "7.5.3",
+      "9",
+      "clause a"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::7",
+      "BS_EN_50174_3_2013::7.5.2",
+      "BS_EN_50174_3_2013::7.5.3"
+    ],
+    "standards": [
+      "EN 50121"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\7.5.4.1.json"
+}

@@ -1,0 +1,64 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.7.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.7.2",
+  "title": "Requirements",
+  "parent_id": "4.9.7",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The following shall be considered:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) protection against overvoltages (parallel protection) or overcurrents (series protection) or both;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) the location of the surge protective device (at termination points, transition points between overhead and  under ground, and when the number of overhead spans exceeds three);"
+    },
+    {
+      "type": "list_item",
+      "text": "c) the type of transmitted signals (AC, DC, data, high frequency, etc.)  the required transmission  performance shall not be degraded by the presence of SPDs."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the selection of the nominal breakdown voltage, the tolerances of any feeding voltage as well as the  tolerances of the surge protective device shall be taken into account."
+    },
+    {
+      "type": "paragraph",
+      "text": "The earthing arrangements of SPD's forming part of a protection system shall be designed to prevent any  possibility of a bypass of the protection arrangements."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The following shall be considered:"
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "c) the type of transmitted signals (AC, DC, data, high frequency, etc.)  the required transmission  performance shall not be degraded by the presence of SPDs."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "In the selection of the nominal breakdown voltage, the tolerances of any feeding voltage as well as the  tolerances of the surge protective device shall be taken into account."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The earthing arrangements of SPD's forming part of a protection system shall be designed to prevent any  possibility of a bypass of the protection arrangements."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.7.2.json"
+}

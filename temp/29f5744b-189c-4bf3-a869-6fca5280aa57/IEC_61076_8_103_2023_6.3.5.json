@@ -1,0 +1,71 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.3.5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.3.5",
+  "title": "Contact retention in insert",
+  "parent_id": "6.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-15-1, Test 15a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Standard atmospheric conditions, unmated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Axial force: 150 N."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirement: contact displacement shall be less than 0,5 mm when applying axial forces and  be less than 0,3 mm after forces are removed. The appearance of connectors shall meet the  requirements of this specification after test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-15-1, Essai 15a."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions atmosph\u00e9riques normales, connecteurs d\u00e9saccoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Force axiale: 150 N."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: le d\u00e9placement du contact sous l'effet des forces axiales doit \u00eatre inf\u00e9rieur \u00e0 0,5 mm  et inf\u00e9rieur \u00e0 0,3 mm apr\u00e8s la suppression de ces forces. L'aspect des connecteurs doit  satisfaire aux exigences de la pr\u00e9sente sp\u00e9cification apr\u00e8s essai."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirement: contact displacement shall be less than 0,5 mm when applying axial forces and  be less than 0,3 mm after forces are removed. The appearance of connectors shall meet the  requirements of this specification after test."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "1",
+      "15",
+      "150",
+      "3",
+      "5",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::3",
+      "IEC_61076_8_103_2023::5"
+    ],
+    "standards": [
+      "IEC 60512-15-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.3.5.json"
+}

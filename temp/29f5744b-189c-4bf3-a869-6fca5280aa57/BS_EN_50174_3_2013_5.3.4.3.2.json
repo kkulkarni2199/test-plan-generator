@@ -1,0 +1,105 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.4.3.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.4.3.2",
+  "title": "Electromagnetic screening using cable management systems",
+  "parent_id": "5.3.4.3",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The following recommendations apply to metallic or composite cable management systems that are required  specifically to provide electromagnetic screening for the information technology cables to be contained within  them (see 4.4.1.3):"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the shape of the metallic section should be maintained over its full length;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) if the cable management system is constructed from multiple sections, continuity between these sections  should be provided \u2013 examples of solutions are (in order of preference): 1) a full perimeter weld or solder to ensure a very low impedance connection;2) spot welded, riveted, bolted or screwed joints provided that the surfaces in contact are good  conductors (no paint or insulating coat), safeguarded against corrosion and a good electrical"
+    },
+    {
+      "type": "list_item",
+      "text": "contact between the all parts is ensured (periodic maintenance may be required in harsh  environments);"
+    },
+    {
+      "type": "list_item",
+      "text": "3) braided, stranded or mesh straps of less than 10 cm in length where the cross-sectional area  (CSA) of each strap is a minimum of 2,5 mm2 ."
+    },
+    {
+      "type": "list_item",
+      "text": "NOTE 1 It is possible that local regulations and the EN 60950 series require a greater CSA for electrical safety."
+    },
+    {
+      "type": "list_item",
+      "text": "c) when trunking or cable trays with covers are used, the continuity between the base and the cover should  be provided \u2013 examples of solutions are (in order of preference): 1) many contacts over the full length;2) as a minimum, connections at both ends using braided, stranded or mesh straps of less than 10 cm  in length where the CSA of each strap is a minimum of 2,5 mm2 .NOTE 2 It is possible that local regulations and the EN 60950 series require a greater CSA for electrical safety."
+    },
+    {
+      "type": "list_item",
+      "text": "d) all bonds should be as short as possible."
+    },
+    {
+      "type": "list_item",
+      "text": "NOTE 3 The long term stability of earth connections and connections between sections or parts of cable management systems  depends on the galvanic coupling of the materials used."
+    },
+    {
+      "type": "list_item",
+      "text": "NOTE 4 A short single lead connection between two parts of the cable management system will result in high local impedance and,  therefore, degrades its electromagnetic performance (see Figure 8a)). From frequencies of a few MHz upwards, a 10 cm mesh strap  between the two parts of the cable management system will improve the impedance by more than a factor of 10."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "a) the shape of the metallic section should be maintained over its full length;"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "b) if the cable management system is constructed from multiple sections, continuity between these sections  should be provided \u2013 examples of solutions are (in order of preference): 1) a full perimeter weld or solder to ensure a very low impedance connection;2) spot welded, riveted, bolted or screwed joints provided that the surfaces in contact are good  conductors (no paint or insulating coat), safeguarded against corrosion and a good electrical"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "contact between the all parts is ensured (periodic maintenance may be required in harsh  environments);"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "c) when trunking or cable trays with covers are used, the continuity between the base and the cover should  be provided \u2013 examples of solutions are (in order of preference): 1) many contacts over the full length;2) as a minimum, connections at both ends using braided, stranded or mesh straps of less than 10 cm  in length where the CSA of each strap is a minimum of 2,5 mm2 .NOTE 2 It is possible that local regulations and the EN 60950 series require a greater CSA for electrical safety."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "d) all bonds should be as short as possible."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "10",
+      "2",
+      "3",
+      "4",
+      "4.4.1.3",
+      "5",
+      "60950",
+      "Figure 8a",
+      "section s"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::4.4.1.3",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": [
+      "EN 60950"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.4.3.2.json"
+}

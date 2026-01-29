@@ -1,0 +1,27 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::6.3",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "6.3",
+  "title": "Types of Vehicle Connectors",
+  "parent_id": "6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "There is one type of vehicle connector:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\u2013 Basic"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\6.3.json"
+}

@@ -1,0 +1,50 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.9.8.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.9.8.3",
+  "title": "Recommendations",
+  "parent_id": "4.9.8",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "To reduce the risk of damage, any structural metallic elements of cables (e.g. armouring or strength  members) should be electrically continuous along the length of cable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional connections to earth of any structural metallic elements of cables (e.g. armouring or strength  members) should be applied following consideration of EN 61663-1 for optical fibre cable and to EN 61663-2 for copper cable as well as EN 62305 series."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "To reduce the risk of damage, any structural metallic elements of cables (e.g. armouring or strength  members) should be electrically continuous along the length of cable."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Additional connections to earth of any structural metallic elements of cables (e.g. armouring or strength  members) should be applied following consideration of EN 61663-1 for optical fibre cable and to EN 61663-2 for copper cable as well as EN 62305 series."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "61663",
+      "62305"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2"
+    ],
+    "standards": [
+      "EN 61663-1",
+      "EN 61663-2",
+      "EN 62305"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.9.8.3.json"
+}

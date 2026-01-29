@@ -1,0 +1,25 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.3",
+  "title": "Mechanical characteristics",
+  "parent_id": "6",
+  "content": [],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [
+    "6.3.1",
+    "6.3.2",
+    "6.3.3",
+    "6.3.4",
+    "6.3.5",
+    "6.3.6"
+  ],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.3.json"
+}

@@ -1,0 +1,61 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.4.5",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.4.5",
+  "title": "Glow-wire flammability test method for end-products (GWEPT)",
+  "parent_id": "6.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-20-3, Test 20c."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temperature: 850 \u00b0C \u00b1 15 \u00b0C."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirement: according to Clause 10 of IEC 60695-2-11:2021."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-20-3, Essai 20c."
+    },
+    {
+      "type": "paragraph",
+      "text": "Temp\u00e9rature: 850 \u00b0C \u00b1 15 \u00b0C."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigence: conform\u00e9ment \u00e0 l'Article 10 de l'IEC 60695-2-11:2021."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "10",
+      "11",
+      "15",
+      "2",
+      "20",
+      "2021",
+      "3",
+      "60512",
+      "60695",
+      "850",
+      "Clause 10"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2",
+      "IEC_61076_8_103_2023::3"
+    ],
+    "standards": [
+      "IEC 60512-20-3",
+      "IEC 60695-2-11:2021"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.4.5.json"
+}

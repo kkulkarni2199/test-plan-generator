@@ -1,0 +1,74 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.2.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.2.2",
+  "title": "Recommendations",
+  "parent_id": "4.5.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "During any given installation phase, additional pathway systems should be installed to enable the installation  of additional cables without any associated excavation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following examples are included as guidance:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) conduit without sub-conduits: 1) a minimum of one additional conduit should be installed during each excavation phase;2) where there is a known number of excavation phases, the number of conduits to be installed should  be calculated as the number of planned phases x the initial number of filled ducts;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) conduit with sub-conduits: 1) an alternative is to apply multi-conduit/sub-conduit constructions that provide the required capacity  (this approach reduces the available cross-sectional area within the overall conduit and requires  additional cable installation resource but provides significantly more flexibility)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additional conduits may be required to support management of services/technologies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conduit pathways should follow point-to-point straight lines with maintenance holes or hand holes installed at  all points where deviation will exceed 3 degrees horizontally or 1,5 degrees vertically."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "During any given installation phase, additional pathway systems should be installed to enable the installation  of additional cables without any associated excavation."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "a) conduit without sub-conduits: 1) a minimum of one additional conduit should be installed during each excavation phase;2) where there is a known number of excavation phases, the number of conduits to be installed should  be calculated as the number of planned phases x the initial number of filled ducts;"
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Additional conduits may be required to support management of services/technologies."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Conduit pathways should follow point-to-point straight lines with maintenance holes or hand holes installed at  all points where deviation will exceed 3 degrees horizontally or 1,5 degrees vertically."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.2.2.json"
+}

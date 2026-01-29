@@ -1,0 +1,61 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::5.4.2",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "5.4.2",
+  "title": "Dimensions",
+  "parent_id": "5.4",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Dimensions in mm"
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 2 \u2013 Dimensions de l'embase"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dimensions exprim\u00e9es en mm"
+    }
+  ],
+  "tables": [
+    {
+      "number": "2",
+      "caption": "Table 2 \u2013 Fixed connector dimensions",
+      "html": "<content-ref src='/page/17/Reference/268'></content-ref><content-ref src='/page/17/Reference/267'></content-ref><table><tbody><tr><th>Letter</th><th>Minimum</th><th>Nominal</th><th>Maximum</th></tr><tr><td>A</td><td>\u03a61,98</td><td>\u03a62</td><td>\u03a62</td></tr><tr><td>B</td><td>\u03a64,7</td><td>\u03a64,7</td><td>\u03a64,8</td></tr><tr><td>C</td><td>\u03a618,05</td><td>\u03a618,10</td><td>\u03a618,16</td></tr><tr><td>D</td><td>\u03a618,53</td><td>\u03a618,55</td><td>\u03a618,58</td></tr><tr><td>E</td><td>\u03a622,2</td><td>\u03a622,3</td><td>\u03a622,3</td></tr><tr><td>F</td><td>\u03a62,777</td><td>\u03a62,778</td><td>\u03a62,779</td></tr><tr><td>G</td><td>4,15</td><td>4,2</td><td>4,25</td></tr><tr><td>H</td><td>12,9</td><td>13</td><td>13,15</td></tr><tr><td>I</td><td>14,2</td><td>-</td><td>-</td></tr><tr><td>J</td><td>15,2</td><td>-</td><td>-</td></tr><tr><td>K</td><td>0,15</td><td>0,2</td><td>0,25</td></tr><tr><td>L</td><td>3,1</td><td>3,2</td><td>3,3</td></tr><tr><td>M</td><td>4,1</td><td>4,2</td><td>4,3</td></tr><tr><td>N</td><td>\u03a67,95</td><td>\u03a68</td><td>\u03a68,05</td></tr><tr><td>O</td><td>2,8</td><td>2,8</td><td>2,9</td></tr><tr><td>P</td><td>R2,8</td><td>R2,8</td><td>R2,9</td></tr><tr><td>T</td><td>3,95</td><td>4</td><td>4,05</td></tr><tr><td>U</td><td>6,85</td><td>6,90</td><td>6,95</td></tr></tbody></table>"
+    },
+    {
+      "number": null,
+      "caption": "Figure 4 \u2013 Embase",
+      "html": "<content-ref src='/page/49/Reference/257'></content-ref><content-ref src='/page/49/Reference/256'></content-ref><table><tbody><tr><th>Cote</th><th>Valeur minimale</th><th>Nominale</th><th>Maximale</th></tr><tr><td>A</td><td>\u03a61,98</td><td>\u03a62</td><td>\u03a62</td></tr><tr><td>B</td><td>\u03a64,7</td><td>\u03a64,7</td><td>\u03a64,8</td></tr><tr><td>C</td><td>\u03a618,05</td><td>\u03a618,10</td><td>\u03a618,16</td></tr><tr><td>D</td><td>\u03a618,53</td><td>\u03a618,55</td><td>\u03a618,58</td></tr><tr><td>E</td><td>\u03a622,2</td><td>\u03a622,3</td><td>\u03a622,3</td></tr><tr><td>F</td><td>\u03a62,777</td><td>\u03a62,778</td><td>\u03a62,779</td></tr><tr><td>G</td><td>4,15</td><td>4,2</td><td>4,25</td></tr><tr><td>H</td><td>12,9</td><td>13</td><td>13,15</td></tr><tr><td>I</td><td>14,2</td><td>-</td><td>-</td></tr><tr><td>J</td><td>15,2</td><td>-</td><td>-</td></tr><tr><td>K</td><td>0,15</td><td>0,2</td><td>0,25</td></tr><tr><td>L</td><td>3,1</td><td>3,2</td><td>3,3</td></tr><tr><td>M</td><td>4,1</td><td>4,2</td><td>4,3</td></tr><tr><td>N</td><td>\u03a67,95</td><td>\u03a68</td><td>\u03a68,05</td></tr><tr><td>O</td><td>2,8</td><td>2,8</td><td>2,9</td></tr><tr><td>P</td><td>R2,8</td><td>R2,8</td><td>R2,9</td></tr><tr><td>T</td><td>3,95</td><td>4</td><td>4,05</td></tr><tr><td>U</td><td>6,85</td><td>6,90</td><td>6,95</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\IEC_61076_8_103_2023\\5_4_2\\figure_1_page_17_picture_3.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 83184
+    },
+    {
+      "number": 2,
+      "path": "output_images\\IEC_61076_8_103_2023\\5_4_2\\figure_2_page_49_picture_3.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 83230
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\5.4.2.json"
+}

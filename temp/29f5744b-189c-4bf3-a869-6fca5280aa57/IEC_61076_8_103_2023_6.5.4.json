@@ -1,0 +1,58 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::6.5.4",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "6.5.4",
+  "title": "Low air pressure",
+  "parent_id": "6.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-11, test 11k."
+    },
+    {
+      "type": "paragraph",
+      "text": "Low air pressure: 54 kPa, mated connectors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Requirements: the voltage proof (6.2.2) at low air pressure shall meet the requirements of this  specification."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conditions: IEC 60512-11-11, Essai 11k."
+    },
+    {
+      "type": "paragraph",
+      "text": "Basse pression atmosph\u00e9rique: 54 kPa, connecteurs accoupl\u00e9s."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exigences: la tension de tenue (6.2.2) \u00e0 basse pression atmosph\u00e9rique doit satisfaire aux  exigences de la pr\u00e9sente sp\u00e9cification."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Requirements: the voltage proof (6.2.2) at low air pressure shall meet the requirements of this  specification."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "11",
+      "54",
+      "6.2.2",
+      "60512"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::6.2.2"
+    ],
+    "standards": [
+      "IEC 60512-11-11"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\6.5.4.json"
+}

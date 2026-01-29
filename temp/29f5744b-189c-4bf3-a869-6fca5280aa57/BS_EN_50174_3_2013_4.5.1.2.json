@@ -1,0 +1,59 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.5.1.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.5.1.2",
+  "title": "Requirements",
+  "parent_id": "4.5.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where metallic or composite cable management systems are planned to be used specifically to provide  electromagnetic screening for the information technology cables to be contained within them the  requirements and recommendations of 5.3.4.2.2 shall be included in the planning of the installation. Any  covers used shall provide the required electromagnetic screening performance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where non-metallic cable management systems are planned to be used and if the equipment to be  connected to the cabling (by unscreened cables) is not affected by low frequency disturbances then a  metallic conductor (cable or barrier) may be installed within the cable management system to improve the"
+    },
+    {
+      "type": "paragraph",
+      "text": "electromagnetic protection provided to the cabling by reducing the common mode loop area. Where used,  the metallic conductor shall be:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) designed to withstand large common mode and power fault currents;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) connected to the local protective earthing system at both ends using a low impedance conducting  element (e.g. a large metal wall of the apparatus cabinet)."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where metallic or composite cable management systems are planned to be used specifically to provide  electromagnetic screening for the information technology cables to be contained within them the  requirements and recommendations of 5.3.4.2.2 shall be included in the planning of the installation. Any  covers used shall provide the required electromagnetic screening performance."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Where non-metallic cable management systems are planned to be used and if the equipment to be  connected to the cabling (by unscreened cables) is not affected by low frequency disturbances then a  metallic conductor (cable or barrier) may be installed within the cable management system to improve the"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "electromagnetic protection provided to the cabling by reducing the common mode loop area. Where used,  the metallic conductor shall be:"
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "5.3.4.2.2"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5.3.4.2.2"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.5.1.2.json"
+}

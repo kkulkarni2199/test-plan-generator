@@ -1,0 +1,36 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::3.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "3.1.1",
+  "title": "access network",
+  "parent_id": "3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "functional elements (equipment and infrastructure) that enable communication between the core network and  a customer network"
+    },
+    {
+      "type": "paragraph",
+      "text": "[SOURCE: CLC/TR 50173-99-2:2012, 3.1.1]"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "2",
+      "2012",
+      "3.1.1",
+      "50173",
+      "99"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3.1.1"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\3.1.1.json"
+}

@@ -1,0 +1,67 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.14.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.14.1",
+  "title": "Requirements",
+  "parent_id": "5.3.14",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installer shall apply the solutions defined in the planning information. Suppliers' installation instructions  shall be complied with. See A.3.3."
+    },
+    {
+      "type": "paragraph",
+      "text": "All metal sheaths, screens, etc., shall be connected together at each end to form an overall bonded network.  Overvoltage protectors shall be connected between the conductors and this bonded metal work, which shall  be correctly bonded to earth via the lowest possible impedance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The earthing arrangements of SPD's forming part of a protection system shall be installed to prevent any  possibility of a bypass of the protection arrangements."
+    },
+    {
+      "type": "paragraph",
+      "text": "When surge protective devices are installed, special care shall be taken to ensure equipotential bonding of  the surge protective devices earth together with the main earth and the equipment's earth in accordance to  installation requirements of HD 60364-5-534 and the EN 61643 series."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The installer shall apply the solutions defined in the planning information. Suppliers' installation instructions  shall be complied with. See A.3.3."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "All metal sheaths, screens, etc., shall be connected together at each end to form an overall bonded network.  Overvoltage protectors shall be connected between the conductors and this bonded metal work, which shall  be correctly bonded to earth via the lowest possible impedance."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The earthing arrangements of SPD's forming part of a protection system shall be installed to prevent any  possibility of a bypass of the protection arrangements."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "When surge protective devices are installed, special care shall be taken to ensure equipotential bonding of  the surge protective devices earth together with the main earth and the equipment's earth in accordance to  installation requirements of HD 60364-5-534 and the EN 61643 series."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "3.3",
+      "5",
+      "534",
+      "60364",
+      "61643"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": [
+      "EN 61643",
+      "HD 60364-5-534"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.14.1.json"
+}

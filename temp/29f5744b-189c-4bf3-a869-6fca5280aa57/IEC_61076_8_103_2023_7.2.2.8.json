@@ -1,0 +1,89 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::7.2.2.8",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "7.2.2.8",
+  "title": "Test group GP \u2013 Connection method tests",
+  "parent_id": "7.2.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The number of specimens specified in Table 6 shall be subject to the following tests. See  Table 13."
+    },
+    {
+      "type": "caption",
+      "text": "Test  phase Test Measurement to be  performed Requirements Title IEC 60512  Test NO. Severity or  condition of test  Requirements Title IEC 60512  Test NO. JP1  \u2013  JPX Applicable tests of connection methods according to IEC 60352 series and IEC 60512 series. Depending upon the type of solderless termination/connection method, if applicable, a test sequence  from the relevant part of IEC 60352 series shall be selected."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where test evidence can be provided, confirming that the connection methods used by the  connectors have been previously tested in accordance with either the specified tests of  IEC 60352 series (solderless connections) or of IEC 60999-1 (screw-type or screwless-type  clamping units), and have satisfactorily passed them, test phases JP1 to JPX shall be omitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a screw-type or a screwless-type clamping unit is used, its conformance to the requirements  to IEC 60999-1 shall be proven."
+    },
+    {
+      "type": "paragraph",
+      "text": "Le nombre de sp\u00e9cimens sp\u00e9cifi\u00e9s dans le Tableau 6 doit \u00eatre soumis aux essais suivants. Voir  le Tableau 13."
+    },
+    {
+      "type": "caption",
+      "text": "Tableau 13 \u2013 Groupe d'essais GP"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lorsque des preuves d'essai peuvent \u00eatre fournies pour confirmer que les m\u00e9thodes de  connexion utilis\u00e9es par les connecteurs ont \u00e9t\u00e9 pr\u00e9alablement soumises \u00e0 essai conform\u00e9ment  aux essais sp\u00e9cifi\u00e9s de la s\u00e9rie IEC 60352 (connexions sans soudure) ou de l'IEC 60999-1  (organes de serrage \u00e0 vis et sans vis) et y ont satisfait, les phases d'essai JP1 \u00e0 JPX doivent  \u00eatre omises."
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un dispositif de serrage \u00e0 vis ou sans vis est utilis\u00e9, sa conformit\u00e9 aux exigences de  l'IEC 60999-1 doit \u00eatre \u00e9tablie."
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<content-ref src='/page/68/Reference/320'></content-ref><table><tbody><tr><th></th><th colspan=3>Essai</th><th colspan=2>Mesure \u00e0 effectuer</th><th></th></tr><tr><th>Phase<br>d'essa<br>i</th><th>Titre</th><th>No d'essai<br>dans la s\u00e9rie<br>IEC 60512</th><th>S\u00e9v\u00e9rit\u00e9 ou<br>condition de<br>l'essai<br>Exigences</th><th>Titre</th><th>No d'essai<br>dans la s\u00e9rie<br>IEC 60512</th><th>Exigences</th></tr><tr><td>JP1</td><td rowspan=2 colspan=7>Essais applicables des m\u00e9thodes de connexion conform\u00e9ment aux s\u00e9ries IEC 60352 et IEC 60512.<br>En fonction du type de sortie sans soudure/de la m\u00e9thode de connexion, une s\u00e9quence d'essais doit \u00eatre<br>choisie, le cas \u00e9ch\u00e9ant, dans la partie concern\u00e9e de la s\u00e9rie 60352.</td></tr><tr><td>\u2013<br>JPX</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The number of specimens specified in Table 6 shall be subject to the following tests. See  Table 13."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Where test evidence can be provided, confirming that the connection methods used by the  connectors have been previously tested in accordance with either the specified tests of  IEC 60352 series (solderless connections) or of IEC 60999-1 (screw-type or screwless-type  clamping units), and have satisfactorily passed them, test phases JP1 to JPX shall be omitted."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "If a screw-type or a screwless-type clamping unit is used, its conformance to the requirements  to IEC 60999-1 shall be proven."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "13",
+      "6",
+      "60352",
+      "60512",
+      "60999",
+      "Table 13",
+      "Table 6"
+    ],
+    "internal_resolved": [
+      "IEC_61076_8_103_2023::1",
+      "IEC_61076_8_103_2023::6"
+    ],
+    "standards": [
+      "IEC 60352",
+      "IEC 60512",
+      "IEC 60999-1"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\7.2.2.8.json"
+}

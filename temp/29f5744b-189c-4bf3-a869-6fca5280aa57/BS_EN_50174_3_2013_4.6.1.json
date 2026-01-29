@@ -1,0 +1,60 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.6.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.6.1",
+  "title": "General",
+  "parent_id": "4.6",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Closures are installed at access points to provide access to the cable elements within, or to protect joints in,  the installed cables."
+    },
+    {
+      "type": "paragraph",
+      "text": "European Standards have been prepared which specify closures for the accommodation and protection of  optical fibre splices and products in accordance with the standards shall be used where applicable. These  include the pan, inline and dome types specified in EN 50411-2-2, EN 50411-2-3 and EN 50411-2-4  respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "European Standards have been prepared which specify closures for air blown optical fibre microduct  systems and products in accordance with the standards shall be used where applicable. These include  EN 50411-2-5 and EN 50411-2-9 respectively."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "European Standards have been prepared which specify closures for the accommodation and protection of  optical fibre splices and products in accordance with the standards shall be used where applicable. These  include the pan, inline and dome types specified in EN 50411-2-2, EN 50411-2-3 and EN 50411-2-4  respectively."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "European Standards have been prepared which specify closures for air blown optical fibre microduct  systems and products in accordance with the standards shall be used where applicable. These include  EN 50411-2-5 and EN 50411-2-9 respectively."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "50411",
+      "9"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::4",
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": [
+      "EN 50411-2-2",
+      "EN 50411-2-3",
+      "EN 50411-2-4",
+      "EN 50411-2-5",
+      "EN 50411-2-9"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.6.1.json"
+}

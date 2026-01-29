@@ -1,0 +1,73 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.1.6.2",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.1.6.2",
+  "title": "Design",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Very low frequency fields can be diverted with the aid of:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) high permeability metals;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) loop constructions compensating magnetic fields;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) metallic walls or parts thereof, made of copper or aluminium of sufficient thickness."
+    },
+    {
+      "type": "paragraph",
+      "text": "Provided that the segregation distances are met cases and countermeasures against very low frequency  fields are:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Power cabling produces too high magnetic field in relation to the environment in question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Countermeasure: Use a power cable with a known/specified screening effectiveness or put an overall  screen around the power cable, made of high permeability metal. Take in to account saturation and  mechanical shocks."
+    },
+    {
+      "type": "paragraph",
+      "text": "A magnetic field arises, because part of the global (mains) current flows back through the earth and not  through the cabling (see Figure A.4)."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.4  Magnetic field"
+    },
+    {
+      "type": "paragraph",
+      "text": "Countermeasure: in this case the magnetic field produces disturbances, so this situation can be difficult. To  overcome it, a short circuit loop made of high conductive metal (such as copper) could compensate in a good  part this field and thus overcome the disturbing situation). Other countermeasures could be taken e.g. at the  \"sink\" side (see Example 1). The last possibility is to change the installation in such a way that no magnetic  fields are created."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_1_6_2\\figure_1_page_81_picture_13.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 31255
+    }
+  ],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "1",
+      "4"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::4"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.1.6.2.json"
+}

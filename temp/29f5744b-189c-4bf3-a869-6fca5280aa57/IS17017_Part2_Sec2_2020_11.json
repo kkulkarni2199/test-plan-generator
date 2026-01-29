@@ -1,0 +1,65 @@
+{
+  "chunk_id": "IS17017_Part2_Sec2_2020::11",
+  "document_id": "IS17017_Part2_Sec2_2020",
+  "clause_id": "11",
+  "title": "SIZE AND COLOUR OF PROTECTIVE  EARTHING CONDUCTORS",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "This clause of IS 17017(Part 2/Sec 1) is applicable  except as follows:"
+    },
+    {
+      "type": "footnote",
+      "text": "2) For single phase system supply phase to phase this contact  can be used for L2 (mains 2)."
+    },
+    {
+      "type": "footnote",
+      "text": "3) Position number does not refer to the location and/or  identification of the contact in the accessory."
+    },
+    {
+      "type": "paragraph",
+      "text": "( Clause 9.1 )"
+    },
+    {
+      "type": "paragraph",
+      "text": "The core connected to the earthing terminal shall be  identified by the colour combination green-and-yellow.  The nominal cross/sectional area of the earthing  conductor and of the neutral conductor, if any, shall be  at least equal to that of the phase conductors ."
+    }
+  ],
+  "tables": [
+    {
+      "number": null,
+      "caption": null,
+      "html": "<table><tbody><tr><th>Configuration Type</th><th>Standard Sheet</th><th>Applicable<br>Accessories</th><th>Rated Voltage V</th><th>Rated current A</th><th>Phase</th></tr><tr><td>2</td><td>2-II</td><td>Accessories</td><td>240</td><td>70</td><td>Single-phase</td></tr><tr><td></td><td></td><td></td><td>415</td><td>63</td><td>Three-phase</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The core connected to the earthing terminal shall be  identified by the colour combination green-and-yellow.  The nominal cross/sectional area of the earthing  conductor and of the neutral conductor, if any, shall be  at least equal to that of the phase conductors ."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "17017",
+      "2",
+      "3",
+      "9.1",
+      "Clause 9.1",
+      "clause o"
+    ],
+    "internal_resolved": [
+      "IS17017_Part2_Sec2_2020::1",
+      "IS17017_Part2_Sec2_2020::2",
+      "IS17017_Part2_Sec2_2020::3"
+    ],
+    "standards": [
+      "IS 17017"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IS17017_Part2_Sec2_2020\\11.json"
+}

@@ -1,0 +1,100 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.7.1.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.7.1.3",
+  "title": "Recommendations",
+  "parent_id": "4.3.7.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Aerial pathways should not be used to cross roads. Where there is no practicable alternative:"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the pathway should cross the road using the shortest possible route;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) stays or struts should be used to reinforce the stability of two poles adjacent to the road."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attachment of catenary wires to buildings should be:"
+    },
+    {
+      "type": "list_item",
+      "text": "1) permitted only when it is clear that the load on the fixing point will not exceed its design strength and the  structure of the building is capable of sustaining the load with a safety factor;"
+    },
+    {
+      "type": "list_item",
+      "text": "2) should be avoided in earthquake zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "The information technology cable route should be as straight as possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stays or struts, cables, closures, cabinets and accessories should be positioned in such a way to facilitate  safe access for installers and maintainers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Clause 7 provides additional recommendations for overhead routes that in close proximity to, or crossing, railways."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Aerial pathways should not be used to cross roads. Where there is no practicable alternative:"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "a) the pathway should cross the road using the shortest possible route;"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "b) stays or struts should be used to reinforce the stability of two poles adjacent to the road."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Attachment of catenary wires to buildings should be:"
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "2) should be avoided in earthquake zones."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "The information technology cable route should be as straight as possible."
+    },
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Stays or struts, cables, closures, cabinets and accessories should be positioned in such a way to facilitate  safe access for installers and maintainers."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "1",
+      "2",
+      "7",
+      "Clause 7"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::1",
+      "BS_EN_50174_3_2013::2",
+      "BS_EN_50174_3_2013::7"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.7.1.3.json"
+}

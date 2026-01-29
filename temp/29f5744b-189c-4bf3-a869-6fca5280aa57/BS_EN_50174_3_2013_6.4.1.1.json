@@ -1,0 +1,94 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.4.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.4.1.1",
+  "title": "Requirements (safety)",
+  "parent_id": "6.4.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Where there is inductive coupling, each case should be treated individually and protection is needed where  calculations or measurements show that the induced voltage exceeds the values in ITU-T K.68."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is normally possible to avoid any calculations in the following cases:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a) normal operating conditions for infrastructures below AC 30 kV r.m.s;"
+    },
+    {
+      "type": "paragraph",
+      "text": "NOTE Inductive coupling from HV DC lines may also be relevant. For infrastructures operating &gt; DC 100 kV, the residual AC  components may be in the range of AC 10 kV to 50 kV. The frequency spectrum is dependent on the rectifier system used."
+    },
+    {
+      "type": "paragraph",
+      "text": "b) fault conditions for power cables operating with a voltage below 25 kV and where the affected length of  information technology cabling is less than 5 000 m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Table 12 shows examples from ITU-T K.68 of the separation between power distribution and electrified  traction infrastructures (&gt; AC 25 kV) and information technology cabling below which calculations or  measurements are necessary and protection measures may need to be applied to the information  technology circuits."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the calculated results show it is necessary to reduce the induced voltage, it is possible to apply one or  more mitigation methods."
+    },
+    {
+      "type": "paragraph",
+      "text": "A general protective method for metallic screened cable is to earth the screen of the information technology  cabling at both ends of the cable and if necessary at some specific points along the cable. For metallic cable,  protection of inner conductors can be performed using surge protective devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other protective methods exist that are specifically for optical fibre cables or for metallic cables. To ensure  continuity of transmission for metallic cables it is possible to install isolation transformers instead of or in  combination with surge protective devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of underground cables and when the methods described above are not enough to mitigate the  induced voltage, it is possible to lay cables inside a completely closed metallic conduit which is earthed at  both ends."
+    }
+  ],
+  "tables": [
+    {
+      "number": "12",
+      "caption": "Table 12 Example of limit distances",
+      "html": "<table><tbody><tr><th>Length of affected</th><th>Soil resistivity</th><th></th><th>Overhead power supply</th><th colspan=3>Underground power supply</th></tr><tr><th>information technology<br>cabling</th><th>\u03a9m</th><th>Rural</th><th>Urban</th><th>Rural</th><th>Urban</th></tr><tr><td>Short</td><td>50</td><td>550 m</td><td>70 m</td><td>-</td><td colspan=2>-</td></tr><tr><td>(Access networks)</td><td>500</td><td colspan=2>1 700 m<br>100 m</td><td>-</td><td>-</td></tr><tr><td></td><td>5 000</td><td>5 400 m</td><td>100 m</td><td>300 m</td><td>-</td></tr><tr><td>Long</td><td>50</td><td>1 200 m</td><td>500 m</td><td>300 m</td><td>20 m</td></tr><tr><td>(Core networks)</td><td colspan=2>500</td><td>1 200 m</td><td>1 000 m</td><td>20 m</td></tr><tr><td></td><td>5 000</td><td>12 000 m</td><td>2 400 m</td><td>3 100 m</td><td>20 m</td></tr></tbody></table>"
+    }
+  ],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "recommendation",
+      "keyword": "should",
+      "text": "Where there is inductive coupling, each case should be treated individually and protection is needed where  calculations or measurements show that the induced voltage exceeds the values in ITU-T K.68."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "NOTE Inductive coupling from HV DC lines may also be relevant. For infrastructures operating &gt; DC 100 kV, the residual AC  components may be in the range of AC 10 kV to 50 kV. The frequency spectrum is dependent on the rectifier system used."
+    },
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Table 12 shows examples from ITU-T K.68 of the separation between power distribution and electrified  traction infrastructures (&gt; AC 25 kV) and information technology cabling below which calculations or  measurements are necessary and protection measures may need to be applied to the information  technology circuits."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "000",
+      "10",
+      "100",
+      "12",
+      "25",
+      "30",
+      "5",
+      "50",
+      "68",
+      "Table 12"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::5"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.4.1.1.json"
+}

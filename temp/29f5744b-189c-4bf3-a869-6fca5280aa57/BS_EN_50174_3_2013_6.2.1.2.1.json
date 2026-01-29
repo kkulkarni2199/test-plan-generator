@@ -1,0 +1,83 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::6.2.1.2.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "6.2.1.2.1",
+  "title": "Requirements (Safety)",
+  "parent_id": "6.2.1.2",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "If either the information technology cables or the power supply cables are not installed in non-conducting  conduit or duct or they are separated by a non-conducting barrier of equivalent insulating performance, the  minimum separation between information technology cables and power supply cables shall be 0,3 m (see  Figure 10)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If either the information technology cables or the power supply cables are installed in non-conducting conduit  or duct or they are separated by a non-conducting barrier of equivalent insulation performance then no  separation is required (additional to that provided by the barrier)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the information technology cables and power supply cables are required to cross (see 6.2.1.2.3):"
+    },
+    {
+      "type": "list_item",
+      "text": "a) the upper cable shall be the information technology cable;"
+    },
+    {
+      "type": "list_item",
+      "text": "b) if a minimum separation of 0,3 m is maintained at the point of crossing, the information technology cable  shall be provided with mechanical protection, extending at least 0,5 m each side of the crossing;"
+    },
+    {
+      "type": "list_item",
+      "text": "c) if a minimum separation of 0,3 m cannot be maintained at the point of crossing, both the information  technology cable and the power supply cable shall be installed within a non-conducting conduit or duct  or separated by a non-conducting barrier, extending at least 0,5 m each side of the crossing."
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\6_2_1_2_1\\figure_1_page_66_picture_2.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 24843
+    }
+  ],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "If either the information technology cables or the power supply cables are not installed in non-conducting  conduit or duct or they are separated by a non-conducting barrier of equivalent insulating performance, the  minimum separation between information technology cables and power supply cables shall be 0,3 m (see  Figure 10)."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "a) the upper cable shall be the information technology cable;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "b) if a minimum separation of 0,3 m is maintained at the point of crossing, the information technology cable  shall be provided with mechanical protection, extending at least 0,5 m each side of the crossing;"
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "c) if a minimum separation of 0,3 m cannot be maintained at the point of crossing, both the information  technology cable and the power supply cable shall be installed within a non-conducting conduit or duct  or separated by a non-conducting barrier, extending at least 0,5 m each side of the crossing."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "0",
+      "10",
+      "3",
+      "5",
+      "6.2.1.2.3",
+      "Figure 10"
+    ],
+    "internal_resolved": [
+      "BS_EN_50174_3_2013::3",
+      "BS_EN_50174_3_2013::5",
+      "BS_EN_50174_3_2013::6.2.1.2.3"
+    ],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\6.2.1.2.1.json"
+}

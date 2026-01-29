@@ -1,0 +1,56 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::5.3.1.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "5.3.1.1",
+  "title": "Requirements",
+  "parent_id": "5.3.1",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The environmental conditions under which cabling components, inspection and test equipment are stored  shall be compatible with the manufacturers'/suppliers' specifications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cabling components shall be inspected for damage following delivery. Documentation supplied with the  components shall be checked for compliance with the procurement specification and shall be retained."
+    },
+    {
+      "type": "paragraph",
+      "text": "If required by the quality plan, detailed component inspection and acceptance testing shall be undertaken as  soon as practicable. Any packaging removed to allow inspection and/or testing shall be replaced in order to  provide the required environmental and physical protection to the components."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where protective caps, or equivalent, have been used to protect components, they shall not be removed until  necessary and shall be replaced or renewed as necessary until the installation is completed."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "The environmental conditions under which cabling components, inspection and test equipment are stored  shall be compatible with the manufacturers'/suppliers' specifications."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Cabling components shall be inspected for damage following delivery. Documentation supplied with the  components shall be checked for compliance with the procurement specification and shall be retained."
+    },
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "If required by the quality plan, detailed component inspection and acceptance testing shall be undertaken as  soon as practicable. Any packaging removed to allow inspection and/or testing shall be replaced in order to  provide the required environmental and physical protection to the components."
+    },
+    {
+      "type": "prohibition",
+      "keyword": "shall not",
+      "text": "Where protective caps, or equivalent, have been used to protect components, they shall not be removed until  necessary and shall be replaced or renewed as necessary until the installation is completed."
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\5.3.1.1.json"
+}

@@ -1,0 +1,41 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::4.3.5.1",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "4.3.5.1",
+  "title": "Requirements",
+  "parent_id": "4.3.5",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Established techniques exist for the installation of cabling into existing infrastructures including sewer, gas  and drinking water pipes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Appropriate surveys shall be undertaken to ensure that the chosen solution (cables, associated fixings and  installation method):"
+    },
+    {
+      "type": "list_item",
+      "text": "a) does not produce unacceptable modification to fluid flow in the piping infrastructures (or otherwise  accelerate the development of blockages);"
+    },
+    {
+      "type": "list_item",
+      "text": "b) does not restrict the normal repair and maintenance procedures undertaken on the piping infrastructure."
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [
+    {
+      "type": "mandatory",
+      "keyword": "shall",
+      "text": "Appropriate surveys shall be undertaken to ensure that the chosen solution (cables, associated fixings and  installation method):"
+    }
+  ],
+  "references": {
+    "internal_raw": [],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\4.3.5.1.json"
+}

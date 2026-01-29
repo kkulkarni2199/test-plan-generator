@@ -1,0 +1,60 @@
+{
+  "chunk_id": "BS_EN_50174_3_2013::A.3.2.3",
+  "document_id": "BS_EN_50174_3_2013",
+  "clause_id": "A.3.2.3",
+  "title": "Installation",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "The installation guidelines for electrical isolation components for the protection of information technology  cabling from electrical surges developed by a rise of earth potential are covered in Annex B."
+    },
+    {
+      "type": "paragraph",
+      "text": "Buildings installed with an equipotential earthing system may need to install isolation transformers between  the telecommunications cable pairs end-points (terminations) and connecting equipment which have a direct  or indirect connection to the equipotential network, to prevent earth loops (see Figures A.9 and A.10). The  isolation transformer effectively supplies a 'barrier' against an end-to-end current flow (common mode). The  isolation transformer will attenuate low frequency AC currents and the degree of attenuation will depend  upon its technical characteristics."
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.9  Installation guidelines for transformers"
+    },
+    {
+      "type": "caption",
+      "text": "Figure A.10  Installation guidelines for optocouplers"
+    }
+  ],
+  "tables": [],
+  "figures": [
+    {
+      "number": 1,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_3_2_3\\figure_1_page_87_picture_2.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 53236
+    },
+    {
+      "number": 2,
+      "path": "output_images\\BS_EN_50174_3_2013\\A_3_2_3\\figure_2_page_87_picture_4.jpg",
+      "format": "jpg",
+      "caption": "",
+      "size_bytes": 83055
+    }
+  ],
+  "requirements": [
+    {
+      "type": "permission",
+      "keyword": "may",
+      "text": "Buildings installed with an equipotential earthing system may need to install isolation transformers between  the telecommunications cable pairs end-points (terminations) and connecting equipment which have a direct  or indirect connection to the equipotential network, to prevent earth loops (see Figures A.9 and A.10). The  isolation transformer effectively supplies a 'barrier' against an end-to-end current flow (common mode). The  isolation transformer will attenuate low frequency AC currents and the degree of attenuation will depend  upon its technical characteristics."
+    }
+  ],
+  "references": {
+    "internal_raw": [
+      "10",
+      "9",
+      "Annex B"
+    ],
+    "internal_resolved": [],
+    "standards": []
+  },
+  "children_ids": [],
+  "_source_file": "data\\BS_EN_50174_3_2013\\A.3.2.3.json"
+}

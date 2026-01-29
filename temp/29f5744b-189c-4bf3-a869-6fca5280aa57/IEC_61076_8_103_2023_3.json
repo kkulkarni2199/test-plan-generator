@@ -1,0 +1,56 @@
+{
+  "chunk_id": "IEC_61076_8_103_2023::3",
+  "document_id": "IEC_61076_8_103_2023",
+  "clause_id": "3",
+  "title": "Terms and definitions",
+  "parent_id": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this document, the terms and definitions given in IEC 60050-581 apply."
+    },
+    {
+      "type": "paragraph",
+      "text": "ISO and IEC maintain terminology databases for use in standardization at the following  addresses:"
+    },
+    {
+      "type": "list_item",
+      "text": "IEC Electropedia: available at https://www.electropedia.org/"
+    },
+    {
+      "type": "list_item",
+      "text": "ISO Online browsing platform: available at https://www.iso.org/obp"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour les besoins du pr\u00e9sent document, les termes et d\u00e9finitions de l'IEC 60050-581  s'appliquent."
+    },
+    {
+      "type": "paragraph",
+      "text": "L'ISO et l'IEC tiennent \u00e0 jour des bases de donn\u00e9es terminologiques destin\u00e9es \u00e0 \u00eatre utilis\u00e9es  en normalisation, consultables aux adresses suivantes:"
+    },
+    {
+      "type": "list_item",
+      "text": "IEC Electropedia: disponible \u00e0 l'adresse https://www.electropedia.org/"
+    },
+    {
+      "type": "list_item",
+      "text": "ISO Online browsing platform: disponible \u00e0 l'adresse https://www.iso.org/obp"
+    }
+  ],
+  "tables": [],
+  "figures": [],
+  "requirements": [],
+  "references": {
+    "internal_raw": [
+      "581",
+      "60050"
+    ],
+    "internal_resolved": [],
+    "standards": [
+      "IEC 60050-581"
+    ]
+  },
+  "children_ids": [],
+  "_source_file": "data\\IEC_61076_8_103_2023\\3.json"
+}
