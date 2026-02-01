@@ -61,14 +61,26 @@ def test_workflow():
     # 3. Retrieval Query
     print("\n3. Testing Retrieval...")
     component_profile = {
-        "name": "DC Port",
-        "type": "DC Port",
+        "name": "dc port",
+        "type": "Testing",
         "application": "Automotive",
-        "variants": ["Standard"],
+        "variants": [],
         "test_level": "Component",
-        "applicable_standards": [""],
-        "test_categories": ["emc"],
-        "quantity_per_test": {"Standard": 5}
+        "applicable_standards": [
+            "BS EN 50121-4_2016",
+            "BS EN 55032_2015",
+            "IS17017_Part2_Sec2_2020",
+            "cold",
+            "damp-cyclic"
+        ],
+        "test_categories": [
+            "durability",
+            "electrical",
+            "emc",
+            "environmental"
+        ],
+        "quantity_per_test": {},
+        "specifications": {}
     }
     
     query_payload = {
@@ -166,7 +178,7 @@ def test_workflow():
         dvp_result = wait_for_job("/api/v1/dvp", dvp_job_id, "DVP Generation")
         
         final_result = dvp_result.get("result", {})
-        print(f"\nDVP Generated successfully!")
+        print(f"\nTest Plan Generated successfully!")
         print(f"File path: {final_result.get('file_path')}")
         print(f"Download URL: /api/v1/dvp/download/{final_result.get('dvp_id')}")
     except Exception as e:
