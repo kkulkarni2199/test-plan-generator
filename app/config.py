@@ -20,11 +20,16 @@ class Settings(BaseSettings):
     external_api_key: Optional[str] = None
 
     # LLM Configuration
+    llm_provider: str = "openai"  # "openai" or "gemini"
     openai_api_key: Optional[str] = "not-needed"  # Local model doesn't need key
-    openai_api_base: str = "http://172.21.224.1:1234/v1"  # Local LLM server
+    openai_api_base: str = "http://localhost:1234/v1"  # Local LLM server
     openai_model: str = "qwen/qwen3-vl-4b"  # Local Qwen model
     openai_temperature: float = 0.2
     openai_max_tokens: int = 4096
+
+    # Google Gemini Configuration
+    gemini_api_key: Optional[str] = None
+    gemini_model: str = "gemini-3-flash-preview"
 
     # Database
     database_url: str = "sqlite+aiosqlite:///./knowledge_graph.db"

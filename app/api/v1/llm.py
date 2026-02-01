@@ -16,6 +16,7 @@ from app.models.api_models import (
 )
 from app.config import settings
 from loguru import logger
+from google import genai
 
 router = APIRouter()
 
@@ -26,8 +27,17 @@ llm_jobs = {}
 llm_client = None
 
 def get_llm_client():
-    """Get or create LLM client - supports local models via OpenAI-compatible API"""
+    """Get or create LLM client - supports local models (OpenAI) and Google Gemini"""
     global llm_client
+    
+    if settings.llm_provider == "gemini":
+        if not settings.gemini_api_key:
+            logger.error("Gemini API key not configured")
+            return None
+        # For the new SDK, we'll return a Client instance
+        client = genai.Client(api_key=settings.gemini_api_key)
+        return client
+        
     if llm_client is None:
         from openai import OpenAI
         # Use local LLM server (OpenAI-compatible API)
@@ -106,19 +116,34 @@ async def process_llm_generation(job_id: str, request: LLMGenerationRequest):
                     request.component_profile.model_dump()
                 )
 
-                # Call LLM (local model - may not support response_format)
-                response = client.chat.completions.create(
-                    model=settings.openai_model,
-                    messages=[
-                        {"role": "system", "content": "You are an expert automotive test engineer. Always respond with valid JSON only."},
-                        {"role": "user", "content": prompt}
-                    ],
-                    temperature=settings.openai_temperature,
-                    max_tokens=settings.openai_max_tokens
-                )
-
-                # Parse response - handle potential non-JSON content from local models
-                content = response.choices[0].message.content
+                if settings.llm_provider == "gemini":
+                    # Call Gemini using the new SDK
+                    # client is the genai.Client returned by get_llm_client()
+                    full_prompt = f"System: You are an expert automotive test engineer. Always respond with valid JSON only.\n\nUser: {prompt}"
+                    
+                    response = client.models.generate_content(
+                        model=settings.gemini_model,
+                        contents=full_prompt,
+                        config={
+                            'temperature': settings.openai_temperature,
+                            'max_output_tokens': settings.openai_max_tokens,
+                        }
+                    )
+                    content = response.text
+                    tokens = getattr(response, 'usage_metadata', None).total_token_count if getattr(response, 'usage_metadata', None) else 0
+                else:
+                    # Call OpenAI (local model)
+                    response = client.chat.completions.create(
+                        model=settings.openai_model,
+                        messages=[
+                            {"role": "system", "content": "You are an expert automotive test engineer. Always respond with valid JSON only."},
+                            {"role": "user", "content": prompt}
+                        ],
+                        temperature=settings.openai_temperature,
+                        max_tokens=settings.openai_max_tokens
+                    )
+                    content = response.choices[0].message.content
+                    tokens = response.usage.total_tokens
                 # Try to extract JSON from the response
                 try:
                     procedure_data = json.loads(content)
@@ -148,7 +173,7 @@ async def process_llm_generation(job_id: str, request: LLMGenerationRequest):
                     })
 
                 # Count tokens
-                total_tokens += response.usage.total_tokens
+                total_tokens += tokens
 
                 # Update progress
                 llm_jobs[job_id]['current_step'] = f'Generating test procedures ({idx+1}/{len(results_to_process)})'
@@ -222,11 +247,16 @@ async def generate_test_procedures(
     - Acceptance criteria
     - Token usage and cost
     """
-    # Local model configured - no API key needed
-    if not settings.openai_api_base:
+    # Check configuration
+    if settings.llm_provider == "openai" and not settings.openai_api_base:
         raise HTTPException(
             status_code=500,
-            detail="LLM API base URL not configured. Set openai_api_base in config."
+            detail="LLM API base URL not configured for OpenAI provider."
+        )
+    elif settings.llm_provider == "gemini" and not settings.gemini_api_key:
+        raise HTTPException(
+            status_code=500,
+            detail="Google API key not configured for Gemini provider."
         )
 
     job_id = str(uuid.uuid4())
@@ -304,11 +334,16 @@ async def generate_simple_test_procedure(
     **Returns:**
     - Generated test procedure (immediate response)
     """
-    # Local model configured - no API key needed
-    if not settings.openai_api_base:
+    # Check configuration
+    if settings.llm_provider == "openai" and not settings.openai_api_base:
         raise HTTPException(
             status_code=500,
             detail="LLM API base URL not configured"
+        )
+    elif settings.llm_provider == "gemini" and not settings.gemini_api_key:
+        raise HTTPException(
+            status_code=500,
+            detail="Google API key not configured"
         )
 
     try:
@@ -326,17 +361,30 @@ Provide a JSON response with:
 - detailed_procedure
 - acceptance_criteria"""
 
-        response = client.chat.completions.create(
-            model=settings.openai_model,
-            messages=[
-                {"role": "system", "content": "You are an automotive test engineer. Always respond with valid JSON only."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.2,
-            max_tokens=1000
-        )
-
-        content = response.choices[0].message.content
+        if settings.llm_provider == "gemini":
+            full_prompt = f"System: You are an automotive test engineer. Always respond with valid JSON only.\n\nUser: {prompt}"
+            response = client.models.generate_content(
+                model=settings.gemini_model,
+                contents=full_prompt,
+                config={
+                    'temperature': 0.2,
+                    'max_output_tokens': 1000,
+                }
+            )
+            content = response.text
+            tokens = getattr(response, 'usage_metadata', None).total_token_count if getattr(response, 'usage_metadata', None) else 0
+        else:
+            response = client.chat.completions.create(
+                model=settings.openai_model,
+                messages=[
+                    {"role": "system", "content": "You are an automotive test engineer. Always respond with valid JSON only."},
+                    {"role": "user", "content": prompt}
+                ],
+                temperature=0.2,
+                max_tokens=1000
+            )
+            content = response.choices[0].message.content
+            tokens = response.usage.total_tokens
         # Try to extract JSON from the response
         try:
             result = json.loads(content)
@@ -350,8 +398,8 @@ Provide a JSON response with:
 
         return {
             "test_procedure": result,
-            "tokens_used": response.usage.total_tokens,
-            "model": settings.openai_model
+            "tokens_used": tokens,
+            "model": settings.gemini_model if settings.llm_provider == "gemini" else settings.openai_model
         }
 
     except Exception as e:

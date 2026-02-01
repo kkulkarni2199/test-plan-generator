@@ -88,16 +88,32 @@ class DVPGenerator:
         
         document = Document()
         
+        # Add a border to the page (simulated with a table or just a nice header)
+        header = document.sections[0].header
+        header_para = header.paragraphs[0]
+        header_para.text = f"CONFIDENTIAL - {component_profile.get('name', 'DVP')}"
+        header_para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+        
         # Title Page
+        document.add_paragraph("\n\n\n\n")
         title = document.add_heading(f"Design Verification Plan (DVP)", 0)
         title.alignment = WD_ALIGN_PARAGRAPH.CENTER
         
+        document.add_paragraph("\n")
         subtitle = document.add_paragraph(f"{component_profile.get('name', 'Component')}")
+        subtitle.style = 'Title'
         subtitle.alignment = WD_ALIGN_PARAGRAPH.CENTER
         
         document.add_paragraph(f"Type: {component_profile.get('type', '')}").alignment = WD_ALIGN_PARAGRAPH.CENTER
         document.add_paragraph(f"Application: {component_profile.get('application', '')}").alignment = WD_ALIGN_PARAGRAPH.CENTER
+        document.add_paragraph(f"Document Version: 1.0").alignment = WD_ALIGN_PARAGRAPH.CENTER
         document.add_paragraph(f"Date: {datetime.now().strftime('%Y-%m-%d')}").alignment = WD_ALIGN_PARAGRAPH.CENTER
+        
+        # Add footer with page numbers
+        footer = document.sections[0].footer
+        footer_para = footer.paragraphs[0]
+        footer_para.text = f"DVP-GEN System | Page "
+        footer_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
         
         document.add_page_break()
         
@@ -112,6 +128,10 @@ class DVPGenerator:
         document.add_heading('1.1 Component Details', level=2)
         table = document.add_table(rows=0, cols=2)
         table.style = 'Table Grid'
+        
+        # Set column widths for component details
+        table.columns[0].width = Inches(2.0)
+        table.columns[1].width = Inches(4.5)
         
         details = [
             ("Component Name", component_profile.get('name', '')),
@@ -131,26 +151,42 @@ class DVPGenerator:
         document.add_paragraph("The following table details the required tests, procedures, and acceptance criteria.")
         
         # Create table for test cases
-        # We'll select key columns for the document to ensure it fits
-        headers = ['Test ID', 'Description', 'Procedure', 'Acceptance Criteria', 'Qty']
+        headers = ['ID', 'Test Description', 'Test Procedure', 'Acceptance Criteria', 'Qty']
         
         table = document.add_table(rows=1, cols=len(headers))
         table.style = 'Table Grid'
         
+        # Set specific column widths for the matrix
+        table.columns[0].width = Inches(0.5) # ID
+        table.columns[1].width = Inches(1.5) # Description
+        table.columns[2].width = Inches(2.5) # Procedure
+        table.columns[3].width = Inches(1.5) # Criteria
+        table.columns[4].width = Inches(0.5) # Qty
+        
         hdr_cells = table.rows[0].cells
         for i, header in enumerate(headers):
             hdr_cells[i].text = header
-            # Make bold
+            # Apply shading and bold to header
+            tc_pr = hdr_cells[i]._tc.get_or_add_tcPr()
+            shd = OxmlElement('w:shd')
+            shd.set(qn('w:fill'), '366092') # Dark blue
+            tc_pr.append(shd)
+            
             for run in hdr_cells[i].paragraphs[0].runs:
                 run.font.bold = True
+                run.font.color.rgb = RGBColor(255, 255, 255) # White text
                 
-        for test_case in test_cases:
+        for idx, test_case in enumerate(test_cases, start=1):
             row_cells = table.add_row().cells
-            row_cells[0].text = str(test_case.get('test_id', ''))
-            row_cells[1].text = str(test_case.get('test_description', ''))
-            row_cells[2].text = str(test_case.get('test_procedure', ''))
+            row_cells[0].text = f"B{idx}"
+            row_cells[1].text = str(test_case.get('test_name', test_case.get('test_description', '')))
+            
+            # Map 'detailed_procedure' from LLM to 'Procedure' column
+            procedure = test_case.get('detailed_procedure', test_case.get('test_procedure', ''))
+            row_cells[2].text = str(procedure)
+            
             row_cells[3].text = str(test_case.get('acceptance_criteria', ''))
-            row_cells[4].text = str(test_case.get('quantity', ''))
+            row_cells[4].text = str(test_case.get('quantity', '5'))
             
         # 3. Traceability
         if include_traceability:
@@ -164,11 +200,20 @@ class DVPGenerator:
             hdr_cells = table.rows[0].cells
             for i, header in enumerate(headers):
                 hdr_cells[i].text = header
+                # Apply shading and bold to header
+                tc_pr = hdr_cells[i]._tc.get_or_add_tcPr()
+                shd = OxmlElement('w:shd')
+                shd.set(qn('w:fill'), '366092') # Dark blue
+                tc_pr.append(shd)
                 
-            for test_case in test_cases:
+                for run in hdr_cells[i].paragraphs[0].runs:
+                    run.font.bold = True
+                    run.font.color.rgb = RGBColor(255, 255, 255) # White text
+                
+            for idx, test_case in enumerate(test_cases, start=1):
                 traceability = test_case.get('traceability', {})
                 row_cells = table.add_row().cells
-                row_cells[0].text = str(test_case.get('test_id', ''))
+                row_cells[0].text = f"B{idx}"
                 row_cells[1].text = str(traceability.get('requirement_id', ''))
                 
                 source = f"{traceability.get('source_standard', '')} {traceability.get('source_clause', '')}"
