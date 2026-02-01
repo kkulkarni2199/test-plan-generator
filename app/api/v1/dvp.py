@@ -141,6 +141,11 @@ class PTPGenerator:
             ("Variants", ", ".join(component_profile.get('variants', [])))
         ]
         
+        # Add specifications to the details list
+        specs = component_profile.get('specifications', {})
+        for spec_name, spec_value in specs.items():
+            details.append((spec_name.capitalize(), str(spec_value)))
+        
         for key, value in details:
             row_cells = table.add_row().cells
             row_cells[0].text = key

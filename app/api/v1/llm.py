@@ -60,6 +60,7 @@ Component Under Test:
 - Type: {component_profile.get('type', 'Unknown')}
 - Application: {component_profile.get('application', 'Unknown')}
 - Test Level: {component_profile.get('test_level', 'Unknown')}
+- Specifications: {json.dumps(component_profile.get('specifications', {}), indent=2)}
 
 Requirement Information:
 {json.dumps(requirement, indent=2)}

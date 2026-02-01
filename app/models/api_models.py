@@ -57,19 +57,27 @@ class ComponentProfileRequest(BaseModel):
     test_level: str = Field(..., description="Test level (PCB, System, etc.)")
     applicable_standards: List[str] = Field(..., description="List of applicable standards")
     test_categories: List[TestCategory] = Field(..., description="Test categories to include")
-    quantity_per_test: Dict[str, int] = Field(..., description="Sample quantities")
+    quantity_per_test: Dict[str, int] = Field(default_factory=dict, description="Sample quantities")
+    specifications: Dict[str, str] = Field(default_factory=dict, description="Product specifications")
 
     class Config:
         json_schema_extra = {
             "example": {
-                "name": "W601 Tail Lamp LED Module",
-                "type": "LED Module",
-                "application": "automotive tail lamp",
-                "variants": ["High+", "High"],
-                "test_level": "PCB level",
-                "applicable_standards": ["ISO 16750-3", "ISO 16750-4", "IEC 60068"],
-                "test_categories": ["thermal", "mechanical", "environmental"],
-                "quantity_per_test": {"RH": 3, "LH": 3}
+                "name": "Transformer",
+                "type": "Testing",
+                "application": "Telecommunication, Medical",
+                "variants": [],
+                "test_level": "Component",
+                "specifications": {
+                    "voltage": "12",
+                    "frequency": "240",
+                    "current": "6",
+                    "weight": "200",
+                    "dimensions": "6x7x8 mm"
+                },
+                "applicable_standards": ["esd", "radiated", "dry-heat"],
+                "test_categories": ["electrical", "environmental", "emc"],
+                "quantity_per_test": {}
             }
         }
 
