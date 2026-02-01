@@ -53,7 +53,7 @@ def generate_test_procedure_prompt(requirement: Dict[str, Any],
     """
     Generate prompt for test procedure creation
     """
-    prompt = f"""You are a test engineer creating a Design Verification Plan (DVP) for automotive components.
+    prompt = f"""You are a test engineer creating a Product Testing Plan (PTP) for automotive components.
 
 Component Under Test:
 - Name: {component_profile.get('name', 'Component')}

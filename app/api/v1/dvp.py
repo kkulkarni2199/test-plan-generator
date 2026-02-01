@@ -1,6 +1,6 @@
 """
-Endpoint 5 & 6: DVP Document Generation and Download
-Generates Excel DVP matching reference format
+Endpoint 5 & 6: PTP Document Generation and Download
+Generates Excel and Word PTP matching industry standards
 """
 from fastapi import APIRouter, HTTPException, BackgroundTasks
 from fastapi.responses import FileResponse
@@ -33,21 +33,21 @@ router = APIRouter()
 dvp_jobs = {}
 generated_dvps = {}  # Store DVP metadata
 
-class DVPGenerator:
+class PTPGenerator:
     """
-    Generates DVP Excel document matching reference format
+    Generates PTP documents matching reference format
     """
 
     def __init__(self):
         self.workbook = None
 
-    def generate_dvp(self, component_profile: Dict[str, Any],
+    def generate_ptp(self, component_profile: Dict[str, Any],
                     test_cases: List[Dict[str, Any]],
                     include_traceability: bool = True) -> str:
         """
-        Generate complete DVP Excel document
+        Generate complete PTP Excel document
         """
-        logger.info(f"Generating DVP for: {component_profile.get('name')}")
+        logger.info(f"Generating PTP for: {component_profile.get('name')}")
 
         # Create workbook
         self.workbook = Workbook()
@@ -56,7 +56,7 @@ class DVPGenerator:
         if 'Sheet' in self.workbook.sheetnames:
             del self.workbook['Sheet']
 
-        # Sheet 1: Annex B - Test Matrix
+        # Sheet 1: PTP - Test Matrix
         self._create_test_matrix_sheet(component_profile, test_cases)
 
         # Sheet 2: Test Sequence
@@ -70,33 +70,33 @@ class DVPGenerator:
         self._create_references_sheet(test_cases)
 
         # Save file
-        output_filename = f"DVP_{component_profile.get('name', 'Component').replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
+        output_filename = f"PTP_{component_profile.get('name', 'Component').replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.xlsx"
         output_path = Path(settings.output_dir) / output_filename
 
         self.workbook.save(str(output_path))
-        logger.info(f"DVP saved to: {output_path}")
+        logger.info(f"PTP saved to: {output_path}")
 
         return str(output_path)
 
-    def generate_dvp_docx(self, component_profile: Dict[str, Any],
+    def generate_ptp_docx(self, component_profile: Dict[str, Any],
                          test_cases: List[Dict[str, Any]],
                          include_traceability: bool = True) -> str:
         """
-        Generate descriptive DVP Word document
+        Generate descriptive PTP Word document
         """
-        logger.info(f"Generating DVP Docx for: {component_profile.get('name')}")
+        logger.info(f"Generating PTP Docx for: {component_profile.get('name')}")
         
         document = Document()
         
         # Add a border to the page (simulated with a table or just a nice header)
         header = document.sections[0].header
         header_para = header.paragraphs[0]
-        header_para.text = f"CONFIDENTIAL - {component_profile.get('name', 'DVP')}"
+        header_para.text = f"CONFIDENTIAL - {component_profile.get('name', 'PTP')}"
         header_para.alignment = WD_ALIGN_PARAGRAPH.RIGHT
         
         # Title Page
         document.add_paragraph("\n\n\n\n")
-        title = document.add_heading(f"Design Verification Plan (DVP)", 0)
+        title = document.add_heading(f"Product Testing Plan (PTP)", 0)
         title.alignment = WD_ALIGN_PARAGRAPH.CENTER
         
         document.add_paragraph("\n")
@@ -112,7 +112,7 @@ class DVPGenerator:
         # Add footer with page numbers
         footer = document.sections[0].footer
         footer_para = footer.paragraphs[0]
-        footer_para.text = f"DVP-GEN System | Page "
+        footer_para.text = f"PTP-GEN System | Page "
         footer_para.alignment = WD_ALIGN_PARAGRAPH.CENTER
         
         document.add_page_break()
@@ -120,8 +120,8 @@ class DVPGenerator:
         # 1. Introduction
         document.add_heading('1. Introduction', level=1)
         document.add_paragraph(
-            f"This document outlines the Design Verification Plan for the {component_profile.get('name')} {component_profile.get('type')}. "
-            f"The purpose of this plan is to verify that the component meets all specified requirements for {component_profile.get('application')} application."
+            f"This document outlines the Product Testing Plan for the {component_profile.get('name')} {component_profile.get('type')}. "
+            f"The purpose of this plan is to define the testing strategy and procedures to verify that the product meets all specified requirements for {component_profile.get('application')} application."
         )
         
         # 1.1 Component Details
@@ -193,7 +193,7 @@ class DVPGenerator:
             document.add_heading('3. Requirement Traceability', level=1)
             document.add_paragraph("This section maps test cases to source requirements.")
             
-            headers = ['Test ID', 'Requirement ID', 'Source Standard']
+            headers = ['ID', 'Requirement ID', 'Source Standard']
             table = document.add_table(rows=1, cols=len(headers))
             table.style = 'Table Grid'
             
@@ -235,20 +235,20 @@ class DVPGenerator:
             document.add_paragraph(ref, style='List Bullet')
             
         # Save file
-        output_filename = f"DVP_Doc_{component_profile.get('name', 'Component').replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.docx"
+        output_filename = f"PTP_Doc_{component_profile.get('name', 'Component').replace(' ', '_')}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.docx"
         output_path = Path(settings.output_dir) / output_filename
         
         document.save(str(output_path))
-        logger.info(f"DVP Document saved to: {output_path}")
+        logger.info(f"PTP Document saved to: {output_path}")
         
         return str(output_path)
 
     def _create_test_matrix_sheet(self, component_profile: Dict[str, Any],
                                   test_cases: List[Dict[str, Any]]):
         """
-        Create main test matrix sheet (Annex B format)
+        Create main test matrix sheet
         """
-        ws = self.workbook.create_sheet("Annex B-Electronics DVP", 0)
+        ws = self.workbook.create_sheet("PTP - Test Matrix", 0)
 
         # Header section
         ws['A1'] = f"PROJECT NAME: {component_profile.get('name', 'Component')}"
@@ -291,8 +291,8 @@ class DVPGenerator:
             ws.cell(row=row_idx, column=4).value = test_case.get('test_procedure', '')
             ws.cell(row=row_idx, column=5).value = test_case.get('acceptance_criteria', '')
             ws.cell(row=row_idx, column=6).value = test_case.get('test_responsibility', 'Supplier')
-            ws.cell(row=row_idx, column=7).value = test_case.get('test_stage', 'DVP')
-            ws.cell(row=row_idx, column=8).value = test_case.get('quantity', '')
+            ws.cell(row=row_idx, column=7).value = test_case.get('test_stage', 'PTP')
+            ws.cell(row=row_idx, column=8).value = test_case.get('quantity', '5')
             ws.cell(row=row_idx, column=9).value = test_case.get('estimated_days', 5)
             ws.cell(row=row_idx, column=10).value = ''  # Start date
             ws.cell(row=row_idx, column=11).value = ''  # End date
@@ -322,7 +322,7 @@ class DVPGenerator:
         """
         Create test sequence sheet
         """
-        ws = self.workbook.create_sheet("EMC & ENV TEST SEQUENCE", 1)
+        ws = self.workbook.create_sheet("TEST SEQUENCE", 1)
 
         ws['A1'] = "TEST SEQUENCE"
         ws['A1'].font = Font(bold=True, size=14)
@@ -362,7 +362,7 @@ class DVPGenerator:
 
         # Headers
         headers = [
-            'Test ID',
+            'ID',
             'Test Description',
             'Requirement ID',
             'Source Clause',
@@ -380,10 +380,10 @@ class DVPGenerator:
 
         # Data rows
         row_idx = 2
-        for test_case in test_cases:
+        for idx, test_case in enumerate(test_cases, start=1):
             traceability = test_case.get('traceability', {})
 
-            ws.cell(row=row_idx, column=1).value = test_case.get('test_id', '')
+            ws.cell(row=row_idx, column=1).value = f"B{idx}"
             ws.cell(row=row_idx, column=2).value = test_case.get('test_description', '')
             ws.cell(row=row_idx, column=3).value = traceability.get('requirement_id', '')
             ws.cell(row=row_idx, column=4).value = traceability.get('source_clause', '')
@@ -425,25 +425,25 @@ class DVPGenerator:
 
 async def process_dvp_generation(job_id: str, request: DVPGenerationRequest):
     """
-    Background task for DVP generation
+    Background task for PTP generation
     """
     try:
         dvp_jobs[job_id]['status'] = JobStatus.PROCESSING
-        dvp_jobs[job_id]['current_step'] = 'Generating DVP document'
+        dvp_jobs[job_id]['current_step'] = 'Generating PTP document'
         dvp_jobs[job_id]['progress_percent'] = 20.0
 
-        generator = DVPGenerator()
+        generator = PTPGenerator()
         
         output_format = request.output_format.lower()
         if output_format == 'docx' or output_format == 'doc':
-             output_path = generator.generate_dvp_docx(
+             output_path = generator.generate_ptp_docx(
                 component_profile=request.component_profile.model_dump(),
                 test_cases=request.test_cases,
                 include_traceability=request.include_traceability_sheet
             )
         else:
             # Default to xlsx
-            output_path = generator.generate_dvp(
+            output_path = generator.generate_ptp(
                 component_profile=request.component_profile.model_dump(),
                 test_cases=request.test_cases,
                 include_traceability=request.include_traceability_sheet
@@ -452,10 +452,10 @@ async def process_dvp_generation(job_id: str, request: DVPGenerationRequest):
         # Get file size
         file_size = Path(output_path).stat().st_size
 
-        # Create DVP ID
+        # Create PTP ID
         dvp_id = Path(output_path).stem
 
-        # Store DVP metadata
+        # Store PTP metadata
         generated_dvps[dvp_id] = {
             'dvp_id': dvp_id,
             'file_path': output_path,
@@ -476,10 +476,10 @@ async def process_dvp_generation(job_id: str, request: DVPGenerationRequest):
             'test_cases_count': len(request.test_cases)
         }
 
-        logger.info(f"DVP generation job {job_id} completed: {dvp_id}")
+        logger.info(f"PTP generation job {job_id} completed: {dvp_id}")
 
     except Exception as e:
-        logger.exception(f"DVP generation job {job_id} failed: {e}")
+        logger.exception(f"PTP generation job {job_id} failed: {e}")
         dvp_jobs[job_id]['status'] = JobStatus.FAILED
         dvp_jobs[job_id]['error'] = str(e)
 
@@ -491,27 +491,27 @@ async def generate_dvp_document(
     background_tasks: BackgroundTasks
 ):
     """
-    **Endpoint 5: Generate DVP Document**
+    **Endpoint 5: Generate PTP Document**
 
-    Creates complete DVP document (Excel or Word) matching reference format.
+    Creates complete PTP document (Excel or Word) matching industry standards.
 
     **Sheets Generated (Excel):**
-    1. Annex B - Electronics DVP (main test matrix)
+    1. PTP - Test Matrix (main test matrix)
     2. EMC & ENV TEST SEQUENCE (test grouping)
     3. Traceability Matrix (requirement → test mapping)
     4. Source References (standards cited)
 
     **Format:**
     - Excel .xlsx format
-    - Word .docx format (Descriptive Test Plan)
-    - Matches reference DVP layout
+    - Word .docx format (Product Testing Plan)
+    - Matches industrial PTP layout
     - Includes styling and formatting
-    - Ready for use by test engineers
+    - Ready for use by quality engineers
 
     **Parameters:**
     - component_profile: Component specifications
     - test_cases: Generated test cases from LLM
-    - output_format: xlsx (json, pdf future)
+    - output_format: xlsx or docx
     - include_traceability_sheet: Include traceability
 
     **Example:**
@@ -519,7 +519,7 @@ async def generate_dvp_document(
     {
         "component_profile": {...},
         "test_cases": [...],
-        "output_format": "xlsx",
+        "output_format": "docx",
         "include_traceability_sheet": true
     }
     ```
@@ -553,7 +553,7 @@ async def generate_dvp_document(
         job_id=job_id,
         dvp_id="",  # Will be set when completed
         status=JobStatus.PENDING,
-        message="DVP generation started. Use /dvp/status/{job_id} to check progress.",
+        message="PTP generation started. Use /dvp/status/{job_id} to check progress.",
         download_url="",
         file_size_bytes=0,
         test_cases_count=len(request.test_cases),
@@ -565,14 +565,7 @@ async def generate_dvp_document(
 @router.get("/status/{job_id}", response_model=JobStatusResponse)
 async def get_dvp_generation_status(job_id: str):
     """
-    **Check DVP generation job status**
-
-    **Parameters:**
-    - job_id: Job ID from /generate endpoint
-
-    **Returns:**
-    - Current status and progress
-    - DVP ID and download URL when completed
+    **Check PTP generation job status**
     """
     if job_id not in dvp_jobs:
         raise HTTPException(status_code=404, detail=f"Job {job_id} not found")
@@ -584,7 +577,7 @@ async def get_dvp_generation_status(job_id: str):
         status=job['status'],
         progress_percent=job.get('progress_percent', 0.0),
         current_step=job.get('current_step', 'Unknown'),
-        message=f"DVP generation: {job.get('current_step', 'Processing')}",
+        message=f"PTP generation: {job.get('current_step', 'Processing')}",
         result=job.get('result') if job['status'] == JobStatus.COMPLETED else None,
         error=job.get('error')
     )
@@ -592,24 +585,18 @@ async def get_dvp_generation_status(job_id: str):
 @router.get("/download/{dvp_id}")
 async def download_dvp(dvp_id: str):
     """
-    **Endpoint 6: Download Generated DVP**
+    **Endpoint 6: Download Generated PTP**
 
-    Download the Excel DVP document.
-
-    **Parameters:**
-    - dvp_id: DVP ID from generation response
-
-    **Returns:**
-    - Excel file download
+    Download the Excel or Word PTP document.
     """
     if dvp_id not in generated_dvps:
-        raise HTTPException(status_code=404, detail=f"DVP {dvp_id} not found")
+        raise HTTPException(status_code=404, detail=f"PTP {dvp_id} not found")
 
     dvp_metadata = generated_dvps[dvp_id]
     file_path = dvp_metadata['file_path']
 
     if not Path(file_path).exists():
-        raise HTTPException(status_code=404, detail="DVP file not found on disk")
+        raise HTTPException(status_code=404, detail="PTP file not found on disk")
 
     return FileResponse(
         path=file_path,
@@ -620,15 +607,13 @@ async def download_dvp(dvp_id: str):
 @router.get("/list")
 async def list_generated_dvps():
     """
-    **List all generated DVPs**
-
-    Returns a list of all DVP documents with metadata.
+    **List all generated PTPs**
     """
     return {
-        "total_dvps": len(generated_dvps),
-        "dvps": [
+        "total_ptps": len(generated_dvps),
+        "ptps": [
             {
-                "dvp_id": dvp_id,
+                "ptp_id": dvp_id,
                 "component_name": metadata['component_name'],
                 "test_cases_count": metadata['test_cases_count'],
                 "file_size_bytes": metadata['file_size_bytes'],
@@ -642,15 +627,10 @@ async def list_generated_dvps():
 @router.delete("/delete/{dvp_id}")
 async def delete_dvp(dvp_id: str):
     """
-    **Delete a generated DVP**
-
-    Removes the DVP file and metadata.
-
-    **Parameters:**
-    - dvp_id: DVP ID to delete
+    **Delete a generated PTP**
     """
     if dvp_id not in generated_dvps:
-        raise HTTPException(status_code=404, detail=f"DVP {dvp_id} not found")
+        raise HTTPException(status_code=404, detail=f"PTP {dvp_id} not found")
 
     dvp_metadata = generated_dvps[dvp_id]
     file_path = Path(dvp_metadata['file_path'])
@@ -663,6 +643,6 @@ async def delete_dvp(dvp_id: str):
     del generated_dvps[dvp_id]
 
     return {
-        "message": f"DVP {dvp_id} deleted successfully",
-        "dvp_id": dvp_id
+        "message": f"PTP {dvp_id} deleted successfully",
+        "ptp_id": dvp_id
     }

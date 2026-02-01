@@ -61,13 +61,13 @@ def test_workflow():
     # 3. Retrieval Query
     print("\n3. Testing Retrieval...")
     component_profile = {
-        "name": "Automotive LED Module",
-        "type": "LED Light Source",
-        "application": "Headlamp",
+        "name": "DC Port",
+        "type": "DC Port",
+        "application": "Automotive",
         "variants": ["Standard"],
         "test_level": "Component",
-        "applicable_standards": ["ISO 16750-4", "IEC 60068"],
-        "test_categories": ["thermal", "environmental"],
+        "applicable_standards": [""],
+        "test_categories": ["emc"],
         "quantity_per_test": {"Standard": 5}
     }
     
@@ -150,7 +150,7 @@ def test_workflow():
         }]
 
     # 5. DVP Generation
-    print("\n5. Generating DVP Document...")
+    print("\n5. Generating Test Plan Document...")
     dvp_payload = {
         "component_profile": component_profile,
         "test_cases": test_cases,
